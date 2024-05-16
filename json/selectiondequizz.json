@@ -91,7 +91,7 @@
   },
   {
     "titre": "PHP",
-    "image": "./img/PHP.jpg",
+    "image": "./img/php.jpg",
     "levels": [
       {
         "name": "Débutant"
@@ -1112,6 +1112,21 @@
   {
     "titre": " Tubes des Années 80",
     "image": "./img/tubes80.jpg",
+    "levels": [
+      {
+        "name": "Débutant"
+      },
+      {
+        "name": "Confirmé"
+      },
+      {
+        "name": "Expert"
+      }
+    ]
+  },
+  {
+    "titre": "Serie US",
+    "image": "./img/seriesus.jpg",
     "levels": [
       {
         "name": "Débutant"
