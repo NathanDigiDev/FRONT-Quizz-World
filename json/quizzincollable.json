@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "difficulté": "2 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Combien y a-t-il de mois de 31 jours dans une année ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Six",
+          "Sept"
+        ],
+        "réponse": "Sept",
+        "anecdote": "Chez les Bretons, à la conquête romaine, le temps humain s'est calqué sur l'agriculture et les mois duraient ainsi 28 jours."
+      },
+      {
+        "id": 2,
+        "question": "Avec quel pays la Suisse partage-t-elle la plus longue frontière ?",
+        "propositions": [
+          "Allemagne",
+          "France",
+          "Luxembourg",
+          "Belgique"
+        ],
+        "réponse": "France",
+        "anecdote": "La Suisse est bordée par l'Italie au sud, la France à l'ouest, l'Allemagne au nord, l'Autriche et le Liechtenstein à l'est."
+      },
+      {
+        "id": 3,
+        "question": "Quelle couleur peut être associée à une fièvre, un nain ou un rire ?",
+        "propositions": [
+          "Rouge",
+          "Bleue",
+          "Orange",
+          "Jaune"
+        ],
+        "réponse": "Jaune",
+        "anecdote": "La fièvre jaune est longtemps restée un obstacle à la colonisation de l'Amérique du Sud mais également de l'Afrique."
+      },
+      {
+        "id": 4,
+        "question": "Quel est le point commun entre une tente, un gréviste et une punition ?",
+        "propositions": [
+          "Ficelle",
+          "Crochet",
+          "Piquet",
+          "Toile"
+        ],
+        "réponse": "Piquet",
+        "anecdote": "Un piquet de grève peut avoir plusieurs objets, mais c'est généralement dans le but de faire pression contre la direction."
+      },
+      {
+        "id": 5,
+        "question": "Quel récipient conçu pour recevoir des liquides désigne aussi le ventre des enfants ?",
+        "propositions": [
+          "Bol",
+          "Verre",
+          "Bouteille",
+          "Bidon"
+        ],
+        "réponse": "Bidon",
+        "anecdote": "Le bidon s'apparente parfois à un tonneau ou à une bouteille, et dispose d'un goulot ou d'un couvercle de fermeture."
+      },
+      {
+        "id": 6,
+        "question": "Quel chanteur français a vendu sept millions de 33 tours du « Lac du Connemara » ?",
+        "propositions": [
+          "Pierre Bachelet",
+          "Jacques Brel",
+          "Gérard Lenorman",
+          "Michel Sardou"
+        ],
+        "réponse": "Michel Sardou",
+        "anecdote": "Jugeant la chanson trop longue (plus de 6 minutes), Michel Sardou ne voulait pas la sortir, mais Jacques Revaux la gardera."
+      },
+      {
+        "id": 7,
+        "question": "Quel fruit le Frère Clément a-t-il créé en 1900 pour notre plus grand bonheur ?",
+        "propositions": [
+          "Nectarine",
+          "Orange",
+          "Mandarine",
+          "Clémentine"
+        ],
+        "réponse": "Clémentine",
+        "anecdote": "La clémentine est un fruit vert à maturité, qui ne devient orange que sous l'effet de la baisse de température hivernale."
+      },
+      {
+        "id": 8,
+        "question": "Selon l'expression, quand est-il préférable de ne pas chercher midi ?",
+        "propositions": [
+          "À 14 heures",
+          "La nuit",
+          "Sous la pluie",
+          "Dans le noir"
+        ],
+        "réponse": "À 14 heures",
+        "anecdote": "Un médicament que l'on doit prendre matin, midi, et soir ne doit pas être pris forcément à midi pile mais à l'heure de la mi-journée."
+      },
+      {
+        "id": 9,
+        "question": "La peau de quel animal ne faut-il pas vendre avant de l'avoir tué ?",
+        "propositions": [
+          "Ours",
+          "Lion",
+          "Tigre",
+          "Lapin"
+        ],
+        "réponse": "Ours",
+        "anecdote": "« Il ne faut pas vendre la peau de l'ours avant de l'avoir tué » a été popularisé par La Fontaine dans « L'Ours et les deux compagnons »."
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce qui peut être de laine, d'avoine ou de neige ?",
+        "propositions": [
+          "Fil",
+          "Glaçon",
+          "Bas",
+          "Flocon"
+        ],
+        "réponse": "Flocon",
+        "anecdote": "Le flocon de laine de roche est parfois utilisé pour l'isolation des combles perdus par épandage manuel au râteau."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Avant de vivre à Rome, dans quelle autre ville les Papes avaient-ils l'habitude de résider ?",
+        "propositions": [
+          "Amiens",
+          "Toulon",
+          "Poitiers",
+          "Avignon"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "La ville d'Avignon est encore aujourd'hui surnommée la cité des papes en raison de la présence des papes de 1309 à 1423."
+      },
+      {
+        "id": 12,
+        "question": "Quel animal relativement peu gracieux porte le nom de cheval du fleuve ?",
+        "propositions": [
+          "Girafe",
+          "Hippopotame",
+          "Éléphant",
+          "Crocodile"
+        ],
+        "réponse": "Hippopotame",
+        "anecdote": "De nombreuses espèces ont disparu mais il en existe deux espèces vivantes : l'hippopotame dit amphibie et l'hippopotame nain."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces quatre langues est statistiquement la plus parlée en Suisse ?",
+        "propositions": [
+          "Allemand",
+          "Suisse",
+          "Français",
+          "Italien"
+        ],
+        "réponse": "Allemand",
+        "anecdote": "Environ 9 % de la population suisse issue notamment de l'immigration utilise principalement une langue non nationale."
+      },
+      {
+        "id": 14,
+        "question": "Comment s'écrit le nombre 54 en chiffres romains, étudiés lors des cours de latin ?",
+        "propositions": [
+          "XXXIV",
+          "CIV",
+          "VCC",
+          "LIV"
+        ],
+        "réponse": "LIV",
+        "anecdote": "Ces abréviations ne permettaient pas à leurs utilisateurs de faire des calculs qui étaient alors effectués au moyen d'abaques."
+      },
+      {
+        "id": 15,
+        "question": "Laquelle de ces propositions désigne une vinaigrette présente dans nos assiettes ?",
+        "propositions": [
+          "Lyonnaise",
+          "Béchamel",
+          "Béarnaise",
+          "Ravigote"
+        ],
+        "réponse": "Ravigote",
+        "anecdote": "La sauce ravigote, légèrement acide, contient du vinaigre, des échalotes ou des oignons, des câpres et des herbes."
+      },
+      {
+        "id": 16,
+        "question": "Quelle partie basse d'un bateau peut être renversée au bowling ?",
+        "propositions": [
+          "Rampe",
+          "Tige",
+          "Barre",
+          "Quille"
+        ],
+        "réponse": "Quille",
+        "anecdote": "Dans la marine à voile, la quille est la pièce de charpente de base à partir de laquelle la coque est construite."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la longueur des buts qu'un gardien doit protéger au handball ?",
+        "propositions": [
+          "5 m",
+          "4 m",
+          "2 m",
+          "3 m"
+        ],
+        "réponse": "3 m",
+        "anecdote": "Le but doit être muni à l'arrière d'un filet suspendu pour que le ballon qui y entre ne puisse rebondir ou ressortir immédiatement."
+      },
+      {
+        "id": 18,
+        "question": "De quel côté de la Floride la ville de Miami se trouve-t-elle ?",
+        "propositions": [
+          "Sud",
+          "Est",
+          "Nord",
+          "Ouest"
+        ],
+        "réponse": "Sud",
+        "anecdote": "Ville de loisirs, Miami est une station balnéaire de renommée mondiale qui fait partie d'un chapelet de stations depuis Key West."
+      },
+      {
+        "id": 19,
+        "question": "Quelle partie du chêne de nos forêts nous donne le tan (ou tanin) ?",
+        "propositions": [
+          "Branches",
+          "Feuilles",
+          "Écorce",
+          "Gland"
+        ],
+        "réponse": "Écorce",
+        "anecdote": "En Europe, le chêne a été très utilisé pour son bois, son liège, son écorce et ses glands (dont on faisait autrefois de la farine)."
+      },
+      {
+        "id": 20,
+        "question": "Quel nom scientifique (ou genre) est attribué au cobra ?",
+        "propositions": [
+          "Colubrina",
+          "Pallida",
+          "Mossambica",
+          "Naja"
+        ],
+        "réponse": "Naja",
+        "anecdote": "Le cobra a la particularité de gonfler son cou lorsqu'il est en colère et ainsi paraître plus gros aux yeux de son adversaire."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel roi de l'Empire néo-babylonien fit jeter Daniel dans la fournaise ?",
+        "propositions": [
+          "Nabuchodonosor",
+          "Amel-Marduk",
+          "Balthazar",
+          "Nabopolassar"
+        ],
+        "réponse": "Nabuchodonosor",
+        "anecdote": "Nabuchodonosor a régné sur le plus vaste empire qu'ait dominé Babylone, ville où il a fait ériger de nombreux monuments."
+      },
+      {
+        "id": 22,
+        "question": "Quel mot peut désigner le nouveau né du cerf, du chevreuil ou du daim ?",
+        "propositions": [
+          "Hère",
+          "Daguet",
+          "Brocard",
+          "Faon"
+        ],
+        "réponse": "Faon",
+        "anecdote": "La particularité des cervidés est de porter des bois, organes osseux caducs présents sur la tête des mâles."
+      },
+      {
+        "id": 23,
+        "question": "La Costa Brava espagnole est le prolongement de quelle côte française ?",
+        "propositions": [
+          "Côte de Jade",
+          "Côte de Lumière",
+          "Côte Vermeille",
+          "Côte Fleurie"
+        ],
+        "réponse": "Côte Vermeille",
+        "anecdote": "Le rivage méditerranéen des Pyrénées est depuis le 1er février 2002 inscrit par l'UNESCO sur la liste du Patrimoine mondial."
+      },
+      {
+        "id": 24,
+        "question": "Dans quel océan se situent les quarantièmes rugissants ?",
+        "propositions": [
+          "Indien",
+          "Pacifique",
+          "Antarctique",
+          "Atlantique"
+        ],
+        "réponse": "Atlantique",
+        "anecdote": "Les vents des quarantièmes rugissants ont joué un rôle significatif dans le choix de la route suivie par les clippers."
+      },
+      {
+        "id": 25,
+        "question": "Combien de fois Björn Borg a-t-il gagné le tournoi de Wimbledon ?",
+        "propositions": [
+          "Sept fois",
+          "Huit fois",
+          "Cinq fois",
+          "Six fois"
+        ],
+        "réponse": "Cinq fois",
+        "anecdote": "Après sa carrière, il eut des problèmes avec le fisc suédois et fut contraint de déposer le bilan de sa société Björn Borg Design Group."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le nom actuel de l'ancien Soudan français situé en Afrique de l'Ouest ?",
+        "propositions": [
+          "Bénin",
+          "Mali",
+          "Liberia",
+          "Ghana"
+        ],
+        "réponse": "Mali",
+        "anecdote": "La devise du Mali est « un peuple, un but, une foi » et son drapeau est constitué de trois bandes verticales verte, jaune et rouge."
+      },
+      {
+        "id": 27,
+        "question": "Quel nom donne-t-on aux amoncellements sableux du Sahara ?",
+        "propositions": [
+          "Ergs",
+          "Mesas",
+          "Gueltas",
+          "Yardangs"
+        ],
+        "réponse": "Ergs",
+        "anecdote": "Les ergs occupent environ 20 % de la surface du Sahara, certains ayant commencé à se former au cours du Pléistocène."
+      },
+      {
+        "id": 28,
+        "question": "À quelle ville Giovanni Antonio Canal, dit Canaletto, a-t-il consacré sa vie ?",
+        "propositions": [
+          "Naples",
+          "Venise",
+          "Milan",
+          "Rome"
+        ],
+        "réponse": "Venise",
+        "anecdote": "Avec Giambattista Pittoni et Giovanni Battista Tiepolo, il est l'un des principaux Vieux maîtres italiens de la Renaissance vénitienne."
+      },
+      {
+        "id": 29,
+        "question": "Aux échecs, quel coup déplace simultanément un roi et une tour ?",
+        "propositions": [
+          "Clouage",
+          "Gambit",
+          "Trait",
+          "Roque"
+        ],
+        "réponse": "Roque",
+        "anecdote": "Il s'agit du seul coup légal permettant de déplacer deux pièces, sans respecter le déplacement classique du roi et de la tour de surcroît."
+      },
+      {
+        "id": 30,
+        "question": "À quel sport associez-vous le nom du célébrissime et talentueux Jo DiMaggio ?",
+        "propositions": [
+          "Base-ball",
+          "Football",
+          "Golf",
+          "Boxe"
+        ],
+        "réponse": "Base-ball",
+        "anecdote": "Joe DiMaggio est également connu pour avoir épousé Marilyn Monroe en 1954, après sa retraite sportive en 1951."
+      }
+    ]
+  }
+}

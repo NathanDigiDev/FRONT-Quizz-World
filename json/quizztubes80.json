@@ -1,0 +1,374 @@
+{
+    "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+    "rédacteur": "Edouard Swit",
+    "thème": "Tubes des années 80",
+    "difficulté": 2,
+    "quizz": {
+        "débutant": [
+            {
+                "id": 1,
+                "question": "Qui interpréta le tube « Macumba », chanson sortie en février 1985 ?",
+                "propositions": [
+                    "Renaud",
+                    "Jairo",
+                    "Jean-Pierre Mader",
+                    "Dave"
+                ],
+                "réponse": "Jean-Pierre Mader",
+                "anecdote": "Ce titre rencontra un succès commercial important, atteignant la troisième place du Top 50 et devenant le tube de l'été 1985."
+            },
+            {
+                "id": 2,
+                "question": "Quelle chanteuse britannique a interprété le hit « Kids in America » ?",
+                "propositions": [
+                    "Kim Wilde",
+                    "Madonna",
+                    "Bonnie Thyler",
+                    "Kim Carnes"
+                ],
+                "réponse": "Kim Wilde",
+                "anecdote": "« Kids in America » est sorti au Royaume-Uni en tant que premier single en janvier 1981, et aux États-Unis au printemps 1982."
+            },
+            {
+                "id": 3,
+                "question": "Quel groupe de dance-pop française a sorti le tube « Nuit de folie » ?",
+                "propositions": [
+                    "Taxi Girl",
+                    "David et Jonathan",
+                    "Niagara",
+                    "Début de soirée"
+                ],
+                "réponse": "Début de soirée",
+                "anecdote": "En France, le titre « Nuit de folie » est devenu le tube de l'été de l'année, en tête du classement pendant plus de deux mois."
+            },
+            {
+                "id": 4,
+                "question": "Quel groupe allemand de hard rock interpréta la ballade « Still loving you » ?",
+                "propositions": [
+                    "U2",
+                    "ACDC",
+                    "Dire Straits",
+                    "Scorpions"
+                ],
+                "réponse": "Scorpions",
+                "anecdote": "C'est en Europe que la ballade « Still loving you » a connu le plus de succès, atteignant le top 5 dans de nombreux pays."
+            },
+            {
+                "id": 5,
+                "question": "Quel groupe new wave/synthpop allemand interpréta « You're My Heart, You're My Soul » ?",
+                "propositions": [
+                    "Aerosmith",
+                    "Modern Talking",
+                    "Dead or Alive",
+                    "Depeche Mode"
+                ],
+                "réponse": "Modern Talking",
+                "anecdote": "Il est considéré comme le single du groupe le plus vendu à ce jour, dépassant aujourd'hui les huit millions d'exemplaires."
+            },
+            {
+                "id": 6,
+                "question": "Quel groupe a interprété le tube « Wake Me Up Before You Go-Go » ?",
+                "propositions": [
+                    "Supertramp",
+                    "ABBA",
+                    "Wham!",
+                    "FGTH"
+                ],
+                "réponse": "Wham!",
+                "anecdote": "Le single du duo anglais a été certifié disque de platine aux États-Unis, avec des ventes de plus de deux millions d'exemplaires."
+            },
+            {
+                "id": 7,
+                "question": "Quelle artiste a chanté « Africa », paru sur son album « Déraisonnable » ?",
+                "propositions": [
+                    "Rose Laurens",
+                    "Julie Pietri",
+                    "Desireless",
+                    "Zazie"
+                ],
+                "réponse": "Rose Laurens",
+                "anecdote": "Connue pour son single « Africa » sorti en 1982, Rose Laurens est également célèbre pour avoir incarné le personnage de Fantine."
+            },
+            {
+                "id": 8,
+                "question": "Quel groupe de rock suédois a chanté « The Final Countdown » ?",
+                "propositions": [
+                    "Europe",
+                    "Trust",
+                    "ACDC",
+                    "Scorpions"
+                ],
+                "réponse": "Europe",
+                "anecdote": "Le clip de Nick Morris, réalisé pour promouvoir le single, a été visionné plus d'un milliard de fois sur la plateforme YouTube."
+            },
+            {
+                "id": 9,
+                "question": "Quel groupe musical a interprété « Sweet Dreams (Are Made of This) » ?",
+                "propositions": [
+                    "Sweet Sensation",
+                    "Eurythmics",
+                    "Sister Sledge",
+                    "Europe"
+                ],
+                "réponse": "Eurythmics",
+                "anecdote": "Ce titre est devenu particulièrement populaire et reste l'une des chansons les plus reconnaissables du groupe Eurythmics."
+            },
+            {
+                "id": 10,
+                "question": "Quel artiste américain a brillamment interprété le titre « Billie Jean » ?",
+                "propositions": [
+                    "Lionel Richie",
+                    "Michael Jackson",
+                    "George Michael",
+                    "Stevie Wonder"
+                ],
+                "réponse": "Michael Jackson",
+                "anecdote": "Ce titre légendaire a été écrit et composé par Michael Jackson lui-même, produit par Quincy Jones et co-produit par Michael Jackson."
+            }
+        ],
+        "confirmé": [
+            {
+                "id": 11,
+                "question": "Lequel de ces titres doit-on au groupe Frankie Goes To Hollywood ?",
+                "propositions": [
+                    "Relax",
+                    "Cool",
+                    "Peace",
+                    "Zen"
+                ],
+                "réponse": "Relax",
+                "anecdote": "« Relax » est le premier single important du groupe de synth-pop anglais Frankie Goes To Hollywood, sorti au Royaume-Uni en 1983."
+            },
+            {
+                "id": 12,
+                "question": "Quel est le titre du troisième single du groupe « Alphaville » ?",
+                "propositions": [
+                    "Forever Alive",
+                    "Forever Blue",
+                    "Forever Young",
+                    "Forever Love"
+                ],
+                "réponse": "Forever Young",
+                "anecdote": "Le single d'Alphaville a eu plus de succès aux États-Unis qu'au Royaume-Uni, mais n'a pas réussi à atteindre le top 40 américain."
+            },
+            {
+                "id": 13,
+                "question": "Quel est probablement le titre le plus connu du chanteur Gérard Blanc ?",
+                "propositions": [
+                    "Une autre femme",
+                    "Une autre vie",
+                    "Une autre affaire",
+                    "Une autre histoire"
+                ],
+                "réponse": "Une autre histoire",
+                "anecdote": "Le titre est devenu un succès retentissant en France durant l'été 1987 et a été repris par plusieurs artistes au fil des années."
+            },
+            {
+                "id": 14,
+                "question": "Grâce à quel tube le chanteur belge Claude Barzotti a-t-il démarré sa carrière ?",
+                "propositions": [
+                    "Miss",
+                    "Mademoiselle",
+                    "Madame",
+                    "Monsieur"
+                ],
+                "réponse": "Madame",
+                "anecdote": "Le chanteur a commencé sa carrière musicale en France en 1981 avec sa chanson « Madame », qui s'est vendu à 400 000 exemplaires."
+            },
+            {
+                "id": 15,
+                "question": "Quel chanteur a interprété « Let's Dance », paru sur l'album du même nom ?",
+                "propositions": [
+                    "Mick Jagger",
+                    "John Lennon",
+                    "David Bowie",
+                    "Rod Stewart"
+                ],
+                "réponse": "David Bowie",
+                "anecdote": "Ce tube de e1983 a fait de David Bowie une superstar majeure, « Let's Dance » restant l'album le plus vendu de l'artiste."
+            },
+            {
+                "id": 16,
+                "question": "Quelle chanteuse pop franco-allemande a interprété le titre « Around My Heart » ?",
+                "propositions": [
+                    "Joan Baez",
+                    "Sandra",
+                    "Nena",
+                    "Kate Bush"
+                ],
+                "réponse": "Sandra",
+                "anecdote": "La chanson de Sandra (ou Sandra Cretu) est sortie au printemps 1989 et a été un hit du top 20 en Allemagne et en Suisse."
+            },
+            {
+                "id": 17,
+                "question": "Quel groupe a sorti le tube « Chiquitita », issu de l'album « Voulez-Vous » ?",
+                "propositions": [
+                    "Bananarama",
+                    "Blondie",
+                    "ABBA",
+                    "The Pointer Sisters"
+                ],
+                "réponse": "ABBA",
+                "anecdote": "« Chiquitita » est sorti en janvier 1979 en tant que premier single de l'album « Voulez-Vous » (1979), le sixième album du groupe."
+            },
+            {
+                "id": 18,
+                "question": "Quel groupe de pop rock allemand a sorti le tube « 99 Luftballons » ?",
+                "propositions": [
+                    "Nena",
+                    "Alphaville",
+                    "Duran Duran",
+                    "A-HA"
+                ],
+                "réponse": "Nena",
+                "anecdote": "Cette chanson du groupe allemand Nena, assez engagée contre la guerre froide, sortie en 1983, fut un succès international."
+            },
+            {
+                "id": 19,
+                "question": "Quel artiste, décédé dans un accident d'hélicoptère, a interprété le tube « L'Aziza » ?",
+                "propositions": [
+                    "Michel Berger",
+                    "Marc Lavoine",
+                    "Enrico Macias",
+                    "Daniel Balavoine"
+                ],
+                "réponse": "Daniel Balavoine",
+                "anecdote": "Avec cette chanson, Daniel Balavoine a ici voulu rendre un bel hommage à son épouse Corinne, d'origine juive marocaine."
+            },
+            {
+                "id": 20,
+                "question": "Le titre « Why ? » a été écrit et composé par quel groupe britannique ?",
+                "propositions": [
+                    "Alphaville",
+                    "Bronski Beat",
+                    "Survivor",
+                    "Queen"
+                ],
+                "réponse": "Bronski Beat",
+                "anecdote": "En 1983, Jimmy Somerville cofonda le groupe Bronski Beat, engrangeant ainsi les hits dans les classements britanniques."
+            }
+        ],
+        "expert": [
+            {
+                "id": 21,
+                "question": "À quel groupe doit-on « We Are the Champions », utilisé dans le milieu du sport ?",
+                "propositions": [
+                    "Trust",
+                    "Téléphone",
+                    "ACDC",
+                    "Queen"
+                ],
+                "réponse": "Queen",
+                "anecdote": "Ce morceau est devenu populaire dans le monde sportif, au football et au cricket, et salue nombre de remise de titres sportifs."
+            },
+            {
+                "id": 22,
+                "question": "Quel groupe français nous a fait danser avec « Les Démons de minuit » ?",
+                "propositions": [
+                    "Photos",
+                    "Dessins",
+                    "Images",
+                    "Tableaux"
+                ],
+                "réponse": "Images",
+                "anecdote": "En France, le titre « Les Démons de minuit » s'est vendu à plus de 1,5 million d'exemplaires et a été certifié disque de platine."
+            },
+            {
+                "id": 23,
+                "question": "Quel groupe irlandais a sorti le tube « Sunday Bloody Sunday » ?",
+                "propositions": [
+                    "U2",
+                    "The Cure",
+                    "Supertramp",
+                    "Depeche Mode"
+                ],
+                "réponse": "U2",
+                "anecdote": "Ce tube a été classé en 2004 par le magazine Rolling Stone 268e sur la liste des 500 plus grandes chansons de tous les temps."
+            },
+            {
+                "id": 24,
+                "question": "Quelle tube est le plus célèbre de la chanteuse américaine Laura Branigan ?",
+                "propositions": [
+                    "Self Service",
+                    "Self Control",
+                    "Self Defense",
+                    "Self Garage"
+                ],
+                "réponse": "Self Control",
+                "anecdote": "Cette version fut la chanson la plus populaire à travers l'Europe durant l'été 1984 et fut aussi la chanson de l'année en Suisse."
+            },
+            {
+                "id": 25,
+                "question": "Quelle chanteuse est associée au titre « Girls Just Want To Have Fun » ?",
+                "propositions": [
+                    "Madonna",
+                    "Sandra",
+                    "Whitney Houston",
+                    "Cyndi Lauper"
+                ],
+                "réponse": "Cyndi Lauper",
+                "anecdote": "Elle a connu un succès international en devenant numéro un au Canada,  Australie, Irlande, Norvège et Nouvelle-Zélande."
+            },
+            {
+                "id": 26,
+                "question": "Quel tube planétaire a permis à Patrick Hernandez de devenir rentier ?",
+                "propositions": [
+                    "Born to Somebody",
+                    "To be Three",
+                    "Born to Sing",
+                    "Born to Be Alive"
+                ],
+                "réponse": "Born to Be Alive",
+                "anecdote": "Le single a rencontré un énorme succès en Europe ou il se classe numéro un en Autriche, en Suède, en Norvège et en France."
+            },
+            {
+                "id": 27,
+                "question": "À qui doit-on « Eye of the Tiger », repris dans la BO du film « Rocky III » ?",
+                "propositions": [
+                    "Survivor",
+                    "Fight to Survive",
+                    "Survive",
+                    "I Will Survive"
+                ],
+                "réponse": "Survivor",
+                "anecdote": "À la demande de Sylvester Stallone, la chanson fut publiée le 29 mai 1982 à l'occasion de la sortie du film « Rocky 3 : L'Œil du tigre »."
+            },
+            {
+                "id": 28,
+                "question": "Quel groupe a interprété « L'Aventurier », paru sur l'album éponyme en 1982 ?",
+                "propositions": [
+                    "Gold",
+                    "IAM",
+                    "Les Forbans",
+                    "Indochine"
+                ],
+                "réponse": "Indochine",
+                "anecdote": "Ce deuxième single du groupe a contribué à lancer la carrière des membres du groupe Indochine dans les années 1980."
+            },
+            {
+                "id": 29,
+                "question": "Lequel de ces titres est une ballade du groupe Prince et The Revolution ?",
+                "propositions": [
+                    "Rain",
+                    "My umbrella",
+                    "Rain on Me",
+                    "Purple Rain"
+                ],
+                "réponse": "Purple Rain",
+                "anecdote": "Ce troisième single porte le même titre que l'album et que le film (qui fut un succès), tous les supports étant sortis en 1984."
+            },
+            {
+                "id": 30,
+                "question": "Quel boss de la musique nous a confirmé qu'il était « Born in the USA » ?",
+                "propositions": [
+                    "Bruce Springsteen",
+                    "Paul McCartney",
+                    "Bob Dylan",
+                    "Stevie Wonder"
+                ],
+                "réponse": "Bruce Springsteen",
+                "anecdote": "La chanson évoque le retour au pays d'un vétéran de la guerre du Viêt Nam et le rejet qu'il subit de la part de ses concitoyens."
+            }
+        ]
+    }
+}

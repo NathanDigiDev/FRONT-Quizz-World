@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "difficulté": "1 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui a déclaré dans une pub pour Jex Four : « Avant, j'étais moche » ?",
+        "propositions": [
+          "Valérie Mairesse",
+          "Jackie Sardou",
+          "Sophie Garel",
+          "Alice Sapritch"
+        ],
+        "réponse": "Alice Sapritch",
+        "anecdote": "Le succès arrivera pour elle en 1971, à l'âge de 55 ans, tentant de séduire Yves Montand dans le film « La Folie des grandeurs »."
+      },
+      {
+        "id": 2,
+        "question": "Pour quelle enseigne travaillent les mousquetaires de la distribution ?",
+        "propositions": [
+          "Intermarché",
+          "Leclerc",
+          "Continent",
+          "Carrefour"
+        ],
+        "réponse": "Intermarché",
+        "anecdote": "Les magasins de l'enseigne étaient des magasins franchisés installés dans les villes, les campagnes ou au sein de campings."
+      },
+      {
+        "id": 3,
+        "question": "Pour quel produit Marie-Pierre Casey a-t-elle glissé sur de longues tables ?",
+        "propositions": [
+          "O'Cédar",
+          "Carolin",
+          "Breeze",
+          "Pliz"
+        ],
+        "réponse": "Pliz",
+        "anecdote": "Marie-Pierre Casey s'essayera aussi à la chanson la même année (1984) avec son tube « Je suis un sex symbol »."
+      },
+      {
+        "id": 4,
+        "question": "Pour quelle marque La Mère Denis prononçait-elle un « Ça c'est vrai ça » ?",
+        "propositions": [
+          "Brandt",
+          "Vedette",
+          "Grundig",
+          "Moulinex"
+        ],
+        "réponse": "Vedette",
+        "anecdote": "Jeanne Marie Le Calvé est devenue l'emblème de la marque Vedette et a tourné huit films publicitaires entre 1972 et 1980."
+      },
+      {
+        "id": 5,
+        "question": "Selon une publicité, mais qu'est-ce que tu bois Doudou dis-donc ?",
+        "propositions": [
+          "Schweppes",
+          "Canada Dry",
+          "Tropico",
+          "Oasis"
+        ],
+        "réponse": "Oasis",
+        "anecdote": "La marque est aujourd'hui identifiée par une ribambelle de fruits déjantés devenus cultes, notamment sur les reseaux sociaux."
+      },
+      {
+        "id": 6,
+        "question": "Quel détaillant propose chez lui le pays où la vie est moins chère ?",
+        "propositions": [
+          "But",
+          "Conforama",
+          "Casa",
+          "Ikea"
+        ],
+        "réponse": "Conforama",
+        "anecdote": "Les produits, en kit, sont vendus en paquets plats pour que le transport soit moins cher et que le client puisse le rapporter."
+      },
+      {
+        "id": 7,
+        "question": "Selon une ancienne publicité, qu'est-ce que Grand'Mère sait faire ?",
+        "propositions": [
+          "Un bon chocolat",
+          "Un bon sirop",
+          "Un bon café",
+          "Un bon thé"
+        ],
+        "réponse": "Un bon café",
+        "anecdote": "La marque est née en 1954 à Roubaix, dans l'épicerie fine L'Abondance de son fondateur, René Monnier (1925-2010)."
+      },
+      {
+        "id": 8,
+        "question": "Quel produit vendu par des Pieds-noirs était bon comme là-bas, dis ?",
+        "propositions": [
+          "Jambon Herta",
+          "Soupe Liebig",
+          "Pâtes Barilla",
+          "Couscous Garbit"
+        ],
+        "réponse": "Couscous Garbit",
+        "anecdote": "La campagne publicitaire pour le couscous en boîte mettait en scène des acteurs personnifiant des Arabes dans une vision fantasmée."
+      },
+      {
+        "id": 9,
+        "question": "En cuisine, qui se décarcasse pour vous fournir les meilleures épices ?",
+        "propositions": [
+          "Vahiné",
+          "Knorr",
+          "Ducros",
+          "Cigalou"
+        ],
+        "réponse": "Ducros",
+        "anecdote": "L'industriel français Gilbert Ducros a créé les épices Ducros, désormais propriété du groupe américain McCormick et Company."
+      },
+      {
+        "id": 10,
+        "question": "Quelle ancienne enseigne d'hypermarchés française écrasait les prix ?",
+        "propositions": [
+          "Leader Price",
+          "Champion",
+          "Mammouth",
+          "Radar"
+        ],
+        "réponse": "Mammouth",
+        "anecdote": "Chaque magasin Mammouth a été jumelé avec un Auchan pour permettre au personnel d'échanger autour du savoir-faire respectif."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qu'est-ce qui est si propre que l'on peut se voir dedans ?",
+        "propositions": [
+          "Bonux",
+          "Tampax",
+          "Ajax",
+          "Monsieur Propre"
+        ],
+        "réponse": "Monsieur Propre",
+        "anecdote": "Monsieur Propre est un personnage de fiction récurrent pour une série de produits de nettoyage de la compagnie Procter et Gamble."
+      },
+      {
+        "id": 12,
+        "question": "Par qui Germaine Lustucru a-t-elle été enlevée durant la nuit ?",
+        "propositions": [
+          "Des martiens",
+          "Des enfants",
+          "Des singes",
+          "Des vampires"
+        ],
+        "réponse": "Des martiens",
+        "anecdote": "L'entreprise Lustucru émerge en 1871 lors du rachat d'une petite usine de pâtes alimentaires datant de 1824, à Grenoble."
+      },
+      {
+        "id": 13,
+        "question": "Quelle marque se présentait comme le savon de beauté des stars ?",
+        "propositions": [
+          "Cadum",
+          "Monsavon",
+          "Lux",
+          "Dove"
+        ],
+        "réponse": "Lux",
+        "anecdote": "Lux est une marque de savon de la multinationale anglo-néerlandaise Unilever au chiffre d'affaires de 50 milliards d'euros."
+      },
+      {
+        "id": 14,
+        "question": "Jadis, qu'est-ce qui fondait dans la bouche et pas dans la main ?",
+        "propositions": [
+          "Treets",
+          "Kinder",
+          "Maltesers",
+          "Smarties"
+        ],
+        "réponse": "Treets",
+        "anecdote": "Sur le marché européen, les MM's furent connus sous le nom de « Bonitos » et les MM's Cacahuète sous « Treets » jusqu'en 1986."
+      },
+      {
+        "id": 15,
+        "question": "Quelle marque donne une bonne claque aux petites mauvaises odeurs ?",
+        "propositions": [
+          "Air Wick",
+          "Brise",
+          "Febreze",
+          "Johnson"
+        ],
+        "réponse": "Air Wick",
+        "anecdote": "Ces désodorisants portables sont conçus pour les espaces réduits tels que les salles de bains, placards, poubelles, litières et voitures."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le fromage des gastronomes en culottes courtes ?",
+        "propositions": [
+          "Apéricube",
+          "Babybel",
+          "St Môret",
+          "Kiri"
+        ],
+        "réponse": "Kiri",
+        "anecdote": "La première portion de Kiri a vu le jour à Sablé-sur-Sarthe,en 1966 dans la Sarthe, après plusieurs années de coûteuses recherche."
+      },
+      {
+        "id": 17,
+        "question": "Que pensait Monsieur Xu de la Citroën AX lors de sa sortie ?",
+        "propositions": [
+          "Magnifique!",
+          "Révolutionnaire!",
+          "Superbe!",
+          "Incroyable!"
+        ],
+        "réponse": "Révolutionnaire!",
+        "anecdote": "Cette petite voiture à 5 places légère et aérodynamique a été conçue dans le but d'être facile à vivre, économique et peu coûteuse."
+      },
+      {
+        "id": 18,
+        "question": "Quelle marque d'eau minérale nous a déclaré : Buvez, éliminez! ?",
+        "propositions": [
+          "Volvic",
+          "Badoit",
+          "Contrex",
+          "Vittel"
+        ],
+        "réponse": "Vittel",
+        "anecdote": "Vittel a appartenu à la famille fondatrice, les Bouloumié, pendant quatre générations, des années 1880 au début des années 1990."
+      },
+      {
+        "id": 19,
+        "question": "Quelle marque de lessive prétendait laver le linge plus blanc que blanc ?",
+        "propositions": [
+          "Persil",
+          "OMO",
+          "Coral",
+          "Cajoline"
+        ],
+        "réponse": "OMO",
+        "anecdote": "La campagne publicitaire proposée en 1973, avec son célèbre test du noeud, a donné lieu à un sketch de Coluche de 1979."
+      },
+      {
+        "id": 20,
+        "question": "Pour l'ameublement, l'électroménager, choisissez bien, choisissez...",
+        "propositions": [
+          "Atlas",
+          "But",
+          "Gautier",
+          "Fnac"
+        ],
+        "réponse": "But",
+        "anecdote": "But a été, de 1987 à 2001, le sponsor officiel du jeu télévisé « Le Juste Prix » diffusé sur TF1 et d'abord présentée par Max Meynier."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Pour quel yaourt a-t-on l'habitude d'entendre : Bravo la petite fleur ?",
+        "propositions": [
+          "Yoplait",
+          "Chambourcy",
+          "Andros",
+          "Mamie Nova"
+        ],
+        "réponse": "Yoplait",
+        "anecdote": "Yoplait est leader en France dans le secteur des yaourts aux fruits et numéro deux mondial des produits laitiers dits ultra-frais."
+      },
+      {
+        "id": 22,
+        "question": "Quelle entreprise de conserverie a fait porter des lunettes noires aux lapins ?",
+        "propositions": [
+          "Cassegrain",
+          "Bonduelle",
+          "Saupiquet",
+          "Géant Vert"
+        ],
+        "réponse": "Cassegrain",
+        "anecdote": "L'usine Cassegrain de Saint-Sébastien-sur-Loire existe toujours, mais a été reprise par une entreprise de plats cuisinés."
+      },
+      {
+        "id": 23,
+        "question": "Que construisaient les ouvriers des films publicitaires de Manpower ?",
+        "propositions": [
+          "Un puzzle",
+          "Une tour",
+          "Un robot",
+          "Une voiture"
+        ],
+        "réponse": "Un puzzle",
+        "anecdote": "Manpower est spécialisée dans l'intérim et le recrutement, présente dans 82 pays, avec 4 400 agences et 30 000 collaborateurs."
+      },
+      {
+        "id": 24,
+        "question": "Quelle marque de jeans propose des jeans taillés pour l'aventure ?",
+        "propositions": [
+          "Wrangler",
+          "G-Star",
+          "Pepe Jeans",
+          "Lee Cooper"
+        ],
+        "réponse": "Wrangler",
+        "anecdote": "Les jeans Wrangler ont été popularisés, associés à l'image du rodéo, par la firme Blue Bell dans le milieu des années 1940."
+      },
+      {
+        "id": 25,
+        "question": "Dans quel spot télévisé a-t-on vu Bernard Tapie marcher sur piles ?",
+        "propositions": [
+          "Mazda",
+          "Wonder",
+          "Duracell",
+          "Varta"
+        ],
+        "réponse": "Wonder",
+        "anecdote": "En 1966, Wonder détenait plus de 37 % du marché des piles, loin devant deux autres sociétés françaises, Leclanché et Mazda."
+      },
+      {
+        "id": 26,
+        "question": "Quel spécialiste de produits apéritifs prétend être le roi de la pomme de terre ?",
+        "propositions": [
+          "Vico",
+          "Marie",
+          "Alsa",
+          "Herta"
+        ],
+        "réponse": "Vico",
+        "anecdote": "En 2017, la marque Vico se modernise et lance un nouveau slogan pour ses produits plus sains : Vico, la nature a bon goût."
+      },
+      {
+        "id": 27,
+        "question": "Quelle marque de café vous dit que ce n'est pas la peine d'en rajouter ?",
+        "propositions": [
+          "Carte Noire",
+          "Ricoré",
+          "Jacques Vabre",
+          "Maxwell"
+        ],
+        "réponse": "Maxwell",
+        "anecdote": "Ce n'est qu'en 2001 que la marque Maxwell House commence à être vendue en France sous ce nom, à la suite de la volonté de Kraft."
+      },
+      {
+        "id": 28,
+        "question": "Quel fonctionnaire est présenté dans les publicités comme l'ami Ricoré ?",
+        "propositions": [
+          "Le magistrat",
+          "Le facteur",
+          "Le policier",
+          "L'éducateur"
+        ],
+        "réponse": "Le facteur",
+        "anecdote": "Une grande majorité de personnes le consomment avec du lait, mais il peut se préparer avec de l'eau, ou par un mélange des deux."
+      },
+      {
+        "id": 29,
+        "question": "Quel produit représente la puissance industrielle au service de vos sols ?",
+        "propositions": [
+          "Vigor",
+          "Ajax",
+          "Terra",
+          "Cif"
+        ],
+        "réponse": "Vigor",
+        "anecdote": "Vigor est un nettoyant liquide hautement concentré spécialement conçu pour les surfaces résistant à l'eau comme les sols et les murs."
+      },
+      {
+        "id": 30,
+        "question": "Pour quelle marque de bière blonde Renaud a-t-il chanté ?",
+        "propositions": [
+          "Tuborg",
+          "Jupiler",
+          "Kanterbräu",
+          "1664"
+        ],
+        "réponse": "Kanterbräu",
+        "anecdote": "La Kanterbräu originale est une bière blonde d'origine lorraine à 4,2 % qui contient du malt d'orge, du malt de blé et du blé."
+      }
+    ]
+  }
+}

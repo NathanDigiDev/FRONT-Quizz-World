@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "difficulté": "5 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "OpenBSD est un système d'exploitation libre de quel type ?",
+        "propositions": [
+          "Unix",
+          "Linux",
+          "System V",
+          "Posix"
+        ],
+        "réponse": "Unix",
+        "anecdote": "Un système d'exploitation de type Unix est un système d'exploitation qui se comporte d'une façon semblable à un système Unix."
+      },
+      {
+        "id": 2,
+        "question": "Quel ingénieur est à l'origine de la création du système OpenBSD ?",
+        "propositions": [
+          "Richard Stallman",
+          "Alan Cox",
+          "Theo de Raadt",
+          "Linus Torvalds"
+        ],
+        "réponse": "Theo de Raadt",
+        "anecdote": "C'est à la suite de son exclusion du conseil d'administration de NetBSD que Theo de Raadt a fondé le projet OpenBSD en 1994."
+      },
+      {
+        "id": 3,
+        "question": "OpenBSD est issu de la séparation de quel autre système d'exploitation ?",
+        "propositions": [
+          "Solaris",
+          "Debian",
+          "NetBSD",
+          "Fedora"
+        ],
+        "réponse": "NetBSD",
+        "anecdote": "NetBSD est entièrement fondé sur des logiciels libres, la plupart des composants étant soumis à la Licence BSD."
+      },
+      {
+        "id": 4,
+        "question": "Lequel de ces éléments renforce la qualité du projet OpenBSD ?",
+        "propositions": [
+          "Prix",
+          "Documentation",
+          "Souplesse",
+          "Design"
+        ],
+        "réponse": "Documentation",
+        "anecdote": "Liberté du code source, qualité de la documentation, sécurité et cryptographie intégrée sont les ingrédients principaux d'OpenBSD."
+      },
+      {
+        "id": 5,
+        "question": "Sur quel point les développeurs d'OpenBSD se concentrent-ils principalement ?",
+        "propositions": [
+          "Sécurité",
+          "Esthétique",
+          "Bureautique",
+          "Rendement"
+        ],
+        "réponse": "Sécurité",
+        "anecdote": "Les développeurs doivent faire ce qui est correct, propre et sécurisé, au détriment de la facilité, de la vitesse ou des fonctionnalités."
+      },
+      {
+        "id": 6,
+        "question": "Quel nom a été donné à la mascotte du projet libre OpenBSD ?",
+        "propositions": [
+          "Wilber",
+          "Dogcow",
+          "Puffy",
+          "Tux"
+        ],
+        "réponse": "Puffy",
+        "anecdote": "Puffy est employé pour signifier l'intention des concepteurs de faire un système d'exploitation particulièrement dur à attaquer."
+      },
+      {
+        "id": 7,
+        "question": "À quelle fréquence l'équipe d'OpenBSD réalise-t-elle une nouvelle version ?",
+        "propositions": [
+          "Trois ans",
+          "Six mois",
+          "Cinq ans",
+          "Deux ans"
+        ],
+        "réponse": "Six mois",
+        "anecdote": "D'après undeadly.org, le projet OpenBSD aurait subi des pertes financières de l'ordre de 20 000 dollars par an en 2004 et en 2005."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le projet annexe à OpenBSD le plus connu du groupe ?",
+        "propositions": [
+          "Cryptoloop",
+          "OpenSSH",
+          "CipherShed",
+          "CrossCrypt"
+        ],
+        "réponse": "OpenSSH",
+        "anecdote": "OpenSSH est un ensemble d'outils informatiques libres permettant des communications sécurisées sur un réseau informatique."
+      },
+      {
+        "id": 9,
+        "question": "Quel événement réunit un groupe de développeurs OpenBSD sur plusieurs jours ?",
+        "propositions": [
+          "Museomix",
+          "Sicob",
+          "Hackathon",
+          "CeBIT"
+        ],
+        "réponse": "Hackathon",
+        "anecdote": "La philosophie du hackathon prend sa source dans les idées des mouvements Free/Libre Open Source Software."
+      },
+      {
+        "id": 10,
+        "question": "Que réalisent de manière permanente les développeurs d'OpenBSD ?",
+        "propositions": [
+          "Croquis",
+          "Conférences",
+          "Chansons",
+          "Audits"
+        ],
+        "réponse": "Audits",
+        "anecdote": "Le projet pratique des audits de codes considérés comme étant des éléments importants de la sécurité d'un système."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans combien de dépôts CVS est développé le noyau d'OpenBSD ?",
+        "propositions": [
+          "Deux",
+          "Trois",
+          "Quatre",
+          "Un seul"
+        ],
+        "réponse": "Un seul",
+        "anecdote": "Les logiciels tiers sont offerts en paquets binaires ou peuvent être compilés depuis leurs sources grâce à la collection des ports."
+      },
+      {
+        "id": 12,
+        "question": "De quelle ville Theo de Raadt coordonne-t-il le projet OpenBSD ?",
+        "propositions": [
+          "Calgary",
+          "Nagano",
+          "Grenoble",
+          "Innsbruck"
+        ],
+        "réponse": "Calgary",
+        "anecdote": "La ville de Calgary, à l'est des montagnes Rocheuses, est une destination bien connue pour les sports d'hiver et l'écotourisme."
+      },
+      {
+        "id": 13,
+        "question": "Après la sortie de quelle version de NetBSD le projet OpenBSD fut-il créé ?",
+        "propositions": [
+          "2.5",
+          "2.0",
+          "1.0",
+          "1.5"
+        ],
+        "réponse": "1.0",
+        "anecdote": "Theo De Raadt démissionna et créa en 1994 le système OpenBSD d'après la version 1.0 de NetBSD, comme l'en autorisait la licence."
+      },
+      {
+        "id": 14,
+        "question": "Quel algorithme fut ajouté pour le chiffrement des mots de passe sur OpenBSD ?",
+        "propositions": [
+          "Blowfish",
+          "Square",
+          "Camellia",
+          "Skipjack"
+        ],
+        "réponse": "Blowfish",
+        "anecdote": "Conçu par Bruce Schneier, Blowfish utilise une taille de bloc de 64 bits et la clé de longueur variable peut aller de 32 à 448 bits."
+      },
+      {
+        "id": 15,
+        "question": "En quoi est converti le code C au format classique pre-ANSI pour les gars d'OpenBSD ?",
+        "propositions": [
+          "JSA",
+          "TSE",
+          "ANSI",
+          "CSTB"
+        ],
+        "réponse": "ANSI",
+        "anecdote": "Ceci ne doit pas impliquer des changements de fonctionnalités et n'est réalisé qu'à des fins de lisibilité et de cohérence."
+      },
+      {
+        "id": 16,
+        "question": "Quel terme désigne un nouveau logiciel créé à partir d'un logiciel existant ?",
+        "propositions": [
+          "Fork",
+          "Merge",
+          "Commit",
+          "Trunk"
+        ],
+        "réponse": "Fork",
+        "anecdote": "Un fork peut être bénéfique pour un projet donné lorsque sa gouvernance actuelle conduit, par exemple, à une impasse."
+      },
+      {
+        "id": 17,
+        "question": "Quelle société a injecté d'importantes liquidités pour soutenir OpenSSH ?",
+        "propositions": [
+          "Apple",
+          "Facebook",
+          "Microsoft",
+          "Twitter"
+        ],
+        "réponse": "Microsoft",
+        "anecdote": "En 2016, le chiffre d'affaires de Microsoft Corporation s'élevait à 89,95 milliards de dollars avec 120 000 employés dans 107 pays."
+      },
+      {
+        "id": 18,
+        "question": "Pour qui le système OpenBSD est-il surtout très intéressant ?",
+        "propositions": [
+          "Commerciaux",
+          "Internautes",
+          "Utilisateurs",
+          "Développeurs"
+        ],
+        "réponse": "Développeurs",
+        "anecdote": "Beaucoup d'utilisateurs ne connaissent pas OpenBSD et se tournent vers des systèmes plus populaires comme Linux ou FreeBSD."
+      },
+      {
+        "id": 19,
+        "question": "Quel pare-feu d'OpenBSD est désormais utilisé sur Mac OS X ?",
+        "propositions": [
+          "ClearOS",
+          "Comodo",
+          "Packet Filter",
+          "Firestarter"
+        ],
+        "réponse": "Packet Filter",
+        "anecdote": "Un port gratuit de PF a été réalisé pour les systèmes d'exploitation Windows 2000 et XP par la communauté Core FORCE."
+      },
+      {
+        "id": 20,
+        "question": "Quelle interface de programmation (API) sécurisée est souvent associée à strlcat ?",
+        "propositions": [
+          "Wget",
+          "Sudo",
+          "Strlcpy",
+          "Chmod"
+        ],
+        "réponse": "Strlcpy",
+        "anecdote": "Une interface de programmation est une façade clairement délimitée par laquelle un logiciel offre des services à d'autres logiciels."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Sous OpenBSD, quelle technique de mise en cage permet la gestion des privilèges ?",
+        "propositions": [
+          "Grep",
+          "Bash",
+          "Chroot",
+          "Rlogin"
+        ],
+        "réponse": "Chroot",
+        "anecdote": "La séparation des privilèges est une technique, pionnière sur OpenBSD, et inspirée du principe du moindre privilège."
+      },
+      {
+        "id": 22,
+        "question": "Quelle licence open source propre est utilisée par OpenBSD ?",
+        "propositions": [
+          "LPPL",
+          "CeCILL",
+          "SPDX",
+          "ISC"
+        ],
+        "réponse": "ISC",
+        "anecdote": "Cette licence propre a conduit à un audit exhaustif des licences et des remplacements, voire des suppressions de codes sous licences."
+      },
+      {
+        "id": 23,
+        "question": "Que représente la mascotte régulièrement utilisée par le projet OpenBSD ?",
+        "propositions": [
+          "Gnou",
+          "Cachalot",
+          "Diodon",
+          "Chapeau"
+        ],
+        "réponse": "Diodon",
+        "anecdote": "Ces espèces sont souvent appelées poissons-hérissons, poissons porc-épic ou encore hérisson des mers."
+      },
+      {
+        "id": 24,
+        "question": "Avec quelle société Theo de Raadt a-t-il sorti OpenBSD 2.3 ?",
+        "propositions": [
+          "Cisco",
+          "Corail Systems",
+          "Sysdream",
+          "Secure Networks inc."
+        ],
+        "réponse": "Secure Networks inc.",
+        "anecdote": "SNI était une société locale de logiciels de sécurité qui développait un outil d'audit de la sécurité réseau nommé Ballista."
+      },
+      {
+        "id": 25,
+        "question": "Qui a découvert en 2002 une faille dans le code d'OpenSSH ?",
+        "propositions": [
+          "Mark Dow",
+          "Joel Knight",
+          "Steven Mestdagh",
+          "Chris Cappuccio"
+        ],
+        "réponse": "Mark Dow",
+        "anecdote": "Ce fut la première vulnérabilité découverte dans l'installation par défaut d'OpenBSD permettant d'accéder au compte superutilisateur."
+      },
+      {
+        "id": 26,
+        "question": "À quel endroit du code d'OpenBSD a-t-on découvert une faille en 2007 ?",
+        "propositions": [
+          "Fdisk",
+          "NFS",
+          "Packet Filter",
+          "Pile IPV6"
+        ],
+        "réponse": "Pile IPV6",
+        "anecdote": "Internet Protocol version 6 est un protocole réseau sans connexion de la couche 3 du modèle OSI (Open Systems Interconnection)."
+      },
+      {
+        "id": 27,
+        "question": "Quelle technique de protection de mémoire est implémentée dans le code d'OpenBSD ?",
+        "propositions": [
+          "LinShare",
+          "ClamWin",
+          "ProPolice",
+          "PhotoRec"
+        ],
+        "réponse": "ProPolice",
+        "anecdote": "La protection Stack-Smashing Protector a originairement été écrite, et est toujours entretenue, par Hiroaki Etoh de la société IBM."
+      },
+      {
+        "id": 28,
+        "question": "Sur combien de plates-formes matérielles OpenBSD a-t-il fonctionné ?",
+        "propositions": [
+          "12",
+          "22",
+          "42",
+          "32"
+        ],
+        "réponse": "32",
+        "anecdote": "OpenBSD peut également exécuter des programmes compilés pour Linux (sur les processeurs i386 uniquement)."
+      },
+      {
+        "id": 29,
+        "question": "Quel projet du groupe OpenBSD permet de remplacer sendmail ?",
+        "propositions": [
+          "OpenBGPD",
+          "OpenSMTPD",
+          "OpenCVS",
+          "OpenNTPD"
+        ],
+        "réponse": "OpenSMTPD",
+        "anecdote": "Le développement d'OpenSMTPD a commencé fin 2008. Il est apparu pour la première fois dans OpenBSD 4.6."
+      },
+      {
+        "id": 30,
+        "question": "Quelle version d'Apache lourdement modifiée est intégrée à OpenBSD ?",
+        "propositions": [
+          "3.3",
+          "1.3",
+          "2.3",
+          "4.3"
+        ],
+        "réponse": "1.3",
+        "anecdote": "Maintenu au sein de la fondation Apache, distribué sous la licence Apache, ce serveur HTTP est le plus populaire du web."
+      }
+    ]
+  }
+}

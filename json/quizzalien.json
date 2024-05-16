@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "4 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "En quelle année le film « Alien, le huitième passager » est-il sorti en France ?",
+        "propositions": [
+          "1979",
+          "1974",
+          "1989",
+          "1984"
+        ],
+        "réponse": "1979",
+        "anecdote": "Le succès du film a engendré une franchise, dont trois suites directes appartenant à la saga « Alien » et son héroïne Ellen Ripley."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le nom de l'androïde voyageant à bord du Betty dans « Alien, la résurrection » ?",
+        "propositions": [
+          "Karl",
+          "Bishop",
+          "Fiorina",
+          "Call"
+        ],
+        "réponse": "Call",
+        "anecdote": "À l'origine, c'est Angelina Jolie qui devait tenir le rôle de l'androïde Annalee Call, jeune recrue curieuse à bord du Betty."
+      },
+      {
+        "id": 3,
+        "question": "Quel est le type de vaisseau spatial du film « Alien, le huitième passager » ?",
+        "propositions": [
+          "Touristique",
+          "Scientifique",
+          "Commercial",
+          "Expérimental"
+        ],
+        "réponse": "Commercial",
+        "anecdote": "En 2122, le cargo interstellaire Nostromo, de retour vers la Terre à la fin de sa mission de raffinerie, capte un signal sonore."
+      },
+      {
+        "id": 4,
+        "question": "Quel parasite génère des embryons dans la gorge des humains ?",
+        "propositions": [
+          "Facebunker",
+          "Facehugger",
+          "Faceleader",
+          "Facepower"
+        ],
+        "réponse": "Facehugger",
+        "anecdote": "Cet étreigneur de visage, qui se déplace très vite, est également capable de courir et de sauter sur de grandes distances."
+      },
+      {
+        "id": 5,
+        "question": "Comment meurt Ripley dans le film « Alien 3 » réalisé par David Fincher ?",
+        "propositions": [
+          "Électrocution",
+          "Meurtre",
+          "Noyade",
+          "Suicide"
+        ],
+        "réponse": "Suicide",
+        "anecdote": "Si dans l'édition de 1992, la Reine alien sort du corps de Ripley quand celle-ci se suicide, il n'en est rien dans la version longue."
+      },
+      {
+        "id": 6,
+        "question": "Qui a réalisé le film de science-fiction « Alien, le huitième passager » ?",
+        "propositions": [
+          "Jean-Pierre Jeunet",
+          "James Cameron",
+          "David Fincher",
+          "Ridley Scott"
+        ],
+        "réponse": "Ridley Scott",
+        "anecdote": "Ridley Scott est reconnu pour son style visuel très concentré et atmosphérique, qui a inspiré un grand nombre de réalisateurs."
+      },
+      {
+        "id": 7,
+        "question": "Quel animal de compagnie possèdent les membres du Nostromo ?",
+        "propositions": [
+          "Rat",
+          "Chien",
+          "Canard",
+          "Chat"
+        ],
+        "réponse": "Chat",
+        "anecdote": "Aidé par l'équipage, le chat Jones aura la lourde tache de tenter de survivre parmi les aliens présents dans son vaisseau spatial."
+      },
+      {
+        "id": 8,
+        "question": "Comment appelle-t-on les extraterrestres dans la saga « Alien » ?",
+        "propositions": [
+          "Kaeloo",
+          "Xénomorphes",
+          "Intramorphes",
+          "Kookabuira"
+        ],
+        "réponse": "Xénomorphes",
+        "anecdote": "Le terme xénomorphe, qui signifie forme étrangère, désigne une créature non répertoriée à l'excellente sensibilité."
+      },
+      {
+        "id": 9,
+        "question": "Dans quelle catégorie le film « Alien 3 » a-t-il obtenu un MPSE Awards ?",
+        "propositions": [
+          "Musique",
+          "Effets spéciaux",
+          "Réalisation",
+          "Montage sonore"
+        ],
+        "réponse": "Montage sonore",
+        "anecdote": "Les noms des membres actifs apparaît généralement dans les génériques de films avec les lettres post-nominales MPSE."
+      },
+      {
+        "id": 10,
+        "question": "Quelle actrice interprète avec panache Ellen Ripley dans la saga « Alien » ?",
+        "propositions": [
+          "Jodie Foster",
+          "Cameron Diaz",
+          "Michelle Pfeiffer",
+          "Sigourney Weaver"
+        ],
+        "réponse": "Sigourney Weaver",
+        "anecdote": "En 1985, elle épouse Jim Simpson, un metteur en scène de théâtre qui lui offrira un rôle en 1986 dans « Le Marchand de Venise »."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans « Alien », quelle compagnie colonise des planètes en vue de les terraformer ?",
+        "propositions": [
+          "Benedict",
+          "Harleys",
+          "Sulaco",
+          "Weyland"
+        ],
+        "réponse": "Weyland",
+        "anecdote": "Son expertise : laboratoires, industrie, terraformation, colonisation de planètes, raffinage de minerais et transport de fret."
+      },
+      {
+        "id": 12,
+        "question": "De quelle manière est morte Newt dans le film « Alien 3 » sorti en 1992 ?",
+        "propositions": [
+          "Suicide",
+          "Électrocution",
+          "Noyade",
+          "Étranglement"
+        ],
+        "réponse": "Noyade",
+        "anecdote": "Lors du crash de l'USS Sulaco, Hicks s'est empalé sur un vérin de sécurité et Newt s'est noyée dans son cryotube."
+      },
+      {
+        "id": 13,
+        "question": "Pendant combien de temps Ripley a-t-elle dérivé dans l'espace dans « Alien, le retour » ?",
+        "propositions": [
+          "42 ans",
+          "35 ans",
+          "60 ans",
+          "57 ans"
+        ],
+        "réponse": "57 ans",
+        "anecdote": "Ripley, alors qu'elle dérivait en biostase pendant 57 ans dans l'espace, a appris que sa fille était morte à l'âge de 66 ans."
+      },
+      {
+        "id": 14,
+        "question": "Quel nom porte l'officier scientifique dans « Alien, le huitième passager » ?",
+        "propositions": [
+          "John",
+          "K",
+          "Ash",
+          "Pace"
+        ],
+        "réponse": "Ash",
+        "anecdote": "Le liquide blanchâtre qui s'échappe de son corps après un coup d'extincteur sur la tête révèle alors que Ash est un androïde."
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la particularité très spécifique du sang du xénomorphe alien ?",
+        "propositions": [
+          "Phosphorescent",
+          "Vert",
+          "Acide",
+          "Bleu"
+        ],
+        "réponse": "Acide",
+        "anecdote": "Le sang du xénomorphe est un puissant acide moléculaire qui est capable de ronger même le métal le plus robuste."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le nom du vaisseau spatial utilisé dans « Alien, le huitième passager » ?",
+        "propositions": [
+          "Nostradamus",
+          "Nostrado",
+          "Nostromo",
+          "Nobuco"
+        ],
+        "réponse": "Nostromo",
+        "anecdote": "« Nostromo » est également le nom d'un roman de Joseph Conrad, publié en 1904, ainsi qu'une série télé réalisée par Alastair Reid."
+      },
+      {
+        "id": 17,
+        "question": "Quel métier Ripley exerçait-elle avant de rencontrer les aliens ?",
+        "propositions": [
+          "Archéologue",
+          "Pilote",
+          "Mécanicienne",
+          "Scientifique"
+        ],
+        "réponse": "Pilote",
+        "anecdote": "Ellen Ripley est interprétée par l'actrice américaine Sigourney Weaver, et apparaît dans quatre films et plusieurs jeux vidéo."
+      },
+      {
+        "id": 18,
+        "question": "En 1980, « Alien, le huitième passager » a reçu le prix Hugo du meilleur...",
+        "propositions": [
+          "Scénario",
+          "Film",
+          "Costume",
+          "Second rôle"
+        ],
+        "réponse": "Film",
+        "anecdote": "Les lauréats sont élus par des fans membres de la World Science Fiction Society et reçoivent un trophée en forme de fusée."
+      },
+      {
+        "id": 19,
+        "question": "En quelle année est sorti le film « Prometheus », produit et réalisé par Ridley Scott ?",
+        "propositions": [
+          "2012",
+          "2010",
+          "2008",
+          "2014"
+        ],
+        "réponse": "2012",
+        "anecdote": "Ce film était prévu à l'origine en tant que préquelle directe d'« Alien, le huitième passager », le deuxième long métrage de Ridley Scott."
+      },
+      {
+        "id": 20,
+        "question": "Quel nom a été donné à l'ordinateur de bord du film « Alien, le huitième passager » ?",
+        "propositions": [
+          "Papa",
+          "Thelma",
+          "Maman",
+          "Anna"
+        ],
+        "réponse": "Maman",
+        "anecdote": "L'ordinateur de bord (appelé Maman) a interrompu le trajet du Nostromo et réveillé l'équipage maintenu en biostase."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Pourquoi l'ordinateur de bord du Sulaco éjecte-t-il la capsule de Ripley dans « Alien » ?",
+        "propositions": [
+          "Rébellion",
+          "Panne moteur",
+          "Incendie",
+          "Inondation"
+        ],
+        "réponse": "Incendie",
+        "anecdote": "Dévoré par les flammes, l'ordinateur de bord du Sulaco fait évacuer les quatre cryotubes par EEV (Emergency Escape Vehicle)."
+      },
+      {
+        "id": 22,
+        "question": "Combien de temps après la mort de Ripley les scientifiques l'ont-ils cloné ?",
+        "propositions": [
+          "200 ans",
+          "150 ans",
+          "100 ans",
+          "50 ans"
+        ],
+        "réponse": "200 ans",
+        "anecdote": "En 2379, des scientifiques militaires parviennent à recréer un clone à partir d'échantillons de sang collectés avant la mort de Ripley."
+      },
+      {
+        "id": 23,
+        "question": "Au cinéma, pour quel crime le Dr Clemens purge-t-il une peine sur Forina 161 ?",
+        "propositions": [
+          "Viol",
+          "Meurtre",
+          "Séquestration",
+          "Braquage"
+        ],
+        "réponse": "Meurtre",
+        "anecdote": "Pour le doublage français de Clemens dans la version longue, Patrick Osmond dût remplacer Daniel Sarky, décédé en 1999."
+      },
+      {
+        "id": 24,
+        "question": "Sur quelle planète Ripley se pose-t-elle et découvre les Aliens ?",
+        "propositions": [
+          "LV-426",
+          "LV-532",
+          "LV-544",
+          "LV-712"
+        ],
+        "réponse": "LV-426",
+        "anecdote": "LV-426 est la planète où l'équipage du Nostromo découvre un vaisseau d'une espèce inconnue et où l'un des membres est infecté."
+      },
+      {
+        "id": 25,
+        "question": "Dans la saga « Alien », lequel de ces androïdes peut-on retrouver à bord du Sulaco ?",
+        "propositions": [
+          "Bishop",
+          "Call",
+          "David",
+          "Giger"
+        ],
+        "réponse": "Bishop",
+        "anecdote": "Bishop est un androïde intelligent joué par Lance Henriksen dans le second opus de la saga, « Aliens, le retour », sorti en 1986."
+      },
+      {
+        "id": 26,
+        "question": "À l'extraction de quel métal précieux étaient affectés les prisonniers de Fury 161 ?",
+        "propositions": [
+          "Argent",
+          "Or",
+          "Palladium",
+          "Platine"
+        ],
+        "réponse": "Platine",
+        "anecdote": "Inhospitalière et balayée par des vents puissants, la planète Fiorina-16 abrite le centre pénitentiaire Fury-161 de Classe C."
+      },
+      {
+        "id": 27,
+        "question": "Dans « Alien », après combien de fécondations meurt un Superfacehugger ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Deux",
+        "anecdote": "Le FaceHugger ressemble vaguement à une araignée de couleur chair, avec huit pattes articulées semblables à des doigts humains."
+      },
+      {
+        "id": 28,
+        "question": "Comment se prénomme la fille de Ripley dont on parle dans « Alien, le retour » ?",
+        "propositions": [
+          "Amanda",
+          "Mathilda",
+          "Johanna",
+          "Laura"
+        ],
+        "réponse": "Amanda",
+        "anecdote": "Ripley est solitaire, et ce parfois malgré elle, car tous ses proches, famille, amis ou collègues, meurent pratiquement toujours."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle navette de sauvetage du Nostromo Ripley s'est-elle réfugiée ?",
+        "propositions": [
+          "Narcicuss",
+          "Nirvana",
+          "Sulaco",
+          "Nautilus"
+        ],
+        "réponse": "Narcicuss",
+        "anecdote": "Sa navette sera finalement retrouvée en 2179 et rapatriée sur la station orbitale Gateway, située en orbite autour de la Terre."
+      },
+      {
+        "id": 30,
+        "question": "Quel est le matricule de Ripley, évoqué dans le film « Alien, le retour » ?",
+        "propositions": [
+          "14472",
+          "14475",
+          "12475",
+          "13472"
+        ],
+        "réponse": "14472",
+        "anecdote": "Van Leuwen dit que le matricule de Ripley est le 14472, mais sur l'écran derrière elle, on peut lire 14672 (en pause sur image)."
+      }
+    ]
+  }
+}

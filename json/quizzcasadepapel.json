@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "difficulté": "2 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quel pays a été tourné la série « La Casa de Papel » ?",
+        "propositions": [
+          "Portugal",
+          "Italie",
+          "France",
+          "Espagne"
+        ],
+        "réponse": "Espagne",
+        "anecdote": "Il a fallu plus de trois mois et une quarantaine de professionnels pour construire les décors de l'intérieur de la fabrique."
+      },
+      {
+        "id": 2,
+        "question": "Sur quelle plate-forme de streaming a-t-on pu voir « La Casa de Papel » ?",
+        "propositions": [
+          "Megavideo",
+          "PeerTube",
+          "Vimeo",
+          "Netflix"
+        ],
+        "réponse": "Netflix",
+        "anecdote": "L'idée de Netflix est venue d'une contrariété après avoir dû verser 40 dollars à la suite d'un film loué mais rendu trop tard."
+      },
+      {
+        "id": 3,
+        "question": "Combien de malfaiteurs le professeur a-t-il recruté au départ dans « La Casa de Papel » ?",
+        "propositions": [
+          "Huit",
+          "Dix",
+          "Douze",
+          "Six"
+        ],
+        "réponse": "Huit",
+        "anecdote": "Les huit braqueurs de départ de la série sont Tokyo, Rio, Berlin, Moscou, Denver, Nairobi, Helsinki et Oslo."
+      },
+      {
+        "id": 4,
+        "question": "De quel peintre sont inspirés les masques portés dans « La Casa de Papel » ?",
+        "propositions": [
+          "Joan Miro",
+          "Max Ernst",
+          "Salvador Dali",
+          "René Magritte"
+        ],
+        "réponse": "Salvador Dali",
+        "anecdote": "Dali est considéré comme l'un des principaux représentants du surréalisme, et comme l'un des plus célèbres peintres du XXe siècle."
+      },
+      {
+        "id": 5,
+        "question": "Quels noms les braqueurs de « La Casa de Papel » utilisent-ils ?",
+        "propositions": [
+          "Noms de fleurs",
+          "Noms de pays",
+          "Noms de villes",
+          "Noms de peintres"
+        ],
+        "réponse": "Noms de villes",
+        "anecdote": "Un jour, un membre de la production est arrivé avec un tee-shirt sur lequel était écrit Tokyo! C'est comme cela que ça a commencé."
+      },
+      {
+        "id": 6,
+        "question": "Quel personnage est aussi la narratrice de ce cambriolage hors norme ?",
+        "propositions": [
+          "Rio",
+          "Denver",
+          "Tokyo",
+          "Nairobi"
+        ],
+        "réponse": "Tokyo",
+        "anecdote": "Tokyo, qui est aussi le personnage féminin principal de la série, fait part de ses impressions tout au long de sa narration."
+      },
+      {
+        "id": 7,
+        "question": "Quel qualificatif identifie le mieux Berlin dans la série « La Casa de Papel » ?",
+        "propositions": [
+          "Attentionné",
+          "Psychopathe",
+          "Serviable",
+          "Ponctuel"
+        ],
+        "réponse": "Psychopathe",
+        "anecdote": "Berlin s'attache à suivre les règles définies par le Professeur, bien qu'il soit le premier à les avoir détourné en faisant tuer un otage."
+      },
+      {
+        "id": 8,
+        "question": "Quel membre du braquage est le seul à évoluer à l'extérieur de la Fabrique ?",
+        "propositions": [
+          "Moscou",
+          "Tokyo",
+          "Berlin",
+          "Le Professeur"
+        ],
+        "réponse": "Le Professeur",
+        "anecdote": "Grâce à ses installations et une analyse minutieuse des lieux, le Professeur a toujours une longueur d'avance sur la police."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel objet appartenant à Angel les braqueurs ont-il installé un micro ?",
+        "propositions": [
+          "Son stylo",
+          "Ses lunettes",
+          "Son téléphone",
+          "Son ordinateur"
+        ],
+        "réponse": "Ses lunettes",
+        "anecdote": "Se faisant passer pour un infirmier, Angel s'est introduit dans la Fabrique pour analyser la situation de l'intérieur."
+      },
+      {
+        "id": 10,
+        "question": "Quel serbe est le cousin d'Helsinki dans la série « La Casa de Papel » ?",
+        "propositions": [
+          "Oslo",
+          "Denver",
+          "Rio",
+          "Berlin"
+        ],
+        "réponse": "Oslo",
+        "anecdote": "Son véritable nom est Radko Dragic, mais il est également connu des services de police sous le nom de Dimitri Mostovoi."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle somme le professeur a-t-il prévu d'imprimer dans « La Casa de Papel » ?",
+        "propositions": [
+          "400 millions",
+          "2,4 milliards",
+          "200 millions",
+          "800 millions"
+        ],
+        "réponse": "2,4 milliards",
+        "anecdote": "Le but est d'imprimer 2,4 milliards d'euros en moins de onze jours et sans verser une goutte de sang, malgré la présence de 67 otages."
+      },
+      {
+        "id": 12,
+        "question": "Qui est vu comme le Mozart des ordinateurs dans la série « La Casa de Papel » ?",
+        "propositions": [
+          "Helsinki",
+          "Nairobi",
+          "Moscou",
+          "Rio"
+        ],
+        "réponse": "Rio",
+        "anecdote": "En couple avec Tokyo, Rio programme les ordinateurs et gère les explosifs ainsi que leur placement stratégique."
+      },
+      {
+        "id": 13,
+        "question": "Sur quelle chaîne ibérique a été diffusée la série « La Casa de Papel » ?",
+        "propositions": [
+          "Cuatro",
+          "Boing",
+          "Antena 3",
+          "Canal Club"
+        ],
+        "réponse": "Antena 3",
+        "anecdote": "Antena 3 est une chaîne de télévision généraliste commerciale privée espagnole appartenant au groupe Atresmedia."
+      },
+      {
+        "id": 14,
+        "question": "Combien de personnes ont été prises en otage dans la première saison de « La Casa de Papel » ?",
+        "propositions": [
+          "67",
+          "39",
+          "42",
+          "55"
+        ],
+        "réponse": "67",
+        "anecdote": "Les otages portent souvent les mêmes tenues et masques que les braqueurs pour que l'on puisse les confondre."
+      },
+      {
+        "id": 15,
+        "question": "Comment se prénomme l'inspecteur adjoint, collègue et ami de Raquel ?",
+        "propositions": [
+          "Angel",
+          "Alberto",
+          "Francisco",
+          "Pablo"
+        ],
+        "réponse": "Angel",
+        "anecdote": "Marié à Mari Carmen, Angel Rubio est sous-inspecteur de police, en binôme avec l'inspectrice Raquel Murillo depuis quinze ans."
+      },
+      {
+        "id": 16,
+        "question": "Quelle voiture « El Profesor » a-t-il eu bien du mal à dissimuler à la police ?",
+        "propositions": [
+          "Renault Clio",
+          "Ford Escort",
+          "Seat Ibiza",
+          "Audi 100"
+        ],
+        "réponse": "Seat Ibiza",
+        "anecdote": "Le Professeur se rendra lui-même sur les lieux pour masquer les empreintes, se faisant passer pour un clochard."
+      },
+      {
+        "id": 17,
+        "question": "Laquelle de ces villes ne désigne pas un des personnages de « La Casa de Papel » ?",
+        "propositions": [
+          "Nairobi",
+          "Oslo",
+          "Helsinki",
+          "Dallas"
+        ],
+        "réponse": "Dallas",
+        "anecdote": "Les braqueurs se sont donnés des noms de villes pour ne pas avoir à divulguer leur réelle identité auprès des autres intervenants."
+      },
+      {
+        "id": 18,
+        "question": "De qui Denver est-il le fils dans la série « La Casa de Papel » ?",
+        "propositions": [
+          "Washington",
+          "Moscou",
+          "Berlin",
+          "Oslo"
+        ],
+        "réponse": "Moscou",
+        "anecdote": "Moscou a emmené son fils avec lui dans le plan du Professeur parce qu'il a des problèmes avec certains trafiquants."
+      },
+      {
+        "id": 19,
+        "question": "Quelle responsable qualité fait dans la fausse monnaie depuis ses treize ans ?",
+        "propositions": [
+          "Nairobi",
+          "Moscou",
+          "Tokyo",
+          "Oslo"
+        ],
+        "réponse": "Nairobi",
+        "anecdote": "Son charisme personnel et sa bonne humeur font que tout le monde s'entend bien avec elle, sauf Berlin, fréquemment en désaccord."
+      },
+      {
+        "id": 20,
+        "question": "Comment se prénomme la secrétaire du directeur de la Fabrique ?",
+        "propositions": [
+          "Silene",
+          "Mercedes",
+          "Monica",
+          "Ariadna"
+        ],
+        "réponse": "Monica",
+        "anecdote": "Bien éduquée et gentille, Monica est considérée comme le genre de femme typique qui fait souvent de mauvais choix."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Avant quelle fête Netflix a-t-il diffusée « La Casa de Papel » en 2017 ?",
+        "propositions": [
+          "Noël",
+          "Fête nationale",
+          "Pâques",
+          "Halloween"
+        ],
+        "réponse": "Noël",
+        "anecdote": "Le géant d'internet a demandé aux scénaristes de concevoir deux saisons supplémentaires, qui seront donc au nombre de quatre."
+      },
+      {
+        "id": 22,
+        "question": "Pendant combien de temps les braqueurs ont-ils vécus reclus avant le premier braquage ?",
+        "propositions": [
+          "Vingt jours",
+          "Dix mois",
+          "Deux ans",
+          "Cinq mois"
+        ],
+        "réponse": "Cinq mois",
+        "anecdote": "Le Professeur en a profité pour divulguer tout ce dont ses braqueurs avaient besoin de connaître pour réaliser ce coup du siècle."
+      },
+      {
+        "id": 23,
+        "question": "Quel scénariste espagnol a créé la série télévisée à succès « La Casa de Papel » ?",
+        "propositions": [
+          "Enrique Gato",
+          "Alex Pina",
+          "Juan Bas",
+          "Luis Tosar"
+        ],
+        "réponse": "Alex Pina",
+        "anecdote": "Alex Pina a commencé sa carrière comme journaliste dans la presse et plus tard au sein de l'agence de presse Europa."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le véritable prénom de « Tokyo » dans la série « La Casa de Papel » ?",
+        "propositions": [
+          "Raquel",
+          "Monica",
+          "Agata",
+          "Silene"
+        ],
+        "réponse": "Silene",
+        "anecdote": "Silene Oliveira n'a rien à perdre en contribuant à ce vol parce qu'elle n'a rien ni personne d'important dans sa vie."
+      },
+      {
+        "id": 25,
+        "question": "Quel acteur incarne Salvador « Salva » Martin, dit « le Professeur » ?",
+        "propositions": [
+          "Alvaro Morte",
+          "Alfredo Mayo",
+          "José Mota",
+          "Mario Morales"
+        ],
+        "réponse": "Alvaro Morte",
+        "anecdote": "En 2012, Alvaro Morte a fondé la compagnie de théâtre 300 Pistolas auprès de laquelle il dirige des pièces de théâtre."
+      },
+      {
+        "id": 26,
+        "question": "De quelle oeuvre d'Edvard Munch fut inspiré un des masques de « La Casa de Papel » ?",
+        "propositions": [
+          "La Tempête",
+          "Le Baiser",
+          "Le Cri",
+          "La Madone"
+        ],
+        "réponse": "Le Cri",
+        "anecdote": "Symbolisant l'homme moderne emporté par une crise d'angoisse existentielle, elle est l'oeuvre la plus importante de l'artiste."
+      },
+      {
+        "id": 27,
+        "question": "Quel rappeur s'est habillé comme dans la série dans son clip « Sheguey 12 » ?",
+        "propositions": [
+          "Black M",
+          "Maître Gims",
+          "Gradur",
+          "Kaaris"
+        ],
+        "réponse": "Gradur",
+        "anecdote": "De son vrai nom Wanani Gradi Mariadi, le rappeur français né à Roubaix dans le Nord fait partie du collectif Sheguey Squaad."
+      },
+      {
+        "id": 28,
+        "question": "Quel chant révolutionnaire antifasciste est devenu l'hymne de la série ?",
+        "propositions": [
+          "Bella ciao",
+          "Adesso tu",
+          "Ruota Libera",
+          "La Montanara"
+        ],
+        "réponse": "Bella ciao",
+        "anecdote": "Les paroles de la version qui renvoie aux événements les plus anciens ont été fixées en 1951 par Vasco Scansani."
+      },
+      {
+        "id": 29,
+        "question": "Combien de fois « La Casa de Papel » a-t-elle été visionnée en France en 2017 ?",
+        "propositions": [
+          "14 millions",
+          "11 millions",
+          "17 millions",
+          "8 millions"
+        ],
+        "réponse": "17 millions",
+        "anecdote": "Tous les membres de l'équipe de la série ont été surpris par l'engouement mondial développé autour de  « La Casa de Papel »."
+      },
+      {
+        "id": 30,
+        "question": "Par amour, sous quel nom Monica va-t-elle entrer dans la bande ?",
+        "propositions": [
+          "Paris",
+          "Madrid",
+          "Stockholm",
+          "Vienne"
+        ],
+        "réponse": "Stockholm",
+        "anecdote": "Le syndrome de Stockholm est un phénomène psychologique observé chez des otages ayant vécu avec leurs geôliers."
+      }
+    ]
+  }
+}

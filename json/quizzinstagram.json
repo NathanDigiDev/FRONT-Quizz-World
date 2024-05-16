@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "difficulté": "3 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Instagram permet de partager des photos mais aussi quels autres médias ?",
+        "propositions": [
+          "Recettes",
+          "Vidéos",
+          "Musique",
+          "Fichiers"
+        ],
+        "réponse": "Vidéos",
+        "anecdote": "Ces photos et vidéos seront alors disponibles sur plates-formes mobiles de type iOS, Android et Windows Phone."
+      },
+      {
+        "id": 2,
+        "question": "Quel filtre Instagram permet de donner un côté délavé à votre photo ?",
+        "propositions": [
+          "Earlybird",
+          "Rise",
+          "Valencia",
+          "Nashville"
+        ],
+        "réponse": "Rise",
+        "anecdote": "Le filtre Rise est la combinaison d'une balance des couleurs tirant vers le rouge et d'une désaturation qui provoquent cette sensation."
+      },
+      {
+        "id": 3,
+        "question": "Quel est l'âge minimum requis pour utiliser l'application Instagram ?",
+        "propositions": [
+          "15 ans",
+          "13 ans",
+          "17 ans",
+          "21 ans"
+        ],
+        "réponse": "13 ans",
+        "anecdote": "Il reste cependant difficile, voire impossible, de s'assurer à 100 % de l'âge réel d'un utilisateur lambda derrière son smartphone."
+      },
+      {
+        "id": 4,
+        "question": "Quelle messagerie interne permet de dialoguer avec les membres d'Instagram ?",
+        "propositions": [
+          "Skype",
+          "Messenger",
+          "Instagram direct",
+          "SnapChat"
+        ],
+        "réponse": "Instagram direct",
+        "anecdote": "Le service Instagram direct a rapidement gagné en popularité, désigné par Apple comme application de l'année en 2011."
+      },
+      {
+        "id": 5,
+        "question": "Quel filtre Instagram permet d'apporter un léger effet de vignettage ?",
+        "propositions": [
+          "Rise",
+          "Mayfair",
+          "X-Pro",
+          "Valencia"
+        ],
+        "réponse": "Mayfair",
+        "anecdote": "Après avoir appliqué le filtre Mayfair, votre photo s'en trouvera légèrement désaturée et tirera globalement vers le jaune."
+      },
+      {
+        "id": 6,
+        "question": "Quelle fonctionnalité d'Instagram est similaire à celle de Snapchat ?",
+        "propositions": [
+          "Instagram Stories",
+          "Instagram PickUp",
+          "Instagram BlueSky",
+          "Instagram Yellow"
+        ],
+        "réponse": "Instagram Stories",
+        "anecdote": "Instagram Stories permet aux utilisateurs de partager des moments de leur quotidien sans surcharger leur page."
+      },
+      {
+        "id": 7,
+        "question": "Quel montant faut-il débourser annuellement pour utiliser Instagram ?",
+        "propositions": [
+          "10 euros",
+          "20 euros",
+          "30 euros",
+          "Gratuit"
+        ],
+        "réponse": "Gratuit",
+        "anecdote": "La stratégie marketing Instagram est fondée sur des revenus indirects (publicité) plutôt que sur la vente de l'application."
+      },
+      {
+        "id": 8,
+        "question": "Quel filtre Instagram ajoute un effet années 1970 à vos photos ?",
+        "propositions": [
+          "Rise",
+          "Valencia",
+          "Nashville",
+          "Earlybird"
+        ],
+        "réponse": "Nashville",
+        "anecdote": "Grâce au filtre Nashville, vous obtiendrez sur Instagram un effet vieilli très marqué avec des tonalités jaunes pelliculées."
+      },
+      {
+        "id": 9,
+        "question": "Quel lien cliquable peut-on désormais appliquer à une photo sur Instagram ?",
+        "propositions": [
+          "Shortcuts",
+          "Labels",
+          "Hashtags-stickers",
+          "Gif Anims"
+        ],
+        "réponse": "Hashtags-stickers",
+        "anecdote": "Les autres utilisateurs peuvent cliquer sur ce hashtag pour directement accéder à toutes les photos qui contiennent ce hashtag."
+      },
+      {
+        "id": 10,
+        "question": "Quel filtre Instagram apporte un côté romantique à vos photos ?",
+        "propositions": [
+          "Valencia",
+          "Mayfair",
+          "Hefe",
+          "Nashville"
+        ],
+        "réponse": "Valencia",
+        "anecdote": "Sur Instagram, Valencia joue sur la désaturation globale, le rendu final tirant plutôt vers le jaune et le rouge."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel américain a cofondé et lancé l'application Instagram ?",
+        "propositions": [
+          "Fred Fish",
+          "Bill Zeller",
+          "Kevin Systrom",
+          "Bruce Horn"
+        ],
+        "réponse": "Kevin Systrom",
+        "anecdote": "Rachetée par Facebook, Instagram reste aujourd'hui l'application gratuite de partage de photos la plus populaire dans le monde."
+      },
+      {
+        "id": 12,
+        "question": "Combien d'utilisateurs l'application Instagram revendiquait-elle à travers le monde fin 2019 ?",
+        "propositions": [
+          "500 millions",
+          "600 millions",
+          "400 millions",
+          "300 millions"
+        ],
+        "réponse": "600 millions",
+        "anecdote": "75 % des utilisateurs d'Instagram sont positionnés en dehors des États-Unis, selon les chiffres officiels fournis en juillet 2016."
+      },
+      {
+        "id": 13,
+        "question": "En quelle année Facebook a-t-elle acheté Instagram pour un montant hors du commun ?",
+        "propositions": [
+          "2010",
+          "2012",
+          "2016",
+          "2014"
+        ],
+        "réponse": "2012",
+        "anecdote": "Le montant d'un milliard de dollars américains déposé par Facebook a fait craindre l'éclatement d'une bulle spéculative internet."
+      },
+      {
+        "id": 14,
+        "question": "Quelle application vidéo Instagram permet de réaliser des time-lapse ?",
+        "propositions": [
+          "Boomerang",
+          "Bolt",
+          "Hyperlapse",
+          "Layout"
+        ],
+        "réponse": "Hyperlapse",
+        "anecdote": "L'application Hyperlapse permet de créer des contenus vidéos accélérées à partir de clichés pris à intervalles régulières."
+      },
+      {
+        "id": 15,
+        "question": "Quel format a généré une petite révolution dans le monde Instagram ?",
+        "propositions": [
+          "Portrait",
+          "Paysage",
+          "PNG",
+          "JPEG"
+        ],
+        "réponse": "Paysage",
+        "anecdote": "Depuis la version 7.5, les utilisateurs Instagram peuvent publier des images en format paysage dans la longueur ou la largeur."
+      },
+      {
+        "id": 16,
+        "question": "Quel outil de création Instagram génère des vidéos courtes et rembobinées ?",
+        "propositions": [
+          "Layout",
+          "Boomerang",
+          "Hyperlapse",
+          "Bolt"
+        ],
+        "réponse": "Boomerang",
+        "anecdote": "L'application permet de capter une dizaine de photos pour ensuite les assembler et les transformer en une vidéo courte."
+      },
+      {
+        "id": 17,
+        "question": "Bien que non natif, comment est appelé un partage sur Instagram ?",
+        "propositions": [
+          "Réépingle",
+          "Repost",
+          "Retweet",
+          "Partage"
+        ],
+        "réponse": "Repost",
+        "anecdote": "Les utilisateurs peuvent partager du contenu d'autres membres en réutilisant des applications tierces permettant de réaliser l'opération."
+      },
+      {
+        "id": 18,
+        "question": "Quelle politique Instagram est souvent jugée disproportionnée par ses utilisateurs ?",
+        "propositions": [
+          "Commerciale",
+          "Confidentialité",
+          "Marketing",
+          "Censure"
+        ],
+        "réponse": "Censure",
+        "anecdote": "En avril 2018, le compte Instagram de la peintre Laina Hadengue, ayant posté une femme au sein dénudé, fut supprimé sans préavis."
+      },
+      {
+        "id": 19,
+        "question": "Combien de temps a-t-il fallu pour atteindre les cent millions d'utilisateurs sur Instagram ?",
+        "propositions": [
+          "Trois ans",
+          "Six ans",
+          "Quatre ans",
+          "Cinq ans"
+        ],
+        "réponse": "Trois ans",
+        "anecdote": "Après le rachat par Facebook en 2012, elle a augmenté de façon exponentielle de cent millions voire deux cents millions par an."
+      },
+      {
+        "id": 20,
+        "question": "Quel mode Instagram vous permet de lire vos vidéos à l'envers ?",
+        "propositions": [
+          "Rise",
+          "Valencia",
+          "Rewind",
+          "Earlybird"
+        ],
+        "réponse": "Rewind",
+        "anecdote": "Vous pouvez publier ces vidéos à l'envers dans votre story et ajouter des effets à votre visage (filtres) si vous le souhaitez."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien de mentions « J'aime » sont attribuées chaque jour en moyenne sur Instagram ?",
+        "propositions": [
+          "5 milliards",
+          "4 milliards",
+          "2 milliards",
+          "3 milliards"
+        ],
+        "réponse": "4 milliards",
+        "anecdote": "Depuis qu'Instagram a été racheté par Facebook, le nombre de mentions « J'aime » a augmenté de manière exponentielle."
+      },
+      {
+        "id": 22,
+        "question": "Qui fut la personnalité la plus suivie sur le réseau Instagram en 2017 ?",
+        "propositions": [
+          "Leonardo DiCaprio",
+          "Selena Gomez",
+          "Beyoncé",
+          "Neymar"
+        ],
+        "réponse": "Selena Gomez",
+        "anecdote": "132 millions d'abonnés ont suivi quotidiennement les nombreux post de la chanteuse, soit plus d'un quart des utilisateurs d'Instagram."
+      },
+      {
+        "id": 23,
+        "question": "Quelle application Instagram permet de réaliser des collages photos ?",
+        "propositions": [
+          "Layout",
+          "Boomerang",
+          "Bolt",
+          "Hyperlapse"
+        ],
+        "réponse": "Layout",
+        "anecdote": "L'application propose différents gabarits de photo-collage que l'utilisateur peut personnaliser dans ses hauteurs et largeurs."
+      },
+      {
+        "id": 24,
+        "question": "Laquelle de ces propositions ne désigne pas un filtre actif sur Instagram ?",
+        "propositions": [
+          "Moon",
+          "Clarendon",
+          "Prospect",
+          "Gingham"
+        ],
+        "réponse": "Prospect",
+        "anecdote": "L'un des ressorts du succès de l'application Instagram sont les filtres qui permettent aux utilisateurs de modifier leurs photos."
+      },
+      {
+        "id": 25,
+        "question": "Quel outil de gestion de campagnes de pub est désormais intégré à Instagram ?",
+        "propositions": [
+          "Campainor",
+          "Advisor",
+          "Add Generator",
+          "Power Editor"
+        ],
+        "réponse": "Power Editor",
+        "anecdote": "La publicité est un enjeu important pour Instagram et plus encore pour Facebook, propriétaire du réseau."
+      },
+      {
+        "id": 26,
+        "question": "Qui compare-t-on souvent sur Instagram aux supermodels des années 1990 ?",
+        "propositions": [
+          "Instaplaymates",
+          "Instamodels",
+          "Instabombs",
+          "Instagirls"
+        ],
+        "réponse": "Instagirls",
+        "anecdote": "Ces personnalités féminines liées à la mode ou au mannequinat utilisent abondamment Instagram dans un but d'autopromotion."
+      },
+      {
+        "id": 27,
+        "question": "Combien d'utilisateurs Instagram furent touchés par le bug de septembre 2017 ?",
+        "propositions": [
+          "36 millions",
+          "26 millions",
+          "16 millions",
+          "6 millions"
+        ],
+        "réponse": "6 millions",
+        "anecdote": "L'attaque, qui visait à récupérer téléphones et e-mails, a entre autre touché Leonardo DiCaprio, Beyoncé ainsi que Neymar."
+      },
+      {
+        "id": 28,
+        "question": "Quelle fut la première application créée par Instagram après son lancement ?",
+        "propositions": [
+          "Boomerang",
+          "Bolt",
+          "Hyperlapse",
+          "Layout"
+        ],
+        "réponse": "Bolt",
+        "anecdote": "Cette messagerie permet d'envoyer à ses contacts des images et des vidéos qui seront supprimées après leur lecture."
+      },
+      {
+        "id": 29,
+        "question": "Combien d'annonceurs l'application Instagram dénombrait-elle en 2016 ?",
+        "propositions": [
+          "100 000",
+          "150 000",
+          "50 000",
+          "200 000"
+        ],
+        "réponse": "200 000",
+        "anecdote": "L'application Instagram est proposée gratuitement aux utilisateurs, les bénéfices provenant des contrats publicitaires des annonceurs."
+      },
+      {
+        "id": 30,
+        "question": "Quel élément magique d'Instagram permet de colorer/décolorer une photo ?",
+        "propositions": [
+          "Gomme",
+          "Crayon",
+          "Pinceau",
+          "Brosse"
+        ],
+        "réponse": "Gomme",
+        "anecdote": "Cette nouveauté Instagram est intégrée aux nouvelles versions des applications mobiles (v10.12 sur iOS et Android)."
+      }
+    ]
+  }
+}

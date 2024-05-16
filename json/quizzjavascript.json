@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "3 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Comment supprimer les espaces en début et fin de la chaîne ch1 ?",
+        "propositions": [
+          "supprespaces(ch1)",
+          "ch1.trim()",
+          "trim(ch1)",
+          "ch1.supprespaces()"
+        ],
+        "réponse": "ch1.trim()",
+        "anecdote": "La méthode trim() ne modifie pas la chaîne d'origine."
+      },
+      {
+        "id": 2,
+        "question": "Pour tester de nombreuses conditions sur la même variable on utilise ?",
+        "propositions": [
+          "for()",
+          "switch()",
+          "if()",
+          "while()"
+        ],
+        "réponse": "switch()",
+        "anecdote": "L'expression switch est évaluée une fois."
+      },
+      {
+        "id": 3,
+        "question": "Quelle fonction est l'inverse de split() ?",
+        "propositions": [
+          "append()",
+          "unite()",
+          "join()",
+          "concat()"
+        ],
+        "réponse": "join()",
+        "anecdote": "La méthode join() renvoie un tableau sous forme de chaîne. N'importe quel séparateur peut être spécifié. La valeur par défaut est la virgule (,)."
+      },
+      {
+        "id": 4,
+        "question": "La valeur d'une date représente le nombre de millisecondes écoulées depuis le ?",
+        "propositions": [
+          "01 Janvier 1900",
+          "01 Janvier de l'an 0",
+          "01 Janvier 1850",
+          "01 Janvier 1970"
+        ],
+        "réponse": "01 Janvier 1970",
+        "anecdote": "C'est le Timestamp Unix"
+      },
+      {
+        "id": 5,
+        "question": "Que retourne typeof (1>2) ?",
+        "propositions": [
+          "boolean",
+          "false",
+          "true",
+          "integer"
+        ],
+        "réponse": "boolean",
+        "anecdote": "L'opérateur typeof renvoie une chaîne qui indique le type de son opérande."
+      },
+      {
+        "id": 6,
+        "question": "Comment trouver la longueur de la variable Nom ?",
+        "propositions": [
+          "length(Nom)",
+          "Nom.width",
+          "width(Nom)",
+          "Nom.length"
+        ],
+        "réponse": "Nom.length",
+        "anecdote": "La propriété 'length' représente la longueur d'une chaîne de caractères. C'est une propriété accessible en lecture seule."
+      },
+      {
+        "id": 7,
+        "question": "De quelle façon déclare-t-on un tableau T1 de 20 éléments ?",
+        "propositions": [
+          "var T1=array(20)",
+          "var T1(20)",
+          "T1=new Array(20)",
+          "var T1[20]"
+        ],
+        "réponse": "T1=new Array(20)",
+        "anecdote": "T1[0] est le premier élément, T1[19] est le dernier élément."
+      },
+      {
+        "id": 8,
+        "question": "Quelle fonction permet de temporiser l'exécution d'une commande ?",
+        "propositions": [
+          "setTimeout()",
+          "wait()",
+          "SetTimer()",
+          "sleep()"
+        ],
+        "réponse": "setTimeout()",
+        "anecdote": "La méthode 'setTimeout()' appelle une fonction après un certain nombre de millisecondes : setTimeout(function, milliseconds);"
+      },
+      {
+        "id": 9,
+        "question": "Comment se rendre à l'url : 'http://www.quizz_world.com' ?",
+        "propositions": [
+          "location()",
+          "window.location.href",
+          "url()",
+          "window.location.url"
+        ],
+        "réponse": "window.location.href",
+        "anecdote": "'window.location.href' peut être utilisé pour obtenir l'adresse de la page actuelle (URL) et pour rediriger le navigateur vers une nouvelle page"
+      },
+      {
+        "id": 10,
+        "question": "Math.max(Math.SQRT2 , Math.PI , 4) retourne ?",
+        "propositions": [
+          "4",
+          "PI",
+          "la racine carrée de 2",
+          "une erreur"
+        ],
+        "réponse": "4",
+        "anecdote": "La méthode 'Math.max()' renvoie le nombre avec la valeur la plus élevée."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Comment afficher la page précédente du navigateur ?",
+        "propositions": [
+          "c'est impossible",
+          "rollback()",
+          "history.back()",
+          "previous()"
+        ],
+        "réponse": "history.back()",
+        "anecdote": "La méthode 'history.back()' ne fonctionne que si une page précédente existe."
+      },
+      {
+        "id": 12,
+        "question": "De quelle façon peut-on récupérer le nombre d'éléments d'un tableau T1 ?",
+        "propositions": [
+          "T1.count()",
+          "T1.length",
+          "length(T1)",
+          "T1.last()"
+        ],
+        "réponse": "T1.length",
+        "anecdote": "'T1.length' est toujours supérieure au plus grand indice du tableau."
+      },
+      {
+        "id": 13,
+        "question": "Comment inverser un tableau T1 ?",
+        "propositions": [
+          "T1.inverse()",
+          "T1.rollout",
+          "T1.reverse()",
+          "T1.transpose()"
+        ],
+        "réponse": "T1.reverse()",
+        "anecdote": "La méthode 'T1.reverse()' modifie le tableau courant et renvoie une référence à ce tableau."
+      },
+      {
+        "id": 14,
+        "question": "Avec l'événement 'onKeyPressed', quelle propriété stocke le code ASCII de la touche appuyée ?",
+        "propositions": [
+          "event.which",
+          "KeyAscii",
+          "fromCharCode",
+          "event.CharCode"
+        ],
+        "réponse": "event.which",
+        "anecdote": "la dernière spécification des événements DOM recommande d'utiliser la propriété 'key' à la place"
+      },
+      {
+        "id": 15,
+        "question": "Avec quoi peut-on faire référence à l'objet courant ?",
+        "propositions": [
+          "&",
+          "le point",
+          "this",
+          "->"
+        ],
+        "réponse": "this",
+        "anecdote": "'this' n'est pas une variable. C'est un mot clé. Vous ne pouvez pas modifier la valeur de 'this'."
+      },
+      {
+        "id": 16,
+        "question": "Comment sortir d'une boucle for() ou while() ?",
+        "propositions": [
+          "end",
+          "break",
+          "exit",
+          "continue"
+        ],
+        "réponse": "break",
+        "anecdote": "L'instruction 'continue' « saute » une itération dans la boucle."
+      },
+      {
+        "id": 17,
+        "question": "Qu'affiche String.fromCharCode(65) ?",
+        "propositions": [
+          "A",
+          "une erreur",
+          "true",
+          "1"
+        ],
+        "réponse": "A",
+        "anecdote": "La méthode 'String.fromCharCode()' convertit les valeurs Unicode en caractères."
+      },
+      {
+        "id": 18,
+        "question": "Quel mot clé sert à ajouter des propriétés ou méthodes à un objet existant ?",
+        "propositions": [
+          "this",
+          "create",
+          "prototype",
+          "new"
+        ],
+        "réponse": "prototype",
+        "anecdote": "Conseil : Ne modifiez que vos propres prototypes. Ne modifiez jamais les prototypes d'objets JavaScript standards."
+      },
+      {
+        "id": 19,
+        "question": "Quels sont les différents types de boutons possibles de la balise &lt;INPUT&gt; ?",
+        "propositions": [
+          "SUBMIT, RESET et BUTTON",
+          "SUBMIT et RESET",
+          "SUBMIT",
+          "SUBMIT et BUTTON"
+        ],
+        "réponse": "SUBMIT, RESET et BUTTON",
+        "anecdote": ""
+      },
+      {
+        "id": 20,
+        "question": "AJAX peut servir à ",
+        "propositions": [
+          "nettoyer la salle de bain",
+          "interroger un serveur web",
+          "exécuter JavaScript sur un serveur",
+          "exécuter des contrôles ActiveX"
+        ],
+        "réponse": "interroger un serveur web",
+        "anecdote": "AJAX permet de mettre à jour une page Web sans recharger la page, mais aussi d'envoyer des données à un serveur web en arrière plan"
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "parseInt('101 dalmatiens'); renvoie",
+        "propositions": [
+          "NaN (Not a Number)",
+          "101",
+          "une erreur",
+          "18"
+        ],
+        "réponse": "101",
+        "anecdote": "La méthode 'parseInt' analyse une valeur sous forme de chaîne et renvoie le premier entier."
+      },
+      {
+        "id": 22,
+        "question": "Si ch1='WXYZ', que retourne ch1.CharAT(3)",
+        "propositions": [
+          "true",
+          "une erreur",
+          "Y",
+          "Z"
+        ],
+        "réponse": "une erreur",
+        "anecdote": "Attention au camelCase en JavaScript !!!"
+      },
+      {
+        "id": 23,
+        "question": "Quel est l'événement inverse de onFocus ?",
+        "propositions": [
+          "onFocusDown",
+          "onFocusOff",
+          "onBlur",
+          "onDeselect"
+        ],
+        "réponse": "onBlur",
+        "anecdote": "L'événement 'onblur' se produit lorsqu'un objet perd le focus."
+      },
+      {
+        "id": 24,
+        "question": "Quelle instruction ouvre une nouvelle fenêtre ?",
+        "propositions": [
+          "open.url()",
+          "open.html()",
+          "window.open()",
+          "url.open()"
+        ],
+        "réponse": "window.open()",
+        "anecdote": "La méthode 'open()' ouvre une nouvelle fenêtre de navigateur ou un nouvel onglet, selon les paramètres de votre navigateur et les valeurs des paramètres."
+      },
+      {
+        "id": 25,
+        "question": "Comment télécharger et mettre une image en cache afin d'éviter les délais d'affichage ?",
+        "propositions": [
+          "preload()",
+          "load Image()",
+          "new Image()",
+          "cache()"
+        ],
+        "réponse": "new Image()",
+        "anecdote": "Le constructeur 'Image()' crée une nouvelle instance HTMLImageElement, équivalent à 'document.createElement('img')'"
+      },
+      {
+        "id": 26,
+        "question": "alert(i++); et alert(++i); renvoient ",
+        "propositions": [
+          "deux erreurs",
+          "i et i+1",
+          "i+1 et i+1",
+          "i+1 et une erreur"
+        ],
+        "réponse": "i et i+1",
+        "anecdote": "i++ incrémente la valeur et renvoie la valeur avant incrément, ++i renvoie la valeur après incrément"
+      },
+      {
+        "id": 27,
+        "question": "Dans la hiérarchie des objets, quel est le parent direct de l'objet 'checkbox' ?",
+        "propositions": [
+          "document",
+          "window",
+          "body",
+          "form"
+        ],
+        "réponse": "form",
+        "anecdote": "L'interface 'HTMLFormElement' représente un élément &lt;form&gt; dans le DOM"
+      },
+      {
+        "id": 28,
+        "question": "Quel objet permet au JavaScript de dialoguer avec un serveur web ?",
+        "propositions": [
+          "mysql_db_query",
+          "http_get_request",
+          "XMLparseRequest",
+          "XMLHttpRequest"
+        ],
+        "réponse": "XMLHttpRequest",
+        "anecdote": "Tous les navigateurs modernes prennent en charge l'objet 'XMLHttpRequest', aujourd'hui on utilisera plutôt l'API Fetch() de JavaScript."
+      },
+      {
+        "id": 29,
+        "question": "Quelle méthode JavaScript est utilisée pour rattacher un gestionnaire d'évènements à un élément de la page ?",
+        "propositions": [
+          "addEventListener()",
+          "XMLHttpRequest()",
+          "on()",
+          "event()"
+        ],
+        "réponse": "addEventListener()",
+        "anecdote": "La méthode 'removeEventListener()' permet de supprimer un gestionnaire d'évènements sur un élément"
+      },
+      {
+        "id": 30,
+        "question": "Comment parcourir toutes les valeurs du tableau T1 ?",
+        "propositions": [
+          "for(T1[]<>NULL) { }",
+          "for(each(T1[]) { }",
+          "for(i in T1) { }",
+          "for(T1[i]) { }"
+        ],
+        "réponse": "for(i in T1) { }",
+        "anecdote": "L'instruction 'for...in' permet d'itérer sur les propriétés énumérables d'un objet"
+      }
+    ]
+  }
+}

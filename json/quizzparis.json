@@ -1,0 +1,374 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",       
+  "difficulté": "2 / 5",
+  "version": 1,
+  "quizz": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Lequel de ces surnoms est parfois donné à la ville de Paris ?",
+        "propositions": [
+          "Ville des Vents",
+          "Cité des Anges",
+          "Troisième Rome",
+          "Ville Lumière"
+        ],
+        "réponse": "Ville Lumière",
+        "anecdote": "La ville de Paris a attiré en 2017 près de 34 millions de visiteurs, ce qui en fait une des capitales les plus visitées au monde."
+      },
+      {
+        "id": 2,
+        "question": "En 2024, combien de fois Paris aura-t-elle accueilli les Jeux olympiques ?",
+        "propositions": [
+          "Deux fois",
+          "Quatre fois",
+          "Trois fois",
+          "Une fois"
+        ],
+        "réponse": "Trois fois",
+        "anecdote": "En 2024, Paris sera la deuxième ville avec Londres à avoir accueilli trois fois les Jeux olympiques après ceux de 1900 et ceux de 1924."
+      },
+      {
+        "id": 3,
+        "question": "De part et d'autre de quel fleuve s'étend la ville de Paris ?",
+        "propositions": [
+          "Garonne",
+          "Seine",
+          "Rhône",
+          "Meuse"
+        ],
+        "réponse": "Seine",
+        "anecdote": "La ville de Paris s'étend sur une superficie environ deux fois supérieure au nord (rive droite) à celle au sud (rive gauche)."
+      },
+      {
+        "id": 4,
+        "question": "Quelle étendue boisée est située dans le 16e arrondissement de Paris ?",
+        "propositions": [
+          "Parc Monceau",
+          "Buttes-Chaumont",
+          "Bois de Boulogne",
+          "Bois de Vincennes"
+        ],
+        "réponse": "Bois de Boulogne",
+        "anecdote": "Couvrant une superficie de 846 ha dans l'ouest de la ville, le bois de Boulogne est l'un des poumons de la capitale française."
+      },
+      {
+        "id": 5,
+        "question": "Dans quel quartier est situé le point culminant de la capitale française ?",
+        "propositions": [
+          "Montmartre",
+          "Opéra",
+          "Popincourt",
+          "Vaugirard"
+        ],
+        "réponse": "Montmartre",
+        "anecdote": "Les deux accès au sommet de la colline les plus connus sont le funiculaire et l'escalier de la rue Foyatier, avec ses 222 marches."
+      },
+      {
+        "id": 6,
+        "question": "Quel transport en commun assure jusqu'à 20 % des déplacements parisiens ?",
+        "propositions": [
+          "Métro",
+          "Bus",
+          "Taxi",
+          "RER"
+        ],
+        "réponse": "Métro",
+        "anecdote": "Exploité par la RATP, il comporte seize lignes en site propre, essentiellement souterraines, totalisant près de 220 kilomètres."
+      },
+      {
+        "id": 7,
+        "question": "Quel aéroport francilien est situé à 10 km au sud de Paris ?",
+        "propositions": [
+          "Charles-de-Gaulle",
+          "Beauvais",
+          "Orly",
+          "Mérignac"
+        ],
+        "réponse": "Orly",
+        "anecdote": "L'aéroport compte 270 entreprises représentant 25 000 salariés, des bureaux et 15 000 places de parking réparties en 14 parcs."
+      },
+      {
+        "id": 8,
+        "question": "Quelle colonne est un élément du mobilier urbain initialement parisien ?",
+        "propositions": [
+          "Colonne Guimard",
+          "Colonne Wallace",
+          "Colonne Morris",
+          "Colonne Davioud"
+        ],
+        "réponse": "Colonne Morris",
+        "anecdote": "De forme cylindrique, la colonne Morris sert principalement de support à la promotion des spectacles et des films."
+      },
+      {
+        "id": 9,
+        "question": "Qui est devenue en 2014 la première femme maire de Paris ?",
+        "propositions": [
+          "Gisèle Halimi",
+          "Christine Herzog",
+          "Anne Hidalgo",
+          "Hélène Hardy"
+        ],
+        "réponse": "Anne Hidalgo",
+        "anecdote": "Membre du PS, Anne Hidalgo possède la double nationalité franco-espagnole mais n'a pas d'activité politique en Espagne."
+      },
+      {
+        "id": 10,
+        "question": "Quel stade de football a pour résident actuel le Paris Saint-Germain ?",
+        "propositions": [
+          "Parc des princes",
+          "Stade de France",
+          "Vélodrome",
+          "Groupama Stadium"
+        ],
+        "réponse": "Parc des princes",
+        "anecdote": "C'est le cinquième plus grand stade français mais aussi l'un des plus anciens et des plus connus de la région parisienne."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle est la plus large des avenues de la voirie parisienne ?",
+        "propositions": [
+          "Avenue Foch",
+          "Avenue de Neuilly",
+          "Avenue Mozart",
+          "Avenue Matignon"
+        ],
+        "réponse": "Avenue Foch",
+        "anecdote": "L'avenue Foch est longue de 1 300 mètres et large de 120 mètres grâce aux jardins qui la bordent."
+      },
+      {
+        "id": 12,
+        "question": "Quelle chapelle est devenue le symbole de l'Université de Paris ?",
+        "propositions": [
+          "Sorbonne",
+          "Sainte-Rita",
+          "Père-Lachaise",
+          "Épiphanie"
+        ],
+        "réponse": "Sorbonne",
+        "anecdote": "La chapelle actuelle a été reconstruite au XVIIe siècle par le cardinal de Richelieu, dont elle fut également le mausolée."
+      },
+      {
+        "id": 13,
+        "question": "Quel est le plus grand cimetière parisien de Paris intra muros ?",
+        "propositions": [
+          "Montparnasse",
+          "Montmartre",
+          "Belleville",
+          "Père-Lachaise"
+        ],
+        "réponse": "Père-Lachaise",
+        "anecdote": "Il accueille chaque année plus de trois millions et demi de visiteurs, ce qui en fait le cimetière le plus visité au monde."
+      },
+      {
+        "id": 14,
+        "question": "En 2019, quel musée comptait 2 091 employés dont 1 232 agents de surveillance ?",
+        "propositions": [
+          "Musée du Louvre",
+          "Musée Rodin",
+          "Musée Carnavalet",
+          "Musée d'Orsay"
+        ],
+        "réponse": "Musée du Louvre",
+        "anecdote": "Avec 8 millions de visiteurs annuels, le Louvre est le musée le plus visité au monde et le site culturel payant le plus visité de France."
+      },
+      {
+        "id": 15,
+        "question": "Combien de visiteurs environ se sont rendus à Paris en 2017 ?",
+        "propositions": [
+          "19 millions",
+          "44 millions",
+          "34 millions",
+          "26 millions"
+        ],
+        "réponse": "34 millions",
+        "anecdote": "Paris occupe également une place prépondérante mondiale dans le milieu de la mode, du luxe et de la haute gastronomie."
+      },
+      {
+        "id": 16,
+        "question": "Quelle est la longueur approximative totale des égouts de Paris ?",
+        "propositions": [
+          "1 800 km",
+          "2 600 km",
+          "3 000 km",
+          "2 200 km"
+        ],
+        "réponse": "2 600 km",
+        "anecdote": "Les égouts de Paris ont fortement évolué depuis les travaux entrepris par le préfet Haussmann et l'ingénieur Eugène Belgrand."
+      },
+      {
+        "id": 17,
+        "question": "Avec quelle unique autre ville d'Europe Paris est-elle jumelée ?",
+        "propositions": [
+          "Berlin",
+          "Athènes",
+          "Madrid",
+          "Rome"
+        ],
+        "réponse": "Rome",
+        "anecdote": "Ce jumelage est valable dans l'autre sens, avec ce slogan : « Seul Paris est digne de Rome, seule Rome est digne de Paris »."
+      },
+      {
+        "id": 18,
+        "question": "Devant quel bâtiment se situe le point zéro des routes de France ?",
+        "propositions": [
+          "Sainte-Chapelle",
+          "Lycée Henri-IV",
+          "Tour Saint-Jacques",
+          "Notre-Dame"
+        ],
+        "réponse": "Notre-Dame",
+        "anecdote": "Le point zéro des routes de France est le point zéro de Paris, c'est-à-dire le point kilométrique 0 des routes quittant la capitale."
+      },
+      {
+        "id": 19,
+        "question": "À Paris, quel jardin à l'anglaise imite un paysage de montagne ?",
+        "propositions": [
+          "Buttes-Chaumont",
+          "Trocadéro",
+          "Invalides",
+          "Palais-Royal"
+        ],
+        "réponse": "Buttes-Chaumont",
+        "anecdote": "Il s'agit d'un des espaces verts parisiens présentant le plus grand dénivelé (plus de 40 m), héritage des carrières de ses fondations."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la plus longue rue de Paris intra-muros, avec quatre kilomètres de longueur ?",
+        "propositions": [
+          "Rue de Vaugirard",
+          "Rue de Paradis",
+          "Rue Lecourbe",
+          "Rue La Fayette"
+        ],
+        "réponse": "Rue de Vaugirard",
+        "anecdote": "Avec ses 4 360 mètres de longueur, la rue de Vaugirard qui traverse les 6e et 15e arr., correspond à 407 numéros d'immeubles."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En combien d'arrondissements municipaux la ville de Paris est-elle divisée ?",
+        "propositions": [
+          "Seize",
+          "Huit",
+          "Vingt",
+          "Douze"
+        ],
+        "réponse": "Vingt",
+        "anecdote": "Les arrondissements, dans leur état actuel, ont été délimités par la loi du 16 juin 1859, qui a porté leur nombre de douze à vingt."
+      },
+      {
+        "id": 22,
+        "question": "Quelle business school parisienne est l'une des plus reconnues au monde ?",
+        "propositions": [
+          "ICAM",
+          "UTC",
+          "PSB",
+          "HEC"
+        ],
+        "réponse": "HEC",
+        "anecdote": "L'École se situe dans la partie nord du futur cluster technologique Paris-Saclay, qui doit rassembler 25 % de la recherche publique."
+      },
+      {
+        "id": 23,
+        "question": "Quelle manifestation commerciale a lieu chaque année fin avril à Paris ?",
+        "propositions": [
+          "Paris Plages",
+          "Foire du Trône",
+          "Mille-Colonnes",
+          "Foire de Paris"
+        ],
+        "réponse": "Foire de Paris",
+        "anecdote": "La Foire de Paris, organisée à Paris depuis 1904, se déroule depuis 1923 au parc des expositions de la porte de Versailles."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le plus ancien hôpital de la capitale française ?",
+        "propositions": [
+          "Hôtel-Dieu",
+          "Raymond Sans",
+          "Hôpital de la Pitié",
+          "Alphonse Gardie"
+        ],
+        "réponse": "Hôtel-Dieu",
+        "anecdote": "Depuis 50 ans, il se consacre presque exclusivement au dépistage, au traitement et à la prévention des complications du diabète sucré."
+      },
+      {
+        "id": 25,
+        "question": "Quelle rivière, aujourd'hui entièrement souterraine, traverse Paris ?",
+        "propositions": [
+          "Essonne",
+          "Lézarde",
+          "Bièvre",
+          "Sarce"
+        ],
+        "réponse": "Bièvre",
+        "anecdote": "La Bièvre est une rivière qui prend source à Guyancourt et qui se jette dans le collecteur principal des égouts de Paris."
+      },
+      {
+        "id": 26,
+        "question": "Quel organisme français surveille la pollution atmosphérique de Paris ?",
+        "propositions": [
+          "Bloom",
+          "Airparif",
+          "Globice",
+          "Enercoop"
+        ],
+        "réponse": "Airparif",
+        "anecdote": "Des mesures faisant l'objet d'analyses en laboratoires sur une soixantaine de polluants complètent le dispositif de stations."
+      },
+      {
+        "id": 27,
+        "question": "Quelles célèbres fontaines furent implantées en premier à Paris ?",
+        "propositions": [
+          "Wallace",
+          "Miller",
+          "Morris",
+          "Barnett"
+        ],
+        "réponse": "Wallace",
+        "anecdote": "Dessinées par Charles-Auguste Lebourg, elles tiennent leur nom de Richard Wallace, philanthrope anglais qui finança leur édification."
+      },
+      {
+        "id": 28,
+        "question": "Quel pourcentage du parc immobilier urbain le logement social de Paris représente-t-il ?",
+        "propositions": [
+          "47 %",
+          "37 %",
+          "27 %",
+          "17 %"
+        ],
+        "réponse": "17 %",
+        "anecdote": "Les dix premiers arrondissements du centre historique ne totalisent que 6 % des logements sociaux de la ville, pour 23 % du parc total."
+      },
+      {
+        "id": 29,
+        "question": "Quel passage est un haut lieu de l'immigration indo-pakistanaise à Paris ?",
+        "propositions": [
+          "Passage Vendôme",
+          "Passage Brady",
+          "Passage du Prado",
+          "Passage Puteaux"
+        ],
+        "réponse": "Passage Brady",
+        "anecdote": "Le nom de la rue fait référence à un propriétaire des terrains, M. Brady, commerçant établi au 46 du faubourg Saint-Denis."
+      },
+      {
+        "id": 30,
+        "question": "Quelle est la place la plus ancienne de Paris, juste avant la place Dauphine ?",
+        "propositions": [
+          "Place des Vosges",
+          "Place d'Armes",
+          "Place des Victoires",
+          "Place Stanislas"
+        ],
+        "réponse": "Place des Vosges",
+        "anecdote": "La place des Vosges est connue pour être le lieu de résidence de plusieurs personnalités issues du monde politique et artistique."
+      }
+    ]
+  }
+}

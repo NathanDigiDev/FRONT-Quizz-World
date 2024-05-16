@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Périgord (Patrimoine culturel, archéologique et historique)",
+  "difficulté": "4 / 5",
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Laquelle de ces couleurs ne désigne pas une région du Périgord ?",
+        "propositions": [
+          "Blanc",
+          "Bleu",
+          "Pourpre",
+          "Vert"
+        ],
+        "réponse": "Bleu",
+        "anecdote": "Le nom Périgord vient du peuple gaulois des Pétrocores, 'Petrocorii' en gaulois, ce qui veut dire Quatre armées."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on les habitants de la ville de Périgueux ?",
+        "propositions": [
+          "Périgourdins",
+          "Promontois",
+          "Périeusins",
+          "Pirigueusois"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Labellisée 4 fleurs, Périgueux est la capitale culturelle et touristique du Périgord blanc, dans la vallée de l'Isle."
+      },
+      {
+        "id": 3,
+        "question": "Dans quel département le Périgord et ses quatre régions sont-ils inscrits ?",
+        "propositions": [
+          "Dordogne",
+          "Aveyron",
+          "Vaucluse",
+          "Calvados"
+        ],
+        "réponse": "Dordogne",
+        "anecdote": "La Dordogne, troisième département français métropolitain par sa superficie, fait partie de la région Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "Quelle spécialité culinaire du Périgord est issue de l'engraissement par gavage ?",
+        "propositions": [
+          "Blanc de boeuf",
+          "Propolis",
+          "Foie gras",
+          "Poil de jarre"
+        ],
+        "réponse": "Foie gras",
+        "anecdote": "Le foie gras se consomme cru, mi-cuit ou cuit, et peut être proposé sous forme de produit frais ou en conserve."
+      },
+      {
+        "id": 5,
+        "question": "Quelle grotte ornée du Paléolithique se situe dans la vallée de la Vézère ?",
+        "propositions": [
+          "Cussac",
+          "Niaux",
+          "Razet",
+          "Lascaux"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "Les peintures et les gravures qu'elle renferme n'ont pas pu faire l'objet de datations directes précises : environ 18 000 et 17 000 ans."
+      },
+      {
+        "id": 6,
+        "question": "À quoi la région du Périgord blanc doit-elle principalement son nom ?",
+        "propositions": [
+          "Miel",
+          "Sucre",
+          "Pierre",
+          "Sable"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Elle occupe les territoires des régions naturelles du Ribéracois, du Périgord central, de la Double et d'une partie du Landais."
+      },
+      {
+        "id": 7,
+        "question": "Quel confit se mange généralement avec des pommes de terre à la sarladaise ?",
+        "propositions": [
+          "Confit d'oignons",
+          "Confit de vin",
+          "Confit de fleurs",
+          "Confit de canard"
+        ],
+        "réponse": "Confit de canard",
+        "anecdote": "Ce confit se prépare avec des oiseaux gras, engraissés par gavage, les mêmes qui servent à produire le magret et le foie gras."
+      },
+      {
+        "id": 8,
+        "question": "Avec ses grands champs de céréales, quel surnom est donné au Périgord blanc ?",
+        "propositions": [
+          "Grenier du Périgord",
+          "Cave du Périgord",
+          "Jardin du Périgord",
+          "Salon du Périgord"
+        ],
+        "réponse": "Grenier du Périgord",
+        "anecdote": "Le Périgord blanc, ancienne région naturelle, correspondait aux plateaux calcaires du Ribéracois et du Verteillacois."
+      },
+      {
+        "id": 9,
+        "question": "Autour de quelle ville se déploient les vignobles du Périgord pourpre ?",
+        "propositions": [
+          "Thiviers",
+          "Montignac",
+          "Bergerac",
+          "Le Bugue"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 viticulteurs y cultivent une superficie de 12 000 hectares, produisant des vins rouges, blancs, moelleux, liquoreux et rosés."
+      },
+      {
+        "id": 10,
+        "question": "Que produisent, en classification AOC, 612 communes du Périgord ?",
+        "propositions": [
+          "Noix",
+          "Citrons",
+          "Haricots",
+          "Pommes"
+        ],
+        "réponse": "Noix",
+        "anecdote": "Noix du Périgord est une appellation d'origine qui désigne les noix fraîches ou primeurs, les noix sèches et les cerneaux de noix."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Autour de quelle ville le Périgord noir se développe-t-il principalement ?",
+        "propositions": [
+          "Sarlat-la-Canéda",
+          "Montignac",
+          "Périgueux",
+          "Bergerac"
+        ],
+        "réponse": "Sarlat-la-Canéda",
+        "anecdote": "Cette cité historique est un site touristique majeur, renommé pour sa parure monumentale datant de la période médiévale."
+      },
+      {
+        "id": 12,
+        "question": "Quel vin du Périgord comprend cabernet-franc, cabernet-sauvignon et merlot ?",
+        "propositions": [
+          "Tavel",
+          "Bergerac",
+          "Buzet",
+          "Saumur"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Comme la plupart des appellations de par le monde, les vins rouges de Bergerac peuvent être des vins de fruit à boire assez rapidement."
+      },
+      {
+        "id": 13,
+        "question": "Quelle est historiquement la plus ancienne des quatre appellations du Périgord ?",
+        "propositions": [
+          "Pourpre",
+          "Vert",
+          "Noir",
+          "Blanc"
+        ],
+        "réponse": "Noir",
+        "anecdote": "Le Périgord noir tire son nom des importantes forêts de chênes verts très sombres et n'a, initialement, rien à voir avec les truffes."
+      },
+      {
+        "id": 14,
+        "question": "Quel ancien précepteur du duc de Bourgogne possède un château à son nom ?",
+        "propositions": [
+          "Du Moulin",
+          "Fabricius",
+          "Mascaron",
+          "Fénelon"
+        ],
+        "réponse": "Fénelon",
+        "anecdote": "Le château de Fénelon est implanté à Sainte-Mondane dans le département de la Dordogne, en Nouvelle-Aquitaine."
+      },
+      {
+        "id": 15,
+        "question": "Quelle région du Périgord recouvre la partie granitique de la Dordogne ?",
+        "propositions": [
+          "Blanc",
+          "Vert",
+          "Pourpre",
+          "Noir"
+        ],
+        "réponse": "Vert",
+        "anecdote": "Le Nontronnais est une région naturelle située au nord du département de la Dordogne, dans la région Nouvelle-Aquitaine."
+      },
+      {
+        "id": 16,
+        "question": "Quel château de Dordogne est évoqué dans 'Jacquou le Croquant' ?",
+        "propositions": [
+          "Château de Puivert",
+          "Château des Ormes",
+          "Château de l'Herm",
+          "Château de Beynac"
+        ],
+        "réponse": "Château de l'Herm",
+        "anecdote": "La plupart des lieux décrits dans le roman existent réellement, sur la rive droite de la Vallée de la Vézère, dans le Périgord."
+      },
+      {
+        "id": 17,
+        "question": "Quel type d'habitat souterrain ou creusé retrouve-t-on au Périgord ?",
+        "propositions": [
+          "Nomade",
+          "Antique",
+          "Troglodytique",
+          "Amérindien"
+        ],
+        "réponse": "Troglodytique",
+        "anecdote": "De l'abri sous roche au château ou à la cité souterraine, cette architecture a une fonction d'habitat temporaire ou permanent."
+      },
+      {
+        "id": 18,
+        "question": "Quelle ancienne bastide médiévale se situe dans l'arrondissement de Sarlat ?",
+        "propositions": [
+          "Dussac",
+          "Daglan",
+          "Douville",
+          "Domme"
+        ],
+        "réponse": "Domme",
+        "anecdote": "La bastide de Domme, perchée sur une falaise à 210 mètres d'altitude, domine la Dordogne de plus de cent mètres."
+      },
+      {
+        "id": 19,
+        "question": "Quel château est entouré d'un vignoble réputé, face à Bergerac ?",
+        "propositions": [
+          "Marfontaine",
+          "Montardier",
+          "Magny",
+          "Monbazillac"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Vers 1550, le château fut construit d'un seul jet par Charles d'Aydie sur un plan simple : un rectangle et quatre tours circulaires."
+      },
+      {
+        "id": 20,
+        "question": "Sous quel roi la notion de comté est-elle apparue pour le Périgord ?",
+        "propositions": [
+          "Charles VI",
+          "Louis le Pieux",
+          "Charlemagne",
+          "Henri IV"
+        ],
+        "réponse": "Charlemagne",
+        "anecdote": "Le comté était la base des divisions territoriales réalisées pour délimiter un pagus, confié à un comte nommé par l'empereur."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel château arborant un style Renaissance est situé sur la commune de Villars ?",
+        "propositions": [
+          "Puyguilhem",
+          "Beynac",
+          "Monbazillac",
+          "Herm"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "En 1938, l'État a exproprié pour cause d'utilité publique son propriétaire (de Rastignac) qui a laissé le château tomber en ruine."
+      },
+      {
+        "id": 22,
+        "question": "Quelle commune du sud-ouest de la France est appelée la Venise du Périgord ?",
+        "propositions": [
+          "Eymet",
+          "Coursac",
+          "Brantôme",
+          "Trélissac"
+        ],
+        "réponse": "Brantôme",
+        "anecdote": "Le centre-ville s'inscrit sur une île de 300 mètres de diamètre formée par la Dronne, à l'origine du surnom de Venise du Périgord."
+      },
+      {
+        "id": 23,
+        "question": "Quelle cathédrale de Périgueux est classée monument historique depuis 1840 ?",
+        "propositions": [
+          "Saint-Nazaire",
+          "Saint-Caprais",
+          "Saint-André",
+          "Saint-Front"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "Le carillon de Saint-Front a été enregistré en 1938 par la radio nationale comme annonce du programme religieux dominical."
+      },
+      {
+        "id": 24,
+        "question": "Quel écrivain et philosophe français est né en 1533 dans le Périgord ?",
+        "propositions": [
+          "Guillaume Bigot",
+          "Michel de Montaigne",
+          "Pierre Charron",
+          "Jean Bodin"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Le plus souvent souffrant ou maladif, Michel de Montaigne a hâté ses écrits et a essayé de guérir en voyageant vers des lieux de cure."
+      },
+      {
+        "id": 25,
+        "question": "Par quel traité le Périgord est-il passé sous souveraineté anglaise ?",
+        "propositions": [
+          "Traité de Brétigny",
+          "Traité du Crotoy",
+          "Traité de Romans",
+          "Traité de Loudun"
+        ],
+        "réponse": "Traité de Brétigny",
+        "anecdote": "Le traité mit un terme aux quatre années de captivité à Londres de Jean II le Bon, prisonnier des Anglais depuis la bataille de Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Quels jardins de Véazc sont inscrits sur la liste des jardins remarquables ?",
+        "propositions": [
+          "Marqueyssac",
+          "Caudon",
+          "Losse",
+          "Hautefort"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Sur les vingt-deux hectares du domaine de Marqueyssac, dix-neuf forment un site classé pour son intérêt pittoresque et historique."
+      },
+      {
+        "id": 27,
+        "question": "Quel château a servi de cadre au tournage de 'Jeanne d'Arc' de Luc Besson ?",
+        "propositions": [
+          "Chavagnac",
+          "Beynac",
+          "Marzac",
+          "Rastignac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Ce château, classé monument historique le 11 février 1944, est l'un des mieux conservés et l'un des plus réputés de la région."
+      },
+      {
+        "id": 28,
+        "question": "Dans quelle ville est né l'écrivain humaniste Étienne de La Boétie ?",
+        "propositions": [
+          "Montignac",
+          "Bergerac",
+          "Périgueux",
+          "Sarlat"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "La Boétie est célèbre pour son 'Discours de la servitude volontaire' et fut l'ami de Montaigne qui lui rendit hommage dans ses 'Essais'."
+      },
+      {
+        "id": 29,
+        "question": "Quel arbre a donné son nom au village de Limeuil, dans le Périgord pourpre ?",
+        "propositions": [
+          "Orme",
+          "Sapin",
+          "Hêtre",
+          "Chêne"
+        ],
+        "réponse": "Orme",
+        "anecdote": "Le préfixe lim vient du terme lemo qui signifie orme, et euil dérive du terme ialo désigne un espace découvert."
+      },
+      {
+        "id": 30,
+        "question": "Quel canal latéral à la Dordogne, long de 15 km, est situé en amont de Bergerac ?",
+        "propositions": [
+          "Canal de Lalinde",
+          "Canal des Landes",
+          "Canal du Lagoin",
+          "Canal des Moines"
+        ],
+        "réponse": "Canal de Lalinde",
+        "anecdote": "Le canal de Lalinde a été utilisé jusqu'à la Seconde Guerre mondiale malgré la concurrence du chemin de fer à partir de 1879."
+      }
+    ]
+  }
+}

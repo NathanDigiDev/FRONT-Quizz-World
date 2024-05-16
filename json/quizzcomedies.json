@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "2 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui est en fait Pouic-Pouic dans la comédie du même nom avec Louis de Funès ?",
+        "propositions": [
+          "Louis de Funès",
+          "Un coq",
+          "Un chat",
+          "Jacqueline Maillan"
+        ],
+        "réponse": "Un coq",
+        "anecdote": "Lorsque la pièce de théâtre fut montée en 1952, Louis de Funès jouait alors le maître d'hôtel, interprété ici par Christian Marin."
+      },
+      {
+        "id": 2,
+        "question": "Qui est aux côtés de Christian Clavier dans « Les anges gardiens » ?",
+        "propositions": [
+          "Marie-Anne Chazel",
+          "Gérard Depardieu",
+          "Gérard Jugnot",
+          "Jean Reno"
+        ],
+        "réponse": "Gérard Depardieu",
+        "anecdote": "Les similitudes avec « Les Visiteurs » sont l'opposition entre Tarain et son ange, le groom violemment expédié et la disparition des anges."
+      },
+      {
+        "id": 3,
+        "question": "De combien doivent hériter chacun des frères de la comédie « Les 3 frères » ?",
+        "propositions": [
+          "100 briques",
+          "100 francs",
+          "100 patates",
+          "100 euros"
+        ],
+        "réponse": "100 patates",
+        "anecdote": "Le film réunissant la troupe comique des Inconnus, sorti en 1995. fut réalisé par Didier Bourdon et Bernard Campan eux-mêmes."
+      },
+      {
+        "id": 4,
+        "question": "Qui est surnommé « Ma biche » par Louis de Funès dans la plupart de ses films ?",
+        "propositions": [
+          "Sa fille",
+          "Sa mère",
+          "Sa femme",
+          "Sa soeur"
+        ],
+        "réponse": "Sa femme",
+        "anecdote": "Claude Gensac ayant souvent joué sa femme à l'écran, beaucoup de Français croyaient qu'elle était aussi sa femme dans la vie."
+      },
+      {
+        "id": 5,
+        "question": "Qui incarne Jean-Claude Van-Damme dans la comédie « JCVD » ?",
+        "propositions": [
+          "Son frère",
+          "Son fils",
+          "Lui-même",
+          "Son père"
+        ],
+        "réponse": "Lui-même",
+        "anecdote": "Les critiques louent le surprenant contre-emploi de Jean-Claude Van Damme qui dévoile des réelles qualités d'acteurs."
+      },
+      {
+        "id": 6,
+        "question": "Dans l'un de ses films, Coluche est surnommé Inspecteur...",
+        "propositions": [
+          "La Bavure",
+          "La Banqueroute",
+          "La Bévue",
+          "La Bêtise"
+        ],
+        "réponse": "La Bavure",
+        "anecdote": "Le personnage de Roger Morzini est un pastiche de Jacques Mesrine, ennemi public numéro 1 tué par la police un an avant le film."
+      },
+      {
+        "id": 7,
+        "question": "Dans quel café-théâtre se sont fait connaître les acteurs des Bronzés ?",
+        "propositions": [
+          "Le Super",
+          "Le Spécial",
+          "Le Sublime",
+          "Le Splendid"
+        ],
+        "réponse": "Le Splendid",
+        "anecdote": "Anémone, Martin Lamotte, Dominique Lavanant et Roland Giraud ont souvent accompagné la troupe sur scène ou devant la caméra."
+      },
+      {
+        "id": 8,
+        "question": "Quel diplôme tentent de décrocher les élèves dans « Les Sous-doués » ?",
+        "propositions": [
+          "Brevet",
+          "Baccalauréat",
+          "BEP",
+          "Master"
+        ],
+        "réponse": "Baccalauréat",
+        "anecdote": "La machine à apprendre n'est pas très fiable : elle prétend que l'ONU a été fondée en 1942, alors que c'est en 1945."
+      },
+      {
+        "id": 9,
+        "question": "Qui incarne le fameux extra-terrestre jaune dans « La Soupe aux choux » ?",
+        "propositions": [
+          "Bernard Campan",
+          "Louis de Funès",
+          "Jacques Villeret",
+          "Michel Galabru"
+        ],
+        "réponse": "Jacques Villeret",
+        "anecdote": "Louis de Funès tournera pour la première fois avec écran de contrôle vidéo, permettant de visionner immédiatement les prises."
+      },
+      {
+        "id": 10,
+        "question": "Qui a écrit les dialogues cultes des « Tontons Flingueurs » ?",
+        "propositions": [
+          "Georges Lautner",
+          "Jean Cocteau",
+          "Michel Audiard",
+          "Marguerite Duras"
+        ],
+        "réponse": "Michel Audiard",
+        "anecdote": "En 2003, une édition numérotée du film à 1 963 exemplaires sous coffret en bois a été proposée en y associant « Les Barbouzes »."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel est le nom de famille de Pierre Richard dans le film « La chèvre » de Francis Veber ?",
+        "propositions": [
+          "Pignon",
+          "Duchemin",
+          "Perrin",
+          "Tricatel"
+        ],
+        "réponse": "Perrin",
+        "anecdote": "Les rôles devaient à l'origine être tenus par Lino Ventura et Jacques Villeret, mais le premier ne souhaitait pas tourner avec le second."
+      },
+      {
+        "id": 12,
+        "question": "Où se trouve mon curé selon un titre de comédie française ?",
+        "propositions": [
+          "Chez les nudistes",
+          "Chez les mondains",
+          "Chez les nonnes",
+          "Chez les grecs"
+        ],
+        "réponse": "Chez les nudistes",
+        "anecdote": "Ce film, qualifié de navet par les Cahiers du cinéma et de chef-d'oeuvre par l'animateur Arthur, a fait 1 173 770 entrées."
+      },
+      {
+        "id": 13,
+        "question": "Lequel de ces chanteurs est aussi acteur comique à ses heures ?",
+        "propositions": [
+          "Charles Aznavour",
+          "Boris Vian",
+          "Claude Nougaro",
+          "Jacques Brel"
+        ],
+        "réponse": "Jacques Brel",
+        "anecdote": "En décembre 2005, Jacques Brel fut élu au rang de « plus grand Belge » par le public de la RTBF (Radio-télévision belge)."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le nom de la famille modeste de « La vie est un long fleuve tranquille » ?",
+        "propositions": [
+          "Fraise",
+          "Cerise",
+          "Mûre",
+          "Groseille"
+        ],
+        "réponse": "Groseille",
+        "anecdote": "Le film a été tourné pendant l'été 1987 dans plusieurs localités du Nord : Roubaix, Lille, Tourcoing et Villeneuve-d'Ascq."
+      },
+      {
+        "id": 15,
+        "question": "Qui a réalisé « Les visiteurs », comptabilisant plus de 14 millions d'entrées ?",
+        "propositions": [
+          "Claude Berri",
+          "Jean-Marie Poiré",
+          "Claude Lelouch",
+          "Claude Zidi"
+        ],
+        "réponse": "Jean-Marie Poiré",
+        "anecdote": "Après son succès au box-office, le film fut nommé huit fois à la 19e cérémonie des César, pour n'en recevoir finalement qu'un."
+      },
+      {
+        "id": 16,
+        "question": "Quel personnage joue Jamel Debbouze dans « Astérix et Obélix : Mission Cléopâtre » ?",
+        "propositions": [
+          "Amonbofils",
+          "Malococsis",
+          "Numérobis",
+          "Cartapus"
+        ],
+        "réponse": "Numérobis",
+        "anecdote": "De nombreuses scènes du film font référence à des domaines, tels que le cinéma, la musique, la cuisine ou encore la peinture."
+      },
+      {
+        "id": 17,
+        "question": "Avec qui Michel Serrault partage-t-il la vedette dans « La Cage aux folles » ?",
+        "propositions": [
+          "Bourvil",
+          "Aldo Maccione",
+          "Ugo Tognazzi",
+          "Jean Lefebvre"
+        ],
+        "réponse": "Ugo Tognazzi",
+        "anecdote": "Pierre Mondy, la voix française d'Ugo Tognazzi dans le film, était un ami de Jean Poiret et de Michel Serrault."
+      },
+      {
+        "id": 18,
+        "question": "Combien de comédies Pierre Richard et Gérard Depardieu ont-ils jouées ensemble ?",
+        "propositions": [
+          "Quatre",
+          "Cinq",
+          "Trois",
+          "Six"
+        ],
+        "réponse": "Trois",
+        "anecdote": "Nous avons pu retrouver les deux comédiens dans les films suivants : « La Chèvre », « Les Compères » et « Les Fugitifs »."
+      },
+      {
+        "id": 19,
+        "question": "En quel héros se déguise Martin Lamotte dans « Papy fait de la résistance » ?",
+        "propositions": [
+          "Super-Français",
+          "Super-Résistant",
+          "Super-Batailleur",
+          "Super-DeGaulle"
+        ],
+        "réponse": "Super-Résistant",
+        "anecdote": "Super-Résistant, ou simplement « Super », est habillé d'un chapeau haut-de-forme, d'un masque, d'un smoking et d'une longue cape."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la profession de Christian Clavier dans « Les Anges Gardiens » ?",
+        "propositions": [
+          "Patron de cabaret",
+          "Proxénète",
+          "Prêtre",
+          "Postier"
+        ],
+        "réponse": "Prêtre",
+        "anecdote": "Réalisé par Jean-Marie Poiré, le film était lors de sa sortie en 1995 le film français réalisé avec le plus gros budget de l'année."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qui est devenu coiffeur hype à Los Angeles dans « Les Bronzés 3 » ?",
+        "propositions": [
+          "Jean-Claude",
+          "Popeye",
+          "Jerôme",
+          "Bernard"
+        ],
+        "réponse": "Jean-Claude",
+        "anecdote": "La troupe du Splendid devait à l'origine se retrouver autour du film « Astérix en Hispanie », mais le projet a été abandonné."
+      },
+      {
+        "id": 22,
+        "question": "Dans quoi Bourvil et de Funès s'échappent-ils à la fin de « La Grande Vadrouille » ?",
+        "propositions": [
+          "Voiture",
+          "Planeur",
+          "Bateau",
+          "Train"
+        ],
+        "réponse": "Planeur",
+        "anecdote": "Le film a demeuré pendant plus de trente ans le meilleur score du box-office français, toutes nationalités confondues."
+      },
+      {
+        "id": 23,
+        "question": "Lequel de ces acteurs ne retrouve-t-on pas dans « Le gendarme se marie » ?",
+        "propositions": [
+          "Nicole Vervil",
+          "Maurice Rich",
+          "Christian Marin",
+          "Jean Lefebvre"
+        ],
+        "réponse": "Maurice Rich",
+        "anecdote": "Le tournage du film fut marqué par la mort d'un cascadeur et par une longue grève déclenchée par les événements de Mai 68."
+      },
+      {
+        "id": 24,
+        "question": "Quel écrivain, dramaturge et cinéaste a réalisé « Le Schpountz » en 1938 ?",
+        "propositions": [
+          "Marcel Aboulker",
+          "Marcel Pagnol",
+          "Marcel Carné",
+          "Marcel Achard"
+        ],
+        "réponse": "Marcel Pagnol",
+        "anecdote": "Un remake a été réalisé en 1999 par Gérard Oury avec en tête d'affiche Smaïn, Sabine Azéma et Ticky Holgado."
+      },
+      {
+        "id": 25,
+        "question": "Quel personnage est joué par Lino Ventura dans « Les Tontons flingueurs » ?",
+        "propositions": [
+          "Francis",
+          "Fernand",
+          "Gustave",
+          "Raoul"
+        ],
+        "réponse": "Fernand",
+        "anecdote": "La réputation du film n'a fait que croître au fil des années, plusieurs de ses répliques étant passées dans la mémoire collective."
+      },
+      {
+        "id": 26,
+        "question": "Comment se nomme la célèbre attachée de presse de « La Cité de la peur » ?",
+        "propositions": [
+          "Edith Fané",
+          "Martine Alaplage",
+          "Elodie Pété",
+          "Odile Deray"
+        ],
+        "réponse": "Odile Deray",
+        "anecdote": "Dans le générique final, on trouve parmi les acteurs et équipes du film Batman, Bruce Wayne, Spiderman et Peter Parker."
+      },
+      {
+        "id": 27,
+        "question": "Quel âge a Tanguy dans le film réalisé en 2001 par Étienne Chatiliez ?",
+        "propositions": [
+          "32 ans",
+          "28 ans",
+          "30 ans",
+          "26 ans"
+        ],
+        "réponse": "28 ans",
+        "anecdote": "Tanguy est désormais utilisé dans le langage courant pour désigner un jeune adulte qui se complaît à vivre chez ses parents."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel quartier de Paris se déroulent les scènes de « La Vérité si je mens ! » ?",
+        "propositions": [
+          "Le Passage",
+          "Le Sentier",
+          "Le Marais",
+          "Le Chemin"
+        ],
+        "réponse": "Le Sentier",
+        "anecdote": "Le rôle d'Eddie fut d'abord proposé à Guillaume Depardieu (accidenté), Antoine de Caunes (déjà pris) et Albert Dupontel."
+      },
+      {
+        "id": 29,
+        "question": "Qui incarne la maîtresse névrosée de Thierry Lhermitte dans « Le Dîner de cons » ?",
+        "propositions": [
+          "A. Vandernoot",
+          "C. Frot",
+          "J. Balasko",
+          "A. Jaoui"
+        ],
+        "réponse": "A. Vandernoot",
+        "anecdote": "Le film, sortie ne 1998, dure environ une heure et vingt minutes, contre deux heures pour la pièce originale écrite en 1993."
+      },
+      {
+        "id": 30,
+        "question": "Qui est le père biologique du bébé dans « Trois hommes et un couffin » ?",
+        "propositions": [
+          "Roland Giraud",
+          "Michel Boujenah",
+          "André Dussollier",
+          "Jean-Pierre Bacri"
+        ],
+        "réponse": "André Dussollier",
+        "anecdote": "Fait remarquable, « Trois hommes et un couffin » a également fait carton plein dans le reste de l'Europe, et même aux États-Unis."
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "2 / 5",
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Pourquoi les ours polaires se couchent-ils dans la neige lorsqu'ils courent ?",
+        "propositions": [
+          "Se reposer",
+          "Se rafraîchir",
+          "Manger",
+          "Dormir"
+        ],
+        "réponse": "Se rafraîchir",
+        "anecdote": "Les ours polaires peuvent rapidement avoir trop chaud sous leur fourrure très épaisse et leur couche de graisse isolante."
+      },
+      {
+        "id": 2,
+        "question": "Quelle partie du corps permet aux hippocampes de nager ?",
+        "propositions": [
+          "Tête",
+          "Nageoire dorsale",
+          "Nageoire ventrale",
+          "Queue"
+        ],
+        "réponse": "Nageoire dorsale",
+        "anecdote": "Malgré qu'ils soient des poissons, les hippocampes ne nagent que très lentement en effectuant des mouvements onduleux."
+      },
+      {
+        "id": 3,
+        "question": "Pour quelle raison ne pouvons-nous pas entendre les cris de la chauve-souris ?",
+        "propositions": [
+          "Trop faible",
+          "Trop aigu",
+          "Trop grave",
+          "Trop fort"
+        ],
+        "réponse": "Trop aigu",
+        "anecdote": "Les chauves-souris émettent et reçoivent des ultrasons que notre oreille ne peut percevoir (max 20 000 hertz)."
+      },
+      {
+        "id": 4,
+        "question": "À quoi servait la coquille du tridacne géant dans de nombreuses églises ?",
+        "propositions": [
+          "Chandelier",
+          "Tronc",
+          "Bénitier",
+          "Corbeille à pain"
+        ],
+        "réponse": "Bénitier",
+        "anecdote": "Il y a 300 ans, les coquilles étaient considérées comme des objets précieux et servaient de bénitier à l'entrée des églises."
+      },
+      {
+        "id": 5,
+        "question": "Quelle lourde et pénible tâche incombe à la reine des fourmis ?",
+        "propositions": [
+          "Tuer les mâles",
+          "Chercher à manger",
+          "Pondre des oeufs",
+          "Défendre le nid"
+        ],
+        "réponse": "Pondre des oeufs",
+        "anecdote": "La reine est la seule fourmi du nid à pondre des oeufs qui sont en réalité des larves écloses dont naîtront les futures fourmis."
+      },
+      {
+        "id": 6,
+        "question": "Qu'est-ce que les coccinelles aiment tout particulièrement manger ?",
+        "propositions": [
+          "Éxcréments",
+          "Écorces",
+          "Pétales",
+          "Pucerons"
+        ],
+        "réponse": "Pucerons",
+        "anecdote": "Considérées comme animaux utiles, on élève les coccinelles puis on les utilise pour combattre écologiquement les parasites."
+      },
+      {
+        "id": 7,
+        "question": "Pour quelle raison les nécrophores se battent-ils entre eux ?",
+        "propositions": [
+          "Des cadavres",
+          "De l'or",
+          "Des femelles",
+          "Un territoire"
+        ],
+        "réponse": "Des cadavres",
+        "anecdote": "Un couple de nécrophores enterre un animal mort dans le sol et y pond ses oeufs dont les larves sont nourries."
+      },
+      {
+        "id": 8,
+        "question": "De quel type d'environnement un acarien a-t-il besoin pour vivre ?",
+        "propositions": [
+          "Humide",
+          "Sec",
+          "Gras",
+          "Ensoleillé"
+        ],
+        "réponse": "Humide",
+        "anecdote": "Sans les acariens, qui nichent dans nos matelas et les endroits humides, les forêts seraient submergées de feuilles mortes."
+      },
+      {
+        "id": 9,
+        "question": "Quelle partie du corps de la limace lui permet-elle de découper les plantes ?",
+        "propositions": [
+          "Palais",
+          "Dents",
+          "Langue",
+          "Bras"
+        ],
+        "réponse": "Langue",
+        "anecdote": "Telle une lime, la langue rêche de la limace râpe les plantes tendres en petits morceaux et dépouille ainsi les jeunes salades."
+      },
+      {
+        "id": 10,
+        "question": "Quelle partie du corps montre le loup le plus faible après une lutte pour la hiérarchie ?",
+        "propositions": [
+          "Sa queue",
+          "Sa langue",
+          "Son ventre",
+          "Ses dents"
+        ],
+        "réponse": "Son ventre",
+        "anecdote": "Le loup inférieur n'est ainsi pas blessé mais devra à l'avenir se soumettre au mâle dominant, selon leur hiérarchie prononcée."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle est la cause de mortalité la plus fréquente chez les éléphants en liberté ?",
+        "propositions": [
+          "Morsure de lion",
+          "Trompe cassée",
+          "Maladie",
+          "Usure des dents"
+        ],
+        "réponse": "Usure des dents",
+        "anecdote": "Lorsque la dernière molaire est usée par la mastication, l'éléphant ne peut plus se nourrir suffisamment et meurt tristement de faim."
+      },
+      {
+        "id": 12,
+        "question": "Grâce à quelle partie de son corps la taupe s'oriente-t-elle sous terre ?",
+        "propositions": [
+          "Vibrisses",
+          "Oreilles",
+          "Museau",
+          "Yeux"
+        ],
+        "réponse": "Vibrisses",
+        "anecdote": "Les taupes s'orientent presque exclusivement en utilisant une sorte de moustaches et tâtent leur nourriture de cette manière."
+      },
+      {
+        "id": 13,
+        "question": "À part le cheval, à quel autre animal le tapir est-il apparenté ?",
+        "propositions": [
+          "Rhinocéros",
+          "Hamster",
+          "Éléphant",
+          "Cochon"
+        ],
+        "réponse": "Rhinocéros",
+        "anecdote": "Les tapirs, de la famille des ongulés, utilisent leur trompe comme main et peuvent ainsi la rétracter lorsque celle-ci les gêne."
+      },
+      {
+        "id": 14,
+        "question": "Comment les mille-pattes se protègent-ils de leurs prédateurs ?",
+        "propositions": [
+          "En criant",
+          "En mordant",
+          "Par camouflage",
+          "Par leurs sécrétions"
+        ],
+        "réponse": "Par leurs sécrétions",
+        "anecdote": "En cas de danger, les mille-pattes émettent une substance rouge caustique à l'odeur nauséabonde via des glandes sur leurs anneaux."
+      },
+      {
+        "id": 15,
+        "question": "Quels animaux volent souvent aux hyènes la proie qu'elles ont chassée ?",
+        "propositions": [
+          "Buffles",
+          "Guépards",
+          "Lions",
+          "Gnous"
+        ],
+        "réponse": "Lions",
+        "anecdote": "Les hyènes chassent généralement en meute d'environ quarante individus des animaux tels que les zèbres ou les gnous."
+      },
+      {
+        "id": 16,
+        "question": "Combien pèse environ la plus petite espèce de musaraigne connue ?",
+        "propositions": [
+          "130 grammes",
+          "20 grammes",
+          "2 grammes",
+          "70 grammes"
+        ],
+        "réponse": "2 grammes",
+        "anecdote": "Notre musaraigne pygmée locale est, quant à elle, deux fois plus grande et plus lourde que ce pachyure étrusque."
+      },
+      {
+        "id": 17,
+        "question": "De quelle manière le lynx a-t-il l'habitude de marquer son territoire ?",
+        "propositions": [
+          "Souris mortes",
+          "Éraflures",
+          "Excréments",
+          "Poils"
+        ],
+        "réponse": "Éraflures",
+        "anecdote": "Outre des éraflures, les lynx utilisent parfois également leur urine comme marque odorante afin de délimiter leur domaine."
+      },
+      {
+        "id": 18,
+        "question": "Taillé pour la course, jusqu'à quelle vitesse un guépard peut-il courir ?",
+        "propositions": [
+          "120 km/h",
+          "60 km/h",
+          "150 km/h",
+          "90 km/h"
+        ],
+        "réponse": "120 km/h",
+        "anecdote": "Le plus rapide des animaux ne peut maintenir cette vitesse que sur quelques centaines de mètres, laissant une chance aux gazelles."
+      },
+      {
+        "id": 19,
+        "question": "Comment les cloportes se protègent-ils des attaques ?",
+        "propositions": [
+          "En s'enterrant",
+          "En s'enroulant",
+          "En s'envolant",
+          "En s'enfuyant"
+        ],
+        "réponse": "En s'enroulant",
+        "anecdote": "Le corps d'un cloporte, dans ce cas immobile, est composé de plusieurs anneaux solides qui rappellent une armure de chevalier."
+      },
+      {
+        "id": 20,
+        "question": "Quel animal est le plus grand ennemi connu de la buse variable ?",
+        "propositions": [
+          "Renard",
+          "Aigle",
+          "Ours brun",
+          "Homme"
+        ],
+        "réponse": "Homme",
+        "anecdote": "De nombreuses buses sont écrasées par l'homme lorsqu'elles tentent de récupérer des cadavres d'animaux sur les autoroutes."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Après combien de temps un bébé tigre reçoit-il de la viande pour la première fois ?",
+        "propositions": [
+          "Un mois",
+          "Six ans",
+          "Six mois",
+          "Un an"
+        ],
+        "réponse": "Six mois",
+        "anecdote": "Au cours des six premiers mois, les bébés tigres qui ne connaissent pas leur père sont allaités par leur mère."
+      },
+      {
+        "id": 22,
+        "question": "Combien de litres de lait une vache performante produit-elle chaque jour ?",
+        "propositions": [
+          "35 l",
+          "15 l",
+          "5 l",
+          "25 l"
+        ],
+        "réponse": "35 l",
+        "anecdote": "Ces vaches fortement exploitées souffrent le plus souvent d'une inflammation des pis et nécessitent beaucoup de médicaments."
+      },
+      {
+        "id": 23,
+        "question": "De quelle fonction vitale le fennec peut-il étonnamment se passer ?",
+        "propositions": [
+          "Voir",
+          "Dormir",
+          "Boire",
+          "Manger"
+        ],
+        "réponse": "Boire",
+        "anecdote": "Le liquide que le fennec absorbe grâce à son alimentation lui suffit et est donc admirablement adapté à la vie dans le désert."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le plus grand des aras parmi les perroquets connus à ce jour ?",
+        "propositions": [
+          "Chloroptère",
+          "Ararauna",
+          "Macao",
+          "Hyacinthe"
+        ],
+        "réponse": "Hyacinthe",
+        "anecdote": "Ce perroquet d'environ 150 cm, queue comprise, possède un plumage bleu clair uni et vit principalement en Bolivie et au Brésil."
+      },
+      {
+        "id": 25,
+        "question": "De manière générale, combien d'heures par jour un panda géant est-il occupé à manger ?",
+        "propositions": [
+          "Seize",
+          "Quatre",
+          "Huit",
+          "Douze"
+        ],
+        "réponse": "Seize",
+        "anecdote": "Le panda géant mange uniquement des jeunes pousses de bambou mais celles-ci ne sont toutefois pas très nourrissantes."
+      },
+      {
+        "id": 26,
+        "question": "Combien de temps un bébé morse est-il allaité par sa mère ?",
+        "propositions": [
+          "1 mois",
+          "1 an",
+          "18 mois",
+          "6 mois"
+        ],
+        "réponse": "18 mois",
+        "anecdote": "Après une période de 12 mois de gestation, le bébé morse pèse plus de 50 kg et sait déjà nager au bout de deux semaines seulement."
+      },
+      {
+        "id": 27,
+        "question": "Pour quelle raison les martres tuent-elles parfois les poules ?",
+        "propositions": [
+          "Sang",
+          "Cuisses",
+          "Foie",
+          "Pattes"
+        ],
+        "réponse": "Sang",
+        "anecdote": "Les martres boivent uniquement le sang et laissent le reste, préférant manger des lapins, des oeufs, des lézards ou des insectes."
+      },
+      {
+        "id": 28,
+        "question": "De quoi est constituée la sonnette du serpent à sonnette ?",
+        "propositions": [
+          "Pierres",
+          "Calcaire",
+          "Corne",
+          "Bois"
+        ],
+        "réponse": "Corne",
+        "anecdote": "Les six à dix anneaux de corne situés à l'extrémité de la queue du serpent à sonnette proviennent des mues précédentes."
+      },
+      {
+        "id": 29,
+        "question": "Durant quelle saison de l'année peut-on entendre le hibou crier ?",
+        "propositions": [
+          "Printemps",
+          "Automne",
+          "Hiver",
+          "Été"
+        ],
+        "réponse": "Printemps",
+        "anecdote": "Le hibou mâle crie en avril et en mai pour attirer l'attention d'une femelle qui restera alors toute sa vie fidèlement à ses côtés."
+      },
+      {
+        "id": 30,
+        "question": "De combien de piquants est composée la fourrure du hérisson mâle ?",
+        "propositions": [
+          "16 000",
+          "8 000",
+          "4 000",
+          "12 000"
+        ],
+        "réponse": "16 000",
+        "anecdote": "En cas de danger, le hérisson peut ainsi dresser ses nombreux piquants et s'enrouler sur lui-même pour se protéger des ennemis."
+      }
+    ]
+  }
+}

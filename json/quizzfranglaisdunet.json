@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "3 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Sur quel bouton d'une page web allez-vous cliquer pour télécharger un document ?",
+        "propositions": [
+          "Delete",
+          "Cancel",
+          "Download",
+          "Update"
+        ],
+        "réponse": "Download",
+        "anecdote": "L'utilisation d'un fichier téléchargé (soumis au droit d'auteur) peut être contrôlée par une gestion numérique des droits (DRM)."
+      },
+      {
+        "id": 2,
+        "question": "Que faites-vous si vous regardez vos vidéos familiale en ligne ?",
+        "propositions": [
+          "Hacking",
+          "Phishing",
+          "Streaming",
+          "Spamming"
+        ],
+        "réponse": "Streaming",
+        "anecdote": "Très utilisé sur Internet, le streaming permet la lecture d'un flux audio ou vidéo (vidéo à la demande) à mesure qu'il est diffusé."
+      },
+      {
+        "id": 3,
+        "question": "Comment facilement exprimer quelque chose que vous aimez sur Facebook ?",
+        "propositions": [
+          "Fake",
+          "Push",
+          "Like",
+          "Geek"
+        ],
+        "réponse": "Like",
+        "anecdote": "Ce bouton a souvent été comparé à un pixel espion, du fait du suivi de l'activité des utilisateurs, qui entraîne une publicité ciblée."
+      },
+      {
+        "id": 4,
+        "question": "Comment identifier une personne présente sur une photo sur le web ?",
+        "propositions": [
+          "Cloud",
+          "Tag",
+          "Rank",
+          "ActiveX"
+        ],
+        "réponse": "Tag",
+        "anecdote": "Les tags ne sont pas directement liés au web sémantique et peuvent ne pas avoir un effet positif sur l'émergence de celui-ci."
+      },
+      {
+        "id": 5,
+        "question": "Quel court message était à l'origine limité à 140 caractères ?",
+        "propositions": [
+          "Homepage",
+          "Blog",
+          "Applet",
+          "Tweet"
+        ],
+        "réponse": "Tweet",
+        "anecdote": "Pouvant être envoyés par SMS, alors limités à 160 caractères, Twitter conservait 20 caractères pour ajouter le nom d'utilisateur."
+      },
+      {
+        "id": 6,
+        "question": "Quel courrier indésirable est souvent effectué à des fins publicitaires ?",
+        "propositions": [
+          "Spam",
+          "Baud",
+          "Bump",
+          "Favicon"
+        ],
+        "réponse": "Spam",
+        "anecdote": "Le premier spam a été envoyé à environ 600 personnes le 3 mai 1978 par Gary Thuerk, marketeur travaillant à l'époque chez DEC."
+      },
+      {
+        "id": 7,
+        "question": "Quel consommable est utilisé par les imprimantes laser et les photocopieurs ?",
+        "propositions": [
+          "Modem",
+          "Toner",
+          "Ping",
+          "Nerd"
+        ],
+        "réponse": "Toner",
+        "anecdote": "Le toner est une poudre, constituée en majeure partie de particules ultrafine de matière plastique, de résine et de métaux."
+      },
+      {
+        "id": 8,
+        "question": "Quel logiciel est conçu pour consulter et afficher le World Wide Web ?",
+        "propositions": [
+          "Browser",
+          "Spider",
+          "Fork",
+          "Sandbox"
+        ],
+        "réponse": "Browser",
+        "anecdote": "Il existe de nombreux navigateurs web, pour tout matériel et pour différents systèmes (Linux, Windows, iOS et Android)."
+      },
+      {
+        "id": 9,
+        "question": "Quel terme synonyme de base de données est souvent utilisé sur le net ?",
+        "propositions": [
+          "APK",
+          "VM",
+          "ZIP",
+          "DB"
+        ],
+        "réponse": "DB",
+        "anecdote": "La base de données est au centre des dispositifs informatiques de collecte, mise en forme, stockage et utilisation d'informations."
+      },
+      {
+        "id": 10,
+        "question": "Sur Internet, quel marqueur est composé du signe typographique croisillon ?",
+        "propositions": [
+          "Asset",
+          "Counter",
+          "Hashtag",
+          "Backup"
+        ],
+        "réponse": "Hashtag",
+        "anecdote": "À la suite de sa croissance, le mot hashtag est désormais intégré au Petit Larousse depuis juin 2013 et au Petit Robert depuis mai 2014."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En transférant un e-mail à un ami via le web, à quoi procédez-vous ?",
+        "propositions": [
+          "Pawned",
+          "Audit",
+          "Buzz",
+          "Forward"
+        ],
+        "réponse": "Forward",
+        "anecdote": "Pour émettre ou recevoir des messages par e-mail, il faut disposer d'une adresse électronique et d'un client de messagerie."
+      },
+      {
+        "id": 12,
+        "question": "Quelle conversation téléphonique se fait à plusieurs, parfois sur le net ?",
+        "propositions": [
+          "Woot",
+          "Conf call",
+          "Adword",
+          "Backbone"
+        ],
+        "réponse": "Conf call",
+        "anecdote": "Mettre sur pied une réunion de travail téléphonique est souvent la solution idéale pour gagner du temps et de l'argent."
+      },
+      {
+        "id": 13,
+        "question": "Quel mot anglais signifie date butoir, date limite ou échéance ?",
+        "propositions": [
+          "Bitcoin",
+          "Deadline",
+          "Inbound",
+          "Imap"
+        ],
+        "réponse": "Deadline",
+        "anecdote": "Souvent utilisé en informatique, ce terme définit la date limite avant laquelle un logiciel ou un projet réseau doit être réalisé ou finalisé."
+      },
+      {
+        "id": 14,
+        "question": "Quel outil du web vous permet de suivre vos commandes en temps réel ?",
+        "propositions": [
+          "Permalink",
+          "Cookie",
+          "Tracking",
+          "Backlink"
+        ],
+        "réponse": "Tracking",
+        "anecdote": "Grâce à un numéro unique, vous pouvez suivre en temps réel l'envoi d'un colis destiné à transiter jusqu'à votre domicile."
+      },
+      {
+        "id": 15,
+        "question": "Quel virtuose du web arrive à surpasser la sécurité informatique mise en place ?",
+        "propositions": [
+          "Extranet",
+          "Hacker",
+          "Provider",
+          "Slider"
+        ],
+        "réponse": "Hacker",
+        "anecdote": "Les médias grand public utilisent à tort le terme hacker comme désignant quelqu'un opérant de façon illégale ou non éthique."
+      },
+      {
+        "id": 16,
+        "question": "Quel défaut de programme informatique peut être à l'origine d'un dysfonctionnement ?",
+        "propositions": [
+          "Blacklist",
+          "Bug",
+          "Alias",
+          "Java"
+        ],
+        "réponse": "Bug",
+        "anecdote": "La gravité peut aller de bénigne (défauts d'affichage mineurs) à majeure (crash système pouvant entraîner de graves accidents)."
+      },
+      {
+        "id": 17,
+        "question": "Quel pilote informatique vous permet d'interagir avec votre imprimante ?",
+        "propositions": [
+          "Login",
+          "Webinar",
+          "Pixel",
+          "Driver"
+        ],
+        "réponse": "Driver",
+        "anecdote": "De manière simpliste, un pilote d'imprimante (driver en anglais) est un logiciel qui explique à l'ordinateur comment utiliser l'imprimante."
+      },
+      {
+        "id": 18,
+        "question": "Quel petit dessin ou symbole prêt à l'emploi est téléchargeable sur le net ?",
+        "propositions": [
+          "Buzz",
+          "Clip art",
+          "Troll",
+          "Frame"
+        ],
+        "réponse": "Clip art",
+        "anecdote": "Les clip arts sont de différentes tailles et de différentes formes et se présentent généralement sous le format JPEG, GIF, SVG ou PNG."
+      },
+      {
+        "id": 19,
+        "question": "Quelle liste de morceaux compilés peut être désormais publiée sur le web ?",
+        "propositions": [
+          "Registrar",
+          "Facticiel",
+          "Query",
+          "Playlist"
+        ],
+        "réponse": "Playlist",
+        "anecdote": "Les morceaux peuvent être joués séquentiellement, dans un ordre aléatoire ou selon une logique choisie par celui qui l'a composée."
+      },
+      {
+        "id": 20,
+        "question": "Quelle discussion écrite peut être tenue sur le net entre des personnes proches ?",
+        "propositions": [
+          "Fold",
+          "Chat",
+          "Drop",
+          "Cron"
+        ],
+        "réponse": "Chat",
+        "anecdote": "Une discussion sur Internet ou via messagerie instantanée est également désignée par les termes clavardage ou causette."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel ordinateur de taille très réduite est aussi appelé ultraportable ?",
+        "propositions": [
+          "Notebook",
+          "Fork",
+          "Yandex",
+          "Shareware"
+        ],
+        "réponse": "Notebook",
+        "anecdote": "La taille des notebook est comprise entre celle des smartphones (format A6) et des ordinateurs portables (format A4 environ)."
+      },
+      {
+        "id": 22,
+        "question": "Quelle entreprise innovante possède un fort potentiel de croissance économique ?",
+        "propositions": [
+          "Startup",
+          "Flash",
+          "Snippet",
+          "Mashup"
+        ],
+        "réponse": "Startup",
+        "anecdote": "Ce terme peut être utilisé pour toutes les jeunes entreprises qui ont un potentiel de croissance rapide, quel que soit le secteur concerné."
+      },
+      {
+        "id": 23,
+        "question": "Quelle option vous permet de diffuser une vidéo internet sur une télévision ?",
+        "propositions": [
+          "Spoiler",
+          "Caster",
+          "Forwarder",
+          "Chater"
+        ],
+        "réponse": "Caster",
+        "anecdote": "Si votre TV est équipée d'un récepteur Chomecast, vous pouvez lire des vidéos locales de votre ordinateur directement sur votre TV."
+      },
+      {
+        "id": 24,
+        "question": "Quel moyen permet l'écoute immédiate d'émissions audio ou vidéo ?",
+        "propositions": [
+          "Hoax",
+          "Spoiler",
+          "Benchmark",
+          "Podcasting"
+        ],
+        "réponse": "Podcasting",
+        "anecdote": "Le podcasting trouve son origine dans l'avènement du Web 2.0 et dans le développement de technologies comme le RSS."
+      },
+      {
+        "id": 25,
+        "question": "Quel démarrage de PC comporte le chargement du programme initial ?",
+        "propositions": [
+          "Noob",
+          "Troll",
+          "Boot",
+          "Kick"
+        ],
+        "réponse": "Boot",
+        "anecdote": "Le démarrage à froid est obtenu en (r)allumant la machine, le démarrage à chaud en rechargeant le programme initial."
+      },
+      {
+        "id": 26,
+        "question": "Quel canular du net peut être créé notamment à des fins malveillantes ?",
+        "propositions": [
+          "Bounce",
+          "Artefact",
+          "Lan",
+          "Hoax"
+        ],
+        "réponse": "Hoax",
+        "anecdote": "Des sites internet comme HoaxBuster et Hoaxkiller luttent contre la propagation des canulars de plus en plus fréquents."
+      },
+      {
+        "id": 27,
+        "question": "Quel fraude du web a pour but de perpétrer une usurpation d'identité ?",
+        "propositions": [
+          "AdSense",
+          "Framework",
+          "Hackathon",
+          "Phishing"
+        ],
+        "réponse": "Phishing",
+        "anecdote": "La technique consiste à faire croire à la victime qu'elle s'adresse à un tiers de confiance afin de lui soutirer des renseignements."
+      },
+      {
+        "id": 28,
+        "question": "Quel test de charge pouvez-vous exécuter depuis certains sites web ?",
+        "propositions": [
+          "QuickTime",
+          "Baseline",
+          "Workflow",
+          "Benchmark"
+        ],
+        "réponse": "Benchmark",
+        "anecdote": "Ce test de charge permet de mesurer le dimensionnement des serveurs et de la bande passante nécessaire sur le réseau."
+      },
+      {
+        "id": 29,
+        "question": "Quel document ou texte sur le net dévoile tout ou une partie d'une intrigue ?",
+        "propositions": [
+          "Crawler",
+          "Spoiler",
+          "Referer",
+          "Drupal"
+        ],
+        "réponse": "Spoiler",
+        "anecdote": "De manière plus classique, le verbe anglais to spoil peut être usuellement remplacé par les verbes dévoiler ou divulguer."
+      },
+      {
+        "id": 30,
+        "question": "Quel ensemble de données dépasse les capacités humaines d'analyse ?",
+        "propositions": [
+          "Ranking",
+          "Big data",
+          "Firewall",
+          "Captcha"
+        ],
+        "réponse": "Big data",
+        "anecdote": "De nouveaux ordres de grandeur concernent la capture, le stockage, la recherche, le partage, l'analyse et la visualisation des données."
+      }
+    ]
+  }
+}

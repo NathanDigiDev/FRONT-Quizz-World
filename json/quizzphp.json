@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Sacha Restoueix",
+  "difficulté": "3 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Comment obtenir l'identifiant unique d'une session ?",
+        "propositions": [
+          "get_session()",
+          "session_id()",
+          "$_SESSION['ID']",
+          "$_SESSION['ID_PHP']"
+        ],
+        "réponse": "session_id()",
+        "anecdote": "session_id() retourne l'identifiant de session pour la session courante ou une chaîne vide, s'il n'y a pas de session courante (aucun identifiant de session n'existe). En cas d'échec, false est retourné."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le format par défaut de l'en-tête HTML ?",
+        "propositions": [
+          "W3C/html",
+          "text/html",
+          "html",
+          "html 4.01"
+        ],
+        "réponse": "text/html",
+        "anecdote": ""
+      },
+      {
+        "id": 3,
+        "question": "Comment se nomme le fichier de session qui contient toutes les variables de session ?",
+        "propositions": [
+          "PHPSESSID suivi de l'id",
+          "'sess_' suivi de l'id",
+          "'tmp_sess_' suivi de l'id",
+          "le nom correspond à l'id"
+        ],
+        "réponse": "'sess_' suivi de l'id",
+        "anecdote": "Ce fichier de session se trouve par défaut sur 'C:\\WINDOWS\\Temp'"
+      },
+      {
+        "id": 4,
+        "question": "Quelle directive de httpd.conf interdit de lister un dossier ?",
+        "propositions": [
+          "Directory -denied0",
+          "Options -indexes",
+          "Options none",
+          "Diretory disable"
+        ],
+        "réponse": "Options -indexes",
+        "anecdote": "Apache utilise le fichier 'httpd.conf' pour les paramètres globaux et le fichier '.htaccess' pour les paramètres d'accès par répertoire."
+      },
+      {
+        "id": 5,
+        "question": "Comment afficher la valeur du cookie 'ck1' ?",
+        "propositions": [
+          "print(COOKIE['ck1'])",
+          "print($_COOKIE['ck1'])",
+          "print(POST['ck1'])",
+          "print($_POST['ck1'])"
+        ],
+        "réponse": "print($_COOKIE['ck1'])",
+        "anecdote": "'$_COOKIE' est la variable superglobale de PHP"
+      },
+      {
+        "id": 6,
+        "question": "Comment ouvrir un fichier en lecture / écriture, et y placer le pointeur à la fin ?",
+        "propositions": [
+          "fopen('fichier.txt','w+')",
+          "write('fichier.txt','a')",
+          "write('fichier.txt','w+')",
+          "fopen('fichier.txt','a')"
+        ],
+        "réponse": "fopen('fichier.txt','a')",
+        "anecdote": "La fonction 'fopen()' ouvre un fichier ou une URL."
+      },
+      {
+        "id": 7,
+        "question": "Comment trouver une valeur dans un tableau ?",
+        "propositions": [
+          "instr()",
+          "faire une boucle",
+          "in_array()",
+          "find()"
+        ],
+        "réponse": "in_array()",
+        "anecdote": "Syntaxe : in_array(search, array, type), si type est à TRUE la recherche est sensible à la casse."
+      },
+      {
+        "id": 8,
+        "question": "floor(-3,56) affiche ?",
+        "propositions": [
+          "4",
+          "-4",
+          "-3",
+          "3"
+        ],
+        "réponse": "-4",
+        "anecdote": "La fonction 'floor()' arrondie les nombres à l'entier inférieur le plus proche"
+      },
+      {
+        "id": 9,
+        "question": "Comment trier un tableau ?",
+        "propositions": [
+          "orderby()",
+          "ascending()",
+          "asc()",
+          "sort()"
+        ],
+        "réponse": "sort()",
+        "anecdote": "La fonction 'sort()' trie un tableau indexé par ordre croissant"
+      },
+      {
+        "id": 10,
+        "question": "Comment instancier un objet à partir d'une classe ?",
+        "propositions": [
+          "construct()",
+          "implement()",
+          "new",
+          "->"
+        ],
+        "réponse": "new",
+        "anecdote": "Le mot clé 'new' est utilisé pour créer un objet à partir d'une classe."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Lequel de ces 'content-type' n'existe pas dans un header ?",
+        "propositions": [
+          "image/png",
+          "html/xml",
+          "text/csv",
+          "application/pdf"
+        ],
+        "réponse": "html/xml",
+        "anecdote": "https://developer.mozilla.org/fr/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types"
+      },
+      {
+        "id": 12,
+        "question": "reset()",
+        "propositions": [
+          "n'existe pas en php",
+          "sert à vider un tableau",
+          "libère les octets occupés par un tableau",
+          "place le pointeur au début du tableau"
+        ],
+        "réponse": "place le pointeur au début du tableau",
+        "anecdote": "Pour en savoir plus sur la fonction 'reset()' : https://www.w3schools.com/php/func_array_reset.asp"
+      },
+      {
+        "id": 13,
+        "question": "round(4,6) affiche ?",
+        "propositions": [
+          "4",
+          "Une erreur",
+          "4,7",
+          "5"
+        ],
+        "réponse": "5",
+        "anecdote": "Pour en savoir plus sur la fonction 'round()' : https://www.w3schools.com/php/func_math_round.asp"
+      },
+      {
+        "id": 14,
+        "question": "Que faut-il utiliser pour modifier l'en-tête d'une réponse HTTP ?",
+        "propositions": [
+          "header()",
+          "des balises <head> </head>",
+          "ce n'est pas possible",
+          "write_header()"
+        ],
+        "réponse": "header()",
+        "anecdote": "Il est important de noter que la fonction 'header()' doit être appelée avant que toute sortie réelle ne soit envoyée !"
+      },
+      {
+        "id": 15,
+        "question": "Comment appelle-t-on le fait d'utiliser une 'classe' pour créer un 'objet' ?",
+        "propositions": [
+          "surcharge",
+          "implémentation",
+          "instanciation",
+          "construction"
+        ],
+        "réponse": "instanciation",
+        "anecdote": ""
+      },
+      {
+        "id": 16,
+        "question": "Quelle est l'utilité de throw() en PHP Orienté Objet ?",
+        "propositions": [
+          "à interdire d'étendre la classe",
+          "à libérer de l'espace mémoire",
+          "à émettre une exception",
+          "sert de destructeur"
+        ],
+        "réponse": "à émettre une exception",
+        "anecdote": "Les exceptions sont un moyen de modifier le déroulement du programme en cas de situation inattendue, telle que des données non valides."
+      },
+      {
+        "id": 17,
+        "question": "Quel est l'inventeur du PHP ?",
+        "propositions": [
+          "Michael Widenius",
+          "Steve Wozniak",
+          "Rasmus Lerdorf",
+          "Linus Torvalds"
+        ],
+        "réponse": "Rasmus Lerdorf",
+        "anecdote": "Rasmus Lerdorf est né en 1968 et il est Canadien"
+      },
+      {
+        "id": 18,
+        "question": "A quoi sert la fonction copy() ?",
+        "propositions": [
+          "copier une variable",
+          "copier un fichier",
+          "copier un tableau",
+          "copier une chaine"
+        ],
+        "réponse": "copier un fichier",
+        "anecdote": "La fonction 'copy()' s'utilise de cette façon : copy('source.txt','target.txt');"
+      },
+      {
+        "id": 19,
+        "question": "Les fonctions MySQL améliorées 'mysqli' existent depuis ?",
+        "propositions": [
+          "PHP 6 et MySQL 5.1",
+          "PHP 4.2 et MySQL 4.1",
+          "PHP 5 et MySQL 5",
+          "PHP 5 et MySQL 4.1"
+        ],
+        "réponse": "PHP 5 et MySQL 4.1",
+        "anecdote": "Ces fonctions sont maintenant dépréciées au profit de PDO"
+      },
+      {
+        "id": 20,
+        "question": "Quelle fonction permet d'écrire dans un fichier ?",
+        "propositions": [
+          "write_file()",
+          "fwrite()",
+          "write()",
+          "put()"
+        ],
+        "réponse": "fwrite()",
+        "anecdote": "La fonction 'fwrite()' écrit dans un fichier ouvert."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Comment supprimer l'ensemble des variables d'une session ?",
+        "propositions": [
+          "session_stop()",
+          "session_unset()",
+          "unset($_SESSION[])",
+          "session_destroy()"
+        ],
+        "réponse": "session_destroy()",
+        "anecdote": "Si vous souhaitez supprimer une seule variable de session, vous pouvez utiliser la fonction 'unset()' ."
+      },
+      {
+        "id": 22,
+        "question": "session_start() crée un cookie nommé ?",
+        "propositions": [
+          "SESSION_PHP",
+          "PHPSESSID",
+          "SESSIONID",
+          "SESSION_INIT"
+        ],
+        "réponse": "PHPSESSID",
+        "anecdote": "PHP transmet automatiquement cet ID de page en page, en utilisant généralement un cookie."
+      },
+      {
+        "id": 23,
+        "question": "Comment récupérer la variable 'nom' transmise par un formulaire ?",
+        "propositions": [
+          "$GET['nom']",
+          "$_POST['nom']",
+          "$POST['nom']",
+          "GET['nom']"
+        ],
+        "réponse": "$_POST['nom']",
+        "anecdote": "Il faut impérativement qu'il y ait une balise HTML qui possède l'attribut name='nom' dans le formulaire."
+      },
+      {
+        "id": 24,
+        "question": "Que retourne urlencode($chaine) ?",
+        "propositions": [
+          "encode $chaine comme POST",
+          "'http://' suivi de $chaine",
+          "crypte $chaine",
+          "encode $chaine comme GET"
+        ],
+        "réponse": "encode $chaine comme GET",
+        "anecdote": "La fonction 'urlencode()' est utile lors de l'encodage d'une chaîne de caractères à utiliser dans la partie d'une URL, comme façon simple de passer des variables vers la page suivante."
+      },
+      {
+        "id": 25,
+        "question": "Quelle est la taille maximale d'un cookie ?",
+        "propositions": [
+          "512 Ko",
+          "4 Ko",
+          "2 Ko",
+          "1 Ko"
+        ],
+        "réponse": "4 Ko",
+        "anecdote": "Ne dépassez pas 50 cookies par nom de domaine"
+      },
+      {
+        "id": 26,
+        "question": "Quelle méthode est utilisée par défaut pour envoyer les données d'un formulaire ?",
+        "propositions": [
+          "SEND",
+          "SUBMIT",
+          "GET",
+          "POST"
+        ],
+        "réponse": "GET",
+        "anecdote": "Avec cette méthode, les données du formulaire seront encodées dans une URL."
+      },
+      {
+        "id": 27,
+        "question": "Quelle fonction crée un cookie ?",
+        "propositions": [
+          "set()",
+          "set_cookie()",
+          "setcookie()",
+          "cookie()"
+        ],
+        "réponse": "setcookie()",
+        "anecdote": "La fonction setcookie() définit un cookie à envoyer avec le reste des en-têtes HTTP."
+      },
+      {
+        "id": 28,
+        "question": "$a === $b signifie ?",
+        "propositions": [
+          "ce test n'existe pas",
+          "vrai si $a et $b sont de même type",
+          "est toujours vrai",
+          "vrai si $a = $b et si de même type"
+        ],
+        "réponse": "vrai si $a = $b et si de même type",
+        "anecdote": "Cet opérateur permet une comparaison beaucoup plus stricte entre les variables."
+      },
+      {
+        "id": 29,
+        "question": "preg_match('/^a/', 'abcdef') renvoie ?",
+        "propositions": [
+          "bcdef",
+          "1",
+          "0",
+          "une erreur"
+        ],
+        "réponse": "1",
+        "anecdote": "Pour en savoir plus sur la fonction 'preg_match()' : https://www.php.net/manual/fr/function.preg-match.php"
+      },
+      {
+        "id": 30,
+        "question": "Qu'est-ce que GD ?",
+        "propositions": [
+          "un ensemble de commandes SQLite",
+          "une bibliothèque graphique pour PHP",
+          "un compilateur PHP",
+          "une distribution PHP libre de droits"
+        ],
+        "réponse": "une bibliothèque graphique pour PHP",
+        "anecdote": "La librairie GD est une extension open source du langage PHP. Tout comme PDO pour les Bdd."
+      }
+    ]
+  }
+}

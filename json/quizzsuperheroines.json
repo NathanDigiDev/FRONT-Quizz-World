@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Super-héroïnes (Des femmes aux superpouvoirs)",
+  "difficulté": "4 / 5",
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui est la princesse Diana, issue d'une tribu d'Amazones ?",
+        "propositions": [
+          "Cipher",
+          "Mega Mindy",
+          "Wonder Woman",
+          "Gwen Tennyson"
+        ],
+        "réponse": "Wonder Woman",
+        "anecdote": "Le 4 décembre 2013, Gal Gadot fut choisie pour jouer le rôle de Wonder Woman et signa un contrat de trois films avec les studios Marvel."
+      },
+      {
+        "id": 2,
+        "question": "Quelle super-héroïne a le pouvoir de se téléporter sur de grandes distances ?",
+        "propositions": [
+          "Nocturne",
+          "Cléa",
+          "Blink",
+          "Thundra"
+        ],
+        "réponse": "Blink",
+        "anecdote": "La popularité de ce personnage alternatif, mort après un an, a entraîné le retour en 2009 de la version d'origine."
+      },
+      {
+        "id": 3,
+        "question": "Quelle super-héroïne peut bloquer les télépathes qui voudraient lire ses pensées ?",
+        "propositions": [
+          "Wonder Girl",
+          "Kamala Khan",
+          "Cipher",
+          "Andromeda"
+        ],
+        "réponse": "Cipher",
+        "anecdote": "Outre ses pouvoirs de blocage, Cipher est également capable de se rendre invisible et peut également piloter le X-Jet."
+      },
+      {
+        "id": 4,
+        "question": "Quelle hybride mystique peut naturellement flotter dans les airs ?",
+        "propositions": [
+          "Elsa Bloodstone",
+          "Tigra",
+          "Mega Mindy",
+          "Cléa"
+        ],
+        "réponse": "Cléa",
+        "anecdote": "Le personnage de Cléa a eu des adaptations dans les univers alternatifs suivants : Marvel 1602, Earth X, Ultimate Marvel et Marvel Apes."
+      },
+      {
+        "id": 5,
+        "question": "Dans la série télé 'Birds of Prey', qui est la fille de Batman ?",
+        "propositions": [
+          "Abigail Brand",
+          "Thundra",
+          "Huntress",
+          "Cassandra Cain "
+        ],
+        "réponse": "Huntress",
+        "anecdote": "Huntress et ses super-pouvoirs travaille avec la fille de Black Canary. Elles sont les principales combattantes du crime de Gotham City."
+      },
+      {
+        "id": 6,
+        "question": "Quelle super-héroïne possède une peau bleue couverte d'une fine fourrure ?",
+        "propositions": [
+          "Miss Hulk",
+          "Nocturne",
+          "Abigail Brand",
+          "Jessica Cruz"
+        ],
+        "réponse": "Nocturne",
+        "anecdote": "Outre sa physiologie, Nocturne possède le pouvoir d'entrer dans le corps d'une personne et de le contrôler pendant douze heures."
+      },
+      {
+        "id": 7,
+        "question": "Quelle mutante est également connue pour être la fille de Magnéto ?",
+        "propositions": [
+          "Polaris",
+          "Nocturne",
+          "Darna",
+          "Cipher"
+        ],
+        "réponse": "Polaris",
+        "anecdote": "Les pouvoirs mutants de Polaris lui permettent de détecter et de contrôler le magnétisme, y compris la manipulation de métaux."
+      },
+      {
+        "id": 8,
+        "question": "Quelle femme-chat possède une endurance et une agilité surhumaine ?",
+        "propositions": [
+          "Tigra",
+          "Jolt",
+          "Miss Hulk",
+          "Kamala Khan"
+        ],
+        "réponse": "Tigra",
+        "anecdote": "Son état de femme-chat rend l'esprit de Tigra plus difficile à contrôler pour quelqu'un possédant un pouvoir télépathique."
+      },
+      {
+        "id": 9,
+        "question": "Quel nom porte la version adolescente de Wonder Woman ?",
+        "propositions": [
+          "Cassandra Cain",
+          "Huntress",
+          "Darna",
+          "Wonder Girl"
+        ],
+        "réponse": "Wonder Girl",
+        "anecdote": "À l'origine, les scénaristes de la série animée 'Les Jeunes Titans' désiraient faire de Wonder Girl un personnage de l'équipe principale."
+      },
+      {
+        "id": 10,
+        "question": "Quelle Atlante de l'univers Marvel peut soulever jusqu'à quatorze tonnes à l'air ?",
+        "propositions": [
+          "Blink",
+          "Andromeda",
+          "Cipher",
+          "Huntress"
+        ],
+        "réponse": "Andromeda",
+        "anecdote": "Guerrière formidable, son arme de prédilection est le trident, mais elle connaît à la perfection toutes les techniques de combat atlantes."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qui a été la Batgirl de l'univers DC Comics de 1999 jusqu'en 2009 ?",
+        "propositions": [
+          "Barbara Gordon",
+          "Betty Kane",
+          "Helena Bertinelli",
+          "Cassandra Cain"
+        ],
+        "réponse": "Cassandra Cain",
+        "anecdote": "Américaine d'origine asiatique, fille de deux assassins, Cassandra Caïn a été élevée pour être le plus grand assassin du monde."
+      },
+      {
+        "id": 12,
+        "question": "Quelle femme peut survivre dans le froid glacial de l'espace sans combinaison ?",
+        "propositions": [
+          "Ganymède",
+          "Sif",
+          "Gwen Tennyson",
+          "Kamala Khan"
+        ],
+        "réponse": "Ganymède",
+        "anecdote": "Guerrière de premier ordre, elle utilise au combat un grand bâton avec lequel, en se concentrant, elle peut en émettre de puissantes rafales."
+      },
+      {
+        "id": 13,
+        "question": "Qui peut transformer son corps physique en électricité vivante ?",
+        "propositions": [
+          "Cybersix",
+          "Miss Hulk",
+          "Carol Danvers",
+          "Jolt"
+        ],
+        "réponse": "Jolt",
+        "anecdote": "À l'origine, Jolt possède une agilité hyperkinétique qui la dote d'une vitesse accélérée et d'une puissance de saut phénoménale."
+      },
+      {
+        "id": 14,
+        "question": "Quelle super-héroïne a subi une mutation par une transfusion sanguine ?",
+        "propositions": [
+          "Huntress",
+          "Miss Hulk",
+          "Thundra",
+          "Ganymède"
+        ],
+        "réponse": "Miss Hulk",
+        "anecdote": "Avec sa peau verte qui résiste aux balles et aux lasers, Miss Hulk se fatigue très peu et ne craint ni le froid, ni le feu, ni les maladies."
+      },
+      {
+        "id": 15,
+        "question": "Quelle femme afro-américaine a été bombardée d'énergie ?",
+        "propositions": [
+          "Mega Mindy",
+          "Gwen Tennyson",
+          "Huntress",
+          "Monica Rambeau"
+        ],
+        "réponse": "Monica Rambeau",
+        "anecdote": "Plus connue sous le nom de Captain Marvel, elle a aussi été surnommée Photon et Pulsar et, depuis 2013, Spectrum."
+      },
+      {
+        "id": 16,
+        "question": "Qui est devenue en 2012 l'héroïne principale de 'Journey into Mystery' ?",
+        "propositions": [
+          "Sif",
+          "Kamala Khan",
+          "Jessica Cruz",
+          "Cléa"
+        ],
+        "réponse": "Sif",
+        "anecdote": "Sif possède les caractéristiques des asgardiens : une résistance, une force et une endurance supérieures aux êtres humains."
+      },
+      {
+        "id": 17,
+        "question": "Quel surnom est donné à Suzanna Sherman, super-héroïne Marvel ?",
+        "propositions": [
+          "Cléa",
+          "Ultra Girl",
+          "Polaris",
+          "Abigail Brand"
+        ],
+        "réponse": "Ultra Girl",
+        "anecdote": "Pouvant voler et atteindre la vitesse du son, la vision d'Ultra Girl perçoit différents spectres, comme l'infrarouge et l'ultraviolet."
+      },
+      {
+        "id": 18,
+        "question": "Qui a adopté le nom de Karen Starr en arrivant sur Terre ?",
+        "propositions": [
+          "Thundra",
+          "Ganymède",
+          "Power Girl",
+          "Blink"
+        ],
+        "réponse": "Power Girl",
+        "anecdote": "Tout comme son cousin Superman, Power Girl (de son vrai nom Kara Zor-EL) a échappé à la destruction de Krypton."
+      },
+      {
+        "id": 19,
+        "question": "Qui tire ses pouvoirs de la gemme de son père attachée à son cou ?",
+        "propositions": [
+          "Blink",
+          "Cipher",
+          "Ganymède",
+          "Elsa Bloodstone"
+        ],
+        "réponse": "Elsa Bloodstone",
+        "anecdote": "Soixante kilos, yeux bleus, cheveux blonds, la belle et farouche Elsa est la fille du fameux chasseur de monstre Ulysses Bloodstone."
+      },
+      {
+        "id": 20,
+        "question": "Quelle super-héroïne peut générer de la chaleur par ses mains ?",
+        "propositions": [
+          "Jessica Cruz",
+          "Thundra",
+          "Huntress",
+          "Abigail Brand"
+        ],
+        "réponse": "Abigail Brand",
+        "anecdote": "Abigail Brand, également agent d'élite du SHIELD, est rompue au corps à corps et experte dans le maniement des armes à feu."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle femme artificielle s'est enfuie enfant pour échapper à son créateur ?",
+        "propositions": [
+          "Ultra Girl",
+          "Gwen Tennyson",
+          "Jolt",
+          "Cybersix"
+        ],
+        "réponse": "Cybersix",
+        "anecdote": "Cybersix s'est réfugiée dans une cité glauque, Méridiana, où elle a grandi sous l'identité d'un garçon décédé : Adrian Seidelman."
+      },
+      {
+        "id": 22,
+        "question": "Quelle ancienne pilote de l'US Air Force est devenue agent de renseignement ?",
+        "propositions": [
+          "Carol Danvers",
+          "Ultra Girl",
+          "Blink",
+          "Nocturne"
+        ],
+        "réponse": "Carol Danvers",
+        "anecdote": "Carol Danvers peut puiser dans l'énergie d'un trou blanc et contrôler l'énergie électromagnétique, la chaleur ambiante et la gravité."
+      },
+      {
+        "id": 23,
+        "question": "Quelle super-héroïne peut construire tout ce que son esprit désire ?",
+        "propositions": [
+          "Cipher",
+          "Darna",
+          "Cléa",
+          "Jessica Cruz"
+        ],
+        "réponse": "Jessica Cruz",
+        "anecdote": "Membre des Green Lantern, Jessica peut voyager dans le temps grâce à son anneau, une particularité qu'elle a hérité de Volthoom."
+      },
+      {
+        "id": 24,
+        "question": "Quelle super-héroïne belge est interprétée par Free Souffriau ?",
+        "propositions": [
+          "Sif",
+          "Gwen Tennyson",
+          "Blink",
+          "Mega Mindy"
+        ],
+        "réponse": "Mega Mindy",
+        "anecdote": "Mega Mindy est le personnage principal et le nom d'une série télévisée  flamande destinée aux enfants, produite par le Studio 100."
+      },
+      {
+        "id": 25,
+        "question": "Quelle super-héroïne de l'âge d'or des comics est apparue au grand public en août 1941 ?",
+        "propositions": [
+          "Cybersix",
+          "Cassandra Cain",
+          "Ganymède",
+          "Phantom Lady"
+        ],
+        "réponse": "Phantom Lady",
+        "anecdote": "Plusieurs personnages de fiction ont porté le costume de la Phantom Lady, Sandra Knight étant la Phantom Lady d'origine."
+      },
+      {
+        "id": 26,
+        "question": "Quelle super-héroïne rousse est un stéréotype de la super-garce ?",
+        "propositions": [
+          "Ganymède",
+          "Wonder Girl",
+          "Thundra",
+          "Blink"
+        ],
+        "réponse": "Thundra",
+        "anecdote": "Comme Mantis, Power Girl et d'autres super-héroïnes libérées ont fait suite au mouvement de libération des femmes des années 1960."
+      },
+      {
+        "id": 27,
+        "question": "Quel nom portait Sharon Ventura avant de s'appeler Miss Chose ?",
+        "propositions": [
+          "Miss Marvel",
+          "Carol Danvers",
+          "Miss Hulk",
+          "Cléa"
+        ],
+        "réponse": "Miss Marvel",
+        "anecdote": "À la suite d'une mutation due à des rayonnements cosmiques, elle prit la même apparence que La Chose et fut surnommée Miss Chose."
+      },
+      {
+        "id": 28,
+        "question": "Quelle adolescente vivant à Jersey City a des parents pakistanais ?",
+        "propositions": [
+          "Cléa",
+          "Cassandra Cain",
+          "Ganymède",
+          "Kamala Khan"
+        ],
+        "réponse": "Kamala Khan",
+        "anecdote": "La jeune Kamala Khan est un des rares personnages de comics musulmans à être représenté de manière positive, avec Dust et M."
+      },
+      {
+        "id": 29,
+        "question": "Quelle gymnaste accomplie fait partie de l'univers Ben 10 ?",
+        "propositions": [
+          "Darna",
+          "Sif",
+          "Polaris",
+          "Gwen Tennyson"
+        ],
+        "réponse": "Gwen Tennyson",
+        "anecdote": "Elle possède ses propres adversaires, qui lui sont davantage opposés qu'aux autres : Hex et l'Enchanteresse."
+      },
+      {
+        "id": 30,
+        "question": "Quelle super-héroïne de Mars Ravelo s'appelait autrefois Varga ?",
+        "propositions": [
+          "Polaris",
+          "Cybersix",
+          "Darna",
+          "Carol Danvers"
+        ],
+        "réponse": "Darna",
+        "anecdote": "La série a connu de nombreuses adaptations dans son pays, en série d'animation comme sous forme de séries TV et films live."
+      }
+    ]
+  }
+}

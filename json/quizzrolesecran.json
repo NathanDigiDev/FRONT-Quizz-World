@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Alexandre Verfaillie",
+  "difficulté": "4 / 5",
+  "version": 1,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui est le patron d'une usine de fabrication de bateaux dans « Le Petit Baigneur » ?",
+        "propositions": [
+          "Bouvet",
+          "Pasquier",
+          "Fourchaume",
+          "Pivert"
+        ],
+        "réponse": "Fourchaume",
+        "anecdote": "Pierre Dac prononcera un discours de son style lors de l'inauguration de L'Increvable en y ajoutant une réplique improvisée."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le rôle de Jean Benguigui dans « Astérix et Obélix : Mission Cléopâtre » ?",
+        "propositions": [
+          "Malococsis",
+          "Itineris",
+          "Partutatis",
+          "Cartapus"
+        ],
+        "réponse": "Malococsis",
+        "anecdote": "Pierre Tchernia, narrateur dans plusieurs dessins animés de la franchise « Astérix », est également narrateur dans le film."
+      },
+      {
+        "id": 3,
+        "question": "Comment se nomme le grand chef cuisinier dans le film « Le Grand Restaurant » ?",
+        "propositions": [
+          "M. Septime",
+          "M. Neuvime",
+          "M. Huitime",
+          "M. Dixime"
+        ],
+        "réponse": "M. Septime",
+        "anecdote": "« Le Grand Restaurant » sera le premier film pour lequel Louis de Funès participera directement à l'écriture du scénario."
+      },
+      {
+        "id": 4,
+        "question": "Quels sont les prénoms des deux enfants de Morticia et Gomez ?",
+        "propositions": [
+          "Vendredi et Shirley",
+          "Samedi et Wesley",
+          "Mercredi et Bugsley",
+          "Jeudi et Charley"
+        ],
+        "réponse": "Mercredi et Bugsley",
+        "anecdote": "« La Famille Addams » est une série de Charles Addams qui donna naissance à quatre films, six séries et plusieurs jeux."
+      },
+      {
+        "id": 5,
+        "question": "Quel personnage chante pendant la nuit dans « Les bronzés font du ski » ?",
+        "propositions": [
+          "Jérôme Tarayre",
+          "Nathalie Morin",
+          "Jean-Claude Dusse",
+          "Gisèle André"
+        ],
+        "réponse": "Jean-Claude Dusse",
+        "anecdote": "Le film trouvera son public au fil des diffusions à la télévision, faisant d'excellentes audiences, notamment en décembre 2008."
+      },
+      {
+        "id": 6,
+        "question": "Si Monsieur Pignon est le gentil, alors, qui est le méchant ?",
+        "propositions": [
+          "Monsieur Cordier",
+          "Monsieur Brochand",
+          "Monsieur Leblanc",
+          "Monsieur Cheval"
+        ],
+        "réponse": "Monsieur Brochand",
+        "anecdote": "Jacques Villeret recevra pour ce film le César du meilleur acteur et Daniel Prévost celui du meilleur acteur dans un second rôle."
+      },
+      {
+        "id": 7,
+        "question": "Selon Steven Spielberg, quel soldat fut sauvé lors du débarquement allié en 1944 ?",
+        "propositions": [
+          "Evan",
+          "Bryan",
+          "Yvan",
+          "Ryan"
+        ],
+        "réponse": "Ryan",
+        "anecdote": "Pour le rôle principal du capitaine Miller, les producteurs avaient initialement envisagé les acteurs Harrison Ford ou Mel Gibson."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le prénom du brocanteur interprété par Victor Lanoux ?",
+        "propositions": [
+          "Paul",
+          "Victor",
+          "Louis",
+          "Charles"
+        ],
+        "réponse": "Louis",
+        "anecdote": "En 2009, en plus de son AVC et de la mort de certains amis, Victor Lanoux, l'acteur principal de la série, déclarera arrêter la série."
+      },
+      {
+        "id": 9,
+        "question": "Quel inspecteur a plusieurs fois été interprété par Clint Eastwood ?",
+        "propositions": [
+          "Harry Callahan",
+          "Gil Grissom",
+          "John McClane",
+          "Axel Folley"
+        ],
+        "réponse": "Harry Callahan",
+        "anecdote": "Harry Callahan est un personnage taciturne dont les méthodes de travail sont aussi efficaces que contestables, avec son Magnum 44."
+      },
+      {
+        "id": 10,
+        "question": "Quelle Mrs. s'est déguisée afin de voir ses enfants pendant leur garde alternée ?",
+        "propositions": [
+          "Poppins",
+          "Doubtfire",
+          "Olivia",
+          "Moneypenny"
+        ],
+        "réponse": "Doubtfire",
+        "anecdote": "Une pièce de théâtre écrite par Albert Algoud et mise en scène par Daniel Roussel est sortie en 2003, avec Michel Leeb."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel est le surnom de Marie-France Pisier dans « L'As des as » ?",
+        "propositions": [
+          "Suzy",
+          "Cathy",
+          "Gaby",
+          "Nelly"
+        ],
+        "réponse": "Gaby",
+        "anecdote": "C'est en 1980 que Gérard Oury soumettra à Jean-Paul Belmondo l'idée d'une comédie autour de la boxe au temps du nazisme."
+      },
+      {
+        "id": 12,
+        "question": "Quel est le prénom de Bourvil dans la pièce de théâtre « La Bonne Planque » ?",
+        "propositions": [
+          "Alexandre",
+          "Antoine",
+          "Arsène",
+          "Anatole"
+        ],
+        "réponse": "Antoine",
+        "anecdote": "Enregistrée pour la télévision belge au théâtre du Vaudeville de Bruxelles en 1964, la pièce fut diffusée le 31 décembre 1964."
+      },
+      {
+        "id": 13,
+        "question": "Quelle jeune juive est poursuivie par Hans Landa dans « Inglorious Basterds » ?",
+        "propositions": [
+          "Shosanna",
+          "Suzanne",
+          "Julie",
+          "Charlotte"
+        ],
+        "réponse": "Shosanna",
+        "anecdote": "Le titre du film est un hommage au titre anglophone d'« Une poignée de salopards » (1978), réalisé par Enzo G. Castellari."
+      },
+      {
+        "id": 14,
+        "question": "Quel inspecteur de police devient RoboCop dans une société futuriste ?",
+        "propositions": [
+          "Murphy",
+          "Lewis",
+          "Allen",
+          "Smith"
+        ],
+        "réponse": "Murphy",
+        "anecdote": "L'idée de RoboCop est venue à Edward Neumeier après qu'il a participé au tournage de « Blade Runner » (1982) de Ridley Scott."
+      },
+      {
+        "id": 15,
+        "question": "Quel célèbre aventurier fut interprété par Harrisson Ford dans la saga « Indiana Jones » ?",
+        "propositions": [
+          "Dany Jones Junior",
+          "Henri Jones Junior",
+          "Jerry Jones Junior",
+          "Harry Jones Junior"
+        ],
+        "réponse": "Henri Jones Junior",
+        "anecdote": "Le personnage serait inspiré de celui d'Hiram Bingham, un archéologue américain découvreur du Machu Picchu au Pérou."
+      },
+      {
+        "id": 16,
+        "question": "Dans quel film Steven Hiller sauve-t-il le monde d'une invasion extraterrestre ?",
+        "propositions": [
+          "Mars Attack",
+          "Armageddon",
+          "Invasion",
+          "Independance day"
+        ],
+        "réponse": "Independance day",
+        "anecdote": "Jada Pinkett, épouse de Will Smith, devait incarner Jasmine Dubrow, mais dut y renoncer puisqu'elle jouait dans « Le Professeur foldingue »."
+      },
+      {
+        "id": 17,
+        "question": "Lequel de ces gradés est encerclé avec ses hommes dans la forêt de Machecoul ?",
+        "propositions": [
+          "Capitaine Durond",
+          "Capitaine Dumont",
+          "Capitaine Dusson",
+          "Capitaine Dupont"
+        ],
+        "réponse": "Capitaine Dumont",
+        "anecdote": "Robert Lamoureux a écrit son film en se basant sur une partie de son histoire personnelle vécue pendant la débâcle de juin 1940."
+      },
+      {
+        "id": 18,
+        "question": "Qui a malencontreusement dû dégommer du méchant dans un piège de cristal ?",
+        "propositions": [
+          "John Doe",
+          "John Rambo",
+          "John McClane",
+          "John Wick"
+        ],
+        "réponse": "John McClane",
+        "anecdote": "À l'étranger, le recueil de critiques Rotten Tomatoes rapporte que 93 % des 76 critiques ont donné un avis positif au film."
+      },
+      {
+        "id": 19,
+        "question": "Quel célèbre flic de Beverly Hills donne des repas gratuits à des inspecteurs planqués ?",
+        "propositions": [
+          "Alex Foley",
+          "Axel Foley",
+          "Dany Brandt",
+          "Jerry Grant"
+        ],
+        "réponse": "Axel Foley",
+        "anecdote": "Harold Faltermeyer composera le célèbre thème « Axel F » avec trois synthés : Roland Jupiter-8, Roland JX-3P et Yamaha DX-7."
+      },
+      {
+        "id": 20,
+        "question": "Qui est mandaté par le Vatican pour élucider les mystères de Da Vinci Code ?",
+        "propositions": [
+          "John Langbert",
+          "Robert Langdon",
+          "Lambert Johnson",
+          "Norbert Langfon"
+        ],
+        "réponse": "Robert Langdon",
+        "anecdote": "Pour certaines scènes, le ministère français de la Culture a accepté que le tournage se déroule de nuit à l'intérieur du Louvre."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel brocanteur a envie d'acheter un Modigliani tatoué sur une peau humaine ?",
+        "propositions": [
+          "Félicien Mazeret",
+          "Félicien Villeret",
+          "Félicien Mézeray",
+          "Félicien Mazelaid"
+        ],
+        "réponse": "Félicien Mézeray",
+        "anecdote": "La rémunération des deux vedettes diffère : Jean Gabin a un cachet de 100 millions d'anciens francs, contre 150 pour Louis de Funès."
+      },
+      {
+        "id": 22,
+        "question": "Quelle cheffe de la résistance est interprétée par Marion Cotillard dans « Alliés » ?",
+        "propositions": [
+          "M. Beautalon",
+          "M. Bellescale",
+          "M. Beauvoyage",
+          "M. Beauséjour"
+        ],
+        "réponse": "M. Beauséjour",
+        "anecdote": "Brad Pitt a suggéré que les scènes soient tournées dans l'ordre chronologique de l'intrigue, chose plutôt rare dans cette industrie."
+      },
+      {
+        "id": 23,
+        "question": "Quel est le nom de famille de la femme de ménage dans le film « Le Magnifique » ?",
+        "propositions": [
+          "Mouton",
+          "Bouviers",
+          "Lagneau",
+          "Berger"
+        ],
+        "réponse": "Berger",
+        "anecdote": "Le film « Le Magnifique » présente une particularité : aucun scénariste n'est mentionné, ni au générique de début ni dans celui de fin."
+      },
+      {
+        "id": 24,
+        "question": "Qui est le directeur du journal « Demain ne meurt jamais » dans un James Bond ?",
+        "propositions": [
+          "Henry Gupta",
+          "Elliot Carver",
+          "M. Stamper",
+          "Dr Kaufman"
+        ],
+        "réponse": "Elliot Carver",
+        "anecdote": "Ce film est dédié à Albert R. Broccoli, producteur des seize premiers James Bond (bien que son nom soit mentionné dans « GoldenEye »)."
+      },
+      {
+        "id": 25,
+        "question": "Quel personnage possède un animal de compagnie appelé Touffu ?",
+        "propositions": [
+          "Tchikita",
+          "Artaban",
+          "Hagrid",
+          "Carlos"
+        ],
+        "réponse": "Hagrid",
+        "anecdote": "Hagrid, de la saga « Harry Potter », vit dans une cabane construite à sa mesure dans le parc de Poudlard, en bordure de la forêt interdite."
+      },
+      {
+        "id": 26,
+        "question": "Qui est le sabotier dans le film français « La Soupe aux choux » ?",
+        "propositions": [
+          "Francis Chérasse",
+          "Robert Lamouette",
+          "Claude Ratinier",
+          "Max Poulangeard"
+        ],
+        "réponse": "Claude Ratinier",
+        "anecdote": "Dans « La Soupe aux choux », Jacques Villeret incarne l'extraterrestre venu de la planète Oxo et surnommé la Denrée par le Glaude."
+      },
+      {
+        "id": 27,
+        "question": "Quel détective privé doit retrouver la fille de Monsieur Bens, disparue au Mexique ?",
+        "propositions": [
+          "Campana",
+          "Meyer",
+          "Perrin",
+          "Fernando"
+        ],
+        "réponse": "Campana",
+        "anecdote": "Les rôles de Campana et de Perrin devaient à l'origine être tenus par Lino Ventura et Jacques Villeret, en désaccord sur leurs cachets."
+      },
+      {
+        "id": 28,
+        "question": "Quelle commissaire de fiction a deux enfants prénommés Babou et Sarah ?",
+        "propositions": [
+          "Julie Lescaut",
+          "Isabelle Florent",
+          "Alice Nevers",
+          "Candice Renoir"
+        ],
+        "réponse": "Julie Lescaut",
+        "anecdote": "« Julie Lescaut » est une série télévisée policière française en 101 épisodes de 90 minutes, créée par Alexis Lecaye en 1991."
+      },
+      {
+        "id": 29,
+        "question": "Quel chien discute avec l'agent J aux côtés de l'agent K et de l'agent L ?",
+        "propositions": [
+          "Paul",
+          "Karl",
+          "Mitch",
+          "Frank"
+        ],
+        "réponse": "Frank",
+        "anecdote": "Le rôle de K a été proposé à Clint Eastwood, qui a refusé. Will Smith a quant à lui failli refuser le rôle de J, après avoir lu le script."
+      },
+      {
+        "id": 30,
+        "question": "Comment est surnommé Robert Lespinasse dans une célèbre comédie française ?",
+        "propositions": [
+          "Bob l'éponge",
+          "Popeye",
+          "Pinnochio",
+          "Mickey"
+        ],
+        "réponse": "Popeye",
+        "anecdote": "« Les Bronzés » est un film français écrit et interprété par la troupe du Splendid, réalisé par Patrice Leconte et sorti le 22 novembre 1978."
+      }
+    ]
+  }
+}
